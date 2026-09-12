@@ -29,9 +29,15 @@ def collect():
 
     try:
         resp = requests.get(URL, params=params, headers=headers, timeout=20)
+        print(f"[tiktok] HTTP status: {resp.status_code}")
         resp.raise_for_status()
         payload = resp.json()
-        for h in payload.get("data", {}).get("list", []):
+        print(f"[tiktok] response keys: {list(payload.keys())}")
+        hashtag_list = payload.get("data", {}).get("list", [])
+        print(f"[tiktok] raw hashtag count in response: {len(hashtag_list)}")
+        if not hashtag_list:
+            print(f"[tiktok] full response (truncated): {json.dumps(payload)[:500]}")
+        for h in hashtag_list:
             items.append({
                 "source": "tiktok_trending_hashtags_eg",
                 "hashtag": h.get("hashtag_name"),
