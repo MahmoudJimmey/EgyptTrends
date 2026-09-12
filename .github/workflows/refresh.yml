@@ -1,0 +1,44 @@
+name: Refresh Egypt Trends
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # every 6 hours
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Write Google service account key to file
+        run: echo '${{ secrets.GOOGLE_SHEETS_CREDENTIALS_JSON }}' > service_account.json
+
+      - name: Run collectors
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: "egypt-trends-dashboard/0.1"
+          GOOGLE_SHEETS_CREDENTIALS_FILE: service_account.json
+          SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
+        run: python aggregate.py
+
+      - name: Remove service account key
+        if: always()
+        run: rm -f service_account.json
+
+      - name: Commit updated data
+        run: |
+          git config --global user.name "trends-bot"
+          git config --global user.email "trends-bot@users.noreply.github.com"
+          git add data/latest.json data/history.jsonl
+          git commit -m "Auto refresh trends $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git push
