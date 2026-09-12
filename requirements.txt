@@ -1,0 +1,7 @@
+pytrends==4.9.2
+requests==2.32.3
+praw==7.7.1
+pandas==2.2.2
+streamlit==1.38.0
+gspread==6.1.2
+google-auth==2.34.0
