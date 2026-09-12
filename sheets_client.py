@@ -19,7 +19,7 @@ SCOPES = [
 ]
 
 HEADER_BY_PLATFORM = {
-    "google_trends": ["collected_at", "source", "term", "related"],
+    "google_trends": ["collected_at", "source", "term", "traffic"],
     "youtube": ["collected_at", "source", "title", "channel", "views", "likes", "comments", "url"],
     "reddit": ["collected_at", "source", "title", "score", "num_comments", "url"],
     "tiktok": ["collected_at", "source", "hashtag", "posts", "rank"],
