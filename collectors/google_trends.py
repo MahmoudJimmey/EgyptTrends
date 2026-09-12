@@ -8,7 +8,7 @@ from pytrends.request import TrendReq
 
 
 def collect():
-    pytrends = TrendReq(hl="en-US", tz=120)  # tz=120 -> Egypt (UTC+2), adjust for DST if needed
+    pytrends = TrendReq(hl="en-US", tz=120, timeout=(5, 15), retries=0, backoff_factor=0)
     results = []
 
     try:
