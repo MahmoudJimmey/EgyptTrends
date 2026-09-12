@@ -1,7 +1,7 @@
-trendspyg==1.7.0
-requests==2.32.3
-praw==7.7.1
-pandas==2.2.2
-streamlit==1.38.0
-gspread==6.1.2
-google-auth==2.34.0
+trendspyg>=1.7.0
+requests>=2.32.3
+praw>=7.7.1
+pandas>=2.2.3
+streamlit>=1.38.0
+gspread>=6.1.2
+google-auth>=2.34.0
