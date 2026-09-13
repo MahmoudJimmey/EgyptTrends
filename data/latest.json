@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-09-12T20:23:18.748143+00:00",
+  "generated_at": "2026-09-13T04:09:32.770901+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-12T20:23:19.277119+00:00",
+      "collected_at": "2026-09-13T04:09:33.323185+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "لا ليغا",
+          "term": "موعد الشروق",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الشروق",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "آيفون 18 برو ماكس",
+          "term": "لجين خليفة",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "la liga",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "real madrid cf",
+          "term": "حاتم صلاح",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "arsenal",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "auxerre vs nice",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "كأس الكونفيدرالية الإفريقية",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "رأس السنة",
+          "term": "الحوثيين",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "tottenham vs everton f.c. standings",
-          "traffic": "5000+"
+          "term": "بالميراس ضد ساو باولو",
+          "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مروان عطية",
+          "term": "inter miami vs nashville",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "إنتر ميامي ضد ناشفيل",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ufc",
           "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "أحمد موسى",
+          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-12T20:23:19.493208+00:00",
+      "collected_at": "2026-09-13T04:09:33.506086+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "طب ب بحبك ( العيون الحلوه دي - مش لاقي حاجه ف الوجود ) - حمو المرشدي - توزيع: وزه منتصر",
           "channel": "Hamo ELMorshdy - حمو المرشدي",
           "category_id": "10",
-          "views": "511689",
-          "likes": "20096",
-          "comments": "1371",
+          "views": "683589",
+          "likes": "22922",
+          "comments": "1513",
           "published_at": "2026-09-11T18:30:38Z",
           "url": "https://www.youtube.com/watch?v=BiUGXFnDnXc"
         },
@@ -77,31 +77,31 @@
           "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
           "channel": "PlayOverwatch",
           "category_id": "20",
-          "views": "199700",
-          "likes": "26808",
-          "comments": "2032",
+          "views": "1086401",
+          "likes": "46964",
+          "comments": "3356",
           "published_at": "2026-09-12T17:58:03Z",
           "url": "https://www.youtube.com/watch?v=h5dwH7nx9do"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "أرسلت الدب الخارق إلى الفضاء في Super Bear Adventure… 😱🚀",
-          "channel": "Mkamel GG",
+          "title": "اتسرعت وفتحت بكج المقلب الجديد🤯حظ وريمونتادات تاريخيه🔥 |efootbal 2027",
+          "channel": "TONY GAMING",
           "category_id": "20",
-          "views": "47651",
-          "likes": "3806",
-          "comments": "237",
-          "published_at": "2026-09-12T14:00:33Z",
-          "url": "https://www.youtube.com/watch?v=1AgPSwDSAAo"
+          "views": "101042",
+          "likes": "9363",
+          "comments": "273",
+          "published_at": "2026-09-12T17:35:06Z",
+          "url": "https://www.youtube.com/watch?v=hWCcrcptkTg"
         },
         {
           "source": "youtube_trending_eg",
           "title": "كليب يا صباح عنابي ( انا حلو زياده ) عصام صاصا الكروان - توزيع كيمو الديب - الكليب الرسمي",
           "channel": "عصام صاصا - Essam Saasa",
           "category_id": "10",
-          "views": "162923",
-          "likes": "6348",
-          "comments": "619",
+          "views": "192545",
+          "likes": "6737",
+          "comments": "641",
           "published_at": "2026-09-11T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=CR9gVspoq30"
         },
@@ -110,8 +110,8 @@
           "title": "Avengers: Doomsday | TV SPOT CONCEPT “BROKEN” | Marvel Studios",
           "channel": "MovieTrailers Entertainment",
           "category_id": "24",
-          "views": "653360",
-          "likes": "4514",
+          "views": "665847",
+          "likes": "4569",
           "comments": "196",
           "published_at": "2026-09-11T13:30:32Z",
           "url": "https://www.youtube.com/watch?v=4oU0jLlHyuA"
@@ -121,9 +121,9 @@
           "title": "البقاء 100 يوم في GTA 5 بدون قوانين.. المدينة تحولت لفوضى! 😱",
           "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "14474",
-          "likes": "906",
-          "comments": "15",
+          "views": "38694",
+          "likes": "1185",
+          "comments": "20",
           "published_at": "2026-09-12T14:21:45Z",
           "url": "https://www.youtube.com/watch?v=14xpfh-5exM"
         },
@@ -132,9 +132,9 @@
           "title": "Houda - Hayragaly (Official Music Video) حوده ـ هيرجعلي ",
           "channel": "Houda",
           "category_id": "10",
-          "views": "19167",
-          "likes": "2312",
-          "comments": "269",
+          "views": "92552",
+          "likes": "3747",
+          "comments": "373",
           "published_at": "2026-09-12T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=NwKUe3CrnlI"
         },
@@ -143,20 +143,42 @@
           "title": "Avatar: Seven Havens | Official Trailer | Paramount+",
           "channel": "Avatar Legends",
           "category_id": "1",
-          "views": "3709296",
-          "likes": "94739",
-          "comments": "8711",
+          "views": "3943084",
+          "likes": "97501",
+          "comments": "8927",
           "published_at": "2026-09-10T15:00:21Z",
           "url": "https://www.youtube.com/watch?v=nhdh962_ee0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "I Survived 100 Days on One Block",
+          "channel": "MrBeast Gaming",
+          "category_id": "20",
+          "views": "9987974",
+          "likes": "202949",
+          "comments": "7592",
+          "published_at": "2026-09-12T16:00:25Z",
+          "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "محشش فلاتي | El Khal - Me7ashesh Felaty (Official Music Video)",
+          "channel": "HAMO ELGALAD",
+          "category_id": "10",
+          "views": "32663",
+          "likes": "673",
+          "comments": "81",
+          "published_at": "2026-09-11T20:26:39Z",
+          "url": "https://www.youtube.com/watch?v=QKFkp_XbDBs"
         },
         {
           "source": "youtube_trending_eg",
           "title": "لعبتين من الضيب ويب واحده جوا مترو مليان انامولي وواحده معرفش انا فين 🚃 😳| metro anomaly",
           "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "21288",
-          "likes": "3518",
-          "comments": "231",
+          "views": "49543",
+          "likes": "4353",
+          "comments": "252",
           "published_at": "2026-09-12T14:15:26Z",
           "url": "https://www.youtube.com/watch?v=37IPD7cfGns"
         },
@@ -165,186 +187,164 @@
           "title": "Mariam Amer Mounib - Ragaouli Habibi | مريم عامر منيب - رجعولي حبيبي",
           "channel": "Mariam Amer Mounib",
           "category_id": "22",
-          "views": "139607",
-          "likes": "5096",
-          "comments": "352",
+          "views": "168932",
+          "likes": "5612",
+          "comments": "380",
           "published_at": "2026-09-10T19:00:21Z",
           "url": "https://www.youtube.com/watch?v=8QGlD-NF4-4"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "غزو الزومبي الذكي للعالم .. نهاية صادمة !!",
-          "channel": "Habiba Family",
-          "category_id": "24",
-          "views": "12274",
-          "likes": "215",
-          "comments": "20",
-          "published_at": "2026-09-12T12:00:07Z",
-          "url": "https://www.youtube.com/watch?v=0MRN017rKQ4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "محشش فلاتي | El Khal - Me7ashesh Felaty (Official Music Video)",
-          "channel": "HAMO ELGALAD",
-          "category_id": "10",
-          "views": "22865",
-          "likes": "563",
-          "comments": "54",
-          "published_at": "2026-09-11T20:26:39Z",
-          "url": "https://www.youtube.com/watch?v=QKFkp_XbDBs"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "I Survived 100 Days on One Block",
-          "channel": "MrBeast Gaming",
+          "title": "أرسلت الدب الخارق إلى الفضاء في Super Bear Adventure… 😱🚀",
+          "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "2373244",
-          "likes": "121839",
-          "comments": "5743",
-          "published_at": "2026-09-12T16:00:25Z",
-          "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اغنية \" شقيان \" الخال ( اخوك سلمها لله ) | Sha2yan EL KHAL (Virtual Artist) - (Official Music Video)",
-          "channel": "MARWAN ZIDAN SALEM",
-          "category_id": "10",
-          "views": "33466",
-          "likes": "583",
-          "comments": "57",
-          "published_at": "2026-09-11T18:00:06Z",
-          "url": "https://www.youtube.com/watch?v=kTwdM-cjs9Q"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "أنا بقيت مهووس باللعبة دى | Saiko no sutoka #8",
-          "channel": "Moham OverKill",
-          "category_id": "20",
-          "views": "121092",
-          "likes": "8808",
-          "comments": "1449",
-          "published_at": "2026-09-11T16:00:24Z",
-          "url": "https://www.youtube.com/watch?v=ntw4ATopXeM"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "LISA - SaWaDiKa (Dance Performance Video)",
-          "channel": "LLOUD Official",
-          "category_id": "10",
-          "views": "4046511",
-          "likes": "325951",
-          "comments": "16902",
-          "published_at": "2026-09-11T19:00:01Z",
-          "url": "https://www.youtube.com/watch?v=J77i-E_0JWg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "تجربة سواريز نسخة مصاص الدماء 💀😂 | efootball 2027",
-          "channel": "El 7areef - الحريف",
-          "category_id": "20",
-          "views": "107145",
-          "likes": "8152",
-          "comments": "650",
-          "published_at": "2026-09-11T12:18:48Z",
-          "url": "https://www.youtube.com/watch?v=DcGbZ7pdsEA"
+          "views": "89135",
+          "likes": "4506",
+          "comments": "278",
+          "published_at": "2026-09-12T14:00:33Z",
+          "url": "https://www.youtube.com/watch?v=1AgPSwDSAAo"
         },
         {
           "source": "youtube_trending_eg",
           "title": "كذا ميزا في الطياره ( هتصيع علي مين يا ابو دكه ) احمد فيلو و زياد الايراني و ايفا الايراني - 2026",
           "channel": "Felo - فيلو",
           "category_id": "10",
-          "views": "5486",
-          "likes": "715",
-          "comments": "134",
+          "views": "16135",
+          "likes": "1005",
+          "comments": "144",
           "published_at": "2026-09-12T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=8HkocFn1w_E"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اتسرعت وفتحت بكج المقلب الجديد🤯حظ وريمونتادات تاريخيه🔥 |efootbal 2027",
-          "channel": "TONY GAMING",
+          "title": "مورينيو الجديد لازم يوصلني ديفيجن 1 بدون خسارة.!🤯 ميسي + ماديسون ثنائي مرعب 🔥",
+          "channel": "نينجا جيمنج NINJA Gaming l",
           "category_id": "20",
-          "views": "18857",
-          "likes": "4777",
-          "comments": "187",
-          "published_at": "2026-09-12T17:35:06Z",
-          "url": "https://www.youtube.com/watch?v=hWCcrcptkTg"
+          "views": "76583",
+          "likes": "5885",
+          "comments": "282",
+          "published_at": "2026-09-12T16:36:48Z",
+          "url": "https://www.youtube.com/watch?v=XOYmdhUgu0c"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "حلوه بدون مجهود ( بس انتي خسيتي ) ريشا كوستا - سماره ناو - فارس سكر - توزيع حريقة البركان 2026",
-          "channel": "ريشا كوستا و سماره - Resha wi SamaRa",
+          "title": "اغنية \" شقيان \" الخال ( اخوك سلمها لله ) | Sha2yan EL KHAL (Virtual Artist) - (Official Music Video)",
+          "channel": "MARWAN ZIDAN SALEM",
           "category_id": "10",
-          "views": "24400",
-          "likes": "686",
-          "comments": "55",
-          "published_at": "2026-09-11T13:00:06Z",
-          "url": "https://www.youtube.com/watch?v=ngWV_hW--9U"
+          "views": "44138",
+          "likes": "685",
+          "comments": "62",
+          "published_at": "2026-09-11T18:00:06Z",
+          "url": "https://www.youtube.com/watch?v=kTwdM-cjs9Q"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "حرب السيارات | Car DUELS !! 🚘😱",
-          "channel": "Solom",
+          "title": "غزو الزومبي الذكي للعالم .. نهاية صادمة !!",
+          "channel": "Habiba Family",
+          "category_id": "24",
+          "views": "20659",
+          "likes": "250",
+          "comments": "22",
+          "published_at": "2026-09-12T12:00:07Z",
+          "url": "https://www.youtube.com/watch?v=0MRN017rKQ4"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "LISA - SaWaDiKa (Dance Performance Video)",
+          "channel": "LLOUD Official",
+          "category_id": "10",
+          "views": "4467323",
+          "likes": "339563",
+          "comments": "17150",
+          "published_at": "2026-09-11T19:00:01Z",
+          "url": "https://www.youtube.com/watch?v=J77i-E_0JWg"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "تختيم حدث الخير والشر كامل  🥚 💣🫡🔥| steal an egg admin abuse",
+          "channel": "يوميات عبده ماندو _ Abdo Mando",
           "category_id": "20",
-          "views": "8336",
-          "likes": "735",
-          "comments": "27",
-          "published_at": "2026-09-12T15:58:01Z",
-          "url": "https://www.youtube.com/watch?v=mq0ZLx7jnqs"
+          "views": "21506",
+          "likes": "2069",
+          "comments": "100",
+          "published_at": "2026-09-12T20:20:32Z",
+          "url": "https://www.youtube.com/watch?v=qEnyt8j2VT4"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Ragaouli Habibi",
-          "channel": "Release - Topic",
+          "title": "Moustafa Amar - Amout Ana  | مصطفي قمر - أموت أنا",
+          "channel": "Mostafa Amar - مصطفى قمر",
           "category_id": "10",
-          "views": "5245",
-          "likes": "133",
-          "comments": "0",
-          "published_at": "2026-09-10T20:47:59Z",
-          "url": "https://www.youtube.com/watch?v=L7LnX55OD1s"
+          "views": "22082",
+          "likes": "715",
+          "comments": "113",
+          "published_at": "2026-09-12T15:00:06Z",
+          "url": "https://www.youtube.com/watch?v=X1YTD7hwWQs"
         },
         {
           "source": "youtube_trending_eg",
           "title": "جربنا مود مصاصين الدماء الجديد وضيّعنا كل الـUC! 😂🔥 | PUBG Mobile",
           "channel": "GhNewa",
           "category_id": "20",
-          "views": "11586",
-          "likes": "1066",
-          "comments": "24",
+          "views": "38177",
+          "likes": "1667",
+          "comments": "33",
           "published_at": "2026-09-12T14:02:06Z",
           "url": "https://www.youtube.com/watch?v=VHxpjnW7q-k"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Hamada Helal - Ya Nasina [Official Music Video] | حماده هلال - يا ناسينا - الفيديو كليب الرسمي",
-          "channel": "Hamada Helal - حماده هلال",
+          "title": "Ragaouli Habibi",
+          "channel": "Release - Topic",
           "category_id": "10",
-          "views": "97662",
-          "likes": "3396",
-          "comments": "677",
-          "published_at": "2026-09-10T15:00:06Z",
-          "url": "https://www.youtube.com/watch?v=EaWpF2snDLA"
+          "views": "8367",
+          "likes": "167",
+          "comments": "0",
+          "published_at": "2026-09-10T20:47:59Z",
+          "url": "https://www.youtube.com/watch?v=L7LnX55OD1s"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "أصلانو سرق أغلى متحف في العالم! 😱💰 | Steal The Museum",
-          "channel": "Aslano",
+          "title": "حرب السيارات | Car DUELS !! 🚘😱",
+          "channel": "Solom",
           "category_id": "20",
-          "views": "5561",
-          "likes": "351",
-          "comments": "10",
-          "published_at": "2026-09-12T14:09:05Z",
-          "url": "https://www.youtube.com/watch?v=M1wCemuiXrM"
+          "views": "24781",
+          "likes": "1005",
+          "comments": "34",
+          "published_at": "2026-09-12T15:58:01Z",
+          "url": "https://www.youtube.com/watch?v=mq0ZLx7jnqs"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "حلوه بدون مجهود ( بس انتي خسيتي ) ريشا كوستا - سماره ناو - فارس سكر - توزيع حريقة البركان 2026",
+          "channel": "ريشا كوستا و سماره - Resha wi SamaRa",
+          "category_id": "10",
+          "views": "28643",
+          "likes": "738",
+          "comments": "58",
+          "published_at": "2026-09-11T13:00:06Z",
+          "url": "https://www.youtube.com/watch?v=ngWV_hW--9U"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "ستريم سنايب | ستريمر محترف اتجنن مني...!! 😂🔥",
+          "channel": "Mr RoMa",
+          "category_id": "20",
+          "views": "35055",
+          "likes": "3189",
+          "comments": "201",
+          "published_at": "2026-09-12T17:30:26Z",
+          "url": "https://www.youtube.com/watch?v=ktlRMTJrcAw"
         }
       ]
     },
     {
-      "collected_at": "2026-09-12T20:23:19.493890+00:00",
+      "collected_at": "2026-09-13T04:09:33.506488+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-12T20:23:19.882324+00:00",
+      "collected_at": "2026-09-13T04:09:33.830699+00:00",
       "platform": "tiktok",
       "items": []
     }
