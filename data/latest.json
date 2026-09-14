@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-09-14T04:16:37.330244+00:00",
+  "generated_at": "2026-09-14T12:19:51.424116+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-14T04:16:37.853805+00:00",
+      "collected_at": "2026-09-14T12:19:51.943056+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "طماطم",
-          "traffic": "100+"
+          "term": "إيران",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الطقس",
-          "traffic": "10000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "weather",
+          "term": "سعر الذهب اليوم في مصر",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الشروق",
+          "term": "البورصة المصرية",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "جمال عبد الحميد",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "كرة القدم",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "حسام عبد المجيد",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "أخبار الزمالك",
+          "term": "سمك",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "جنيه",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ناهد رشدي",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "فائدة",
           "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "نادي بنفيكا",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "موعد الشروق",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "التوقيت الشتوي",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "اسعار الذهب اليوم 13 9 2026",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "real sociedad vs atlético madrid standings",
-          "traffic": "1000+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-14T04:16:37.977562+00:00",
+      "collected_at": "2026-09-14T12:19:52.067079+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "طب ب بحبك ( العيون الحلوه دي - مش لاقي حاجه ف الوجود ) - حمو المرشدي - توزيع: وزه منتصر",
           "channel": "Hamo ELMorshdy - حمو المرشدي",
           "category_id": "10",
-          "views": "1146992",
-          "likes": "30046",
-          "comments": "1758",
+          "views": "1207685",
+          "likes": "31360",
+          "comments": "1805",
           "published_at": "2026-09-11T18:30:38Z",
           "url": "https://www.youtube.com/watch?v=BiUGXFnDnXc"
         },
@@ -77,9 +77,9 @@
           "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
           "channel": "PlayOverwatch",
           "category_id": "20",
-          "views": "1664382",
-          "likes": "56881",
-          "comments": "3968",
+          "views": "1711001",
+          "likes": "57870",
+          "comments": "4049",
           "published_at": "2026-09-12T17:58:03Z",
           "url": "https://www.youtube.com/watch?v=h5dwH7nx9do"
         },
@@ -88,9 +88,9 @@
           "title": "تحديت الشباب في لعبه تقليد اصوات الميمز😂🎤",
           "channel": "HikaGaming",
           "category_id": "20",
-          "views": "163058",
-          "likes": "9788",
-          "comments": "295",
+          "views": "185858",
+          "likes": "11627",
+          "comments": "319",
           "published_at": "2026-09-13T15:45:21Z",
           "url": "https://www.youtube.com/watch?v=duSvos2EX78"
         },
@@ -99,9 +99,9 @@
           "title": "Houda - Hayragaly (Official Music Video) حوده ـ هيرجعلي ",
           "channel": "Houda",
           "category_id": "10",
-          "views": "219030",
-          "likes": "6039",
-          "comments": "487",
+          "views": "237028",
+          "likes": "6519",
+          "comments": "513",
           "published_at": "2026-09-12T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=NwKUe3CrnlI"
         },
@@ -110,8 +110,8 @@
           "title": "Avengers: Doomsday | TV SPOT CONCEPT “BROKEN” | Marvel Studios",
           "channel": "MovieTrailers Entertainment",
           "category_id": "24",
-          "views": "707470",
-          "likes": "4754",
+          "views": "716023",
+          "likes": "4789",
           "comments": "201",
           "published_at": "2026-09-11T13:30:32Z",
           "url": "https://www.youtube.com/watch?v=4oU0jLlHyuA"
@@ -121,9 +121,9 @@
           "title": "من الصفر الي ٥٠ نجمه بدون مال💸الحلقة الرابعه🤯",
           "channel": "HikaSIU",
           "category_id": "20",
-          "views": "125875",
-          "likes": "11949",
-          "comments": "898",
+          "views": "146804",
+          "likes": "14185",
+          "comments": "1008",
           "published_at": "2026-09-13T16:30:47Z",
           "url": "https://www.youtube.com/watch?v=wt9w23N1_VA"
         },
@@ -132,9 +132,9 @@
           "title": "كليب يا صباح عنابي ( انا حلو زياده ) عصام صاصا الكروان - توزيع كيمو الديب - الكليب الرسمي",
           "channel": "عصام صاصا - Essam Saasa",
           "category_id": "10",
-          "views": "254670",
-          "likes": "7713",
-          "comments": "674",
+          "views": "263211",
+          "likes": "7909",
+          "comments": "680",
           "published_at": "2026-09-11T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=CR9gVspoq30"
         },
@@ -143,75 +143,75 @@
           "title": "Avatar: Seven Havens | Official Trailer | Paramount+",
           "channel": "Avatar Legends",
           "category_id": "1",
-          "views": "4368356",
-          "likes": "103022",
-          "comments": "9330",
+          "views": "4464112",
+          "likes": "104100",
+          "comments": "9425",
           "published_at": "2026-09-10T15:00:21Z",
           "url": "https://www.youtube.com/watch?v=nhdh962_ee0"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "تطورت من إنسان عادي إلى أقوى بطل خارق! 😱🦸 Superhero Evolution",
-          "channel": "Aslano",
-          "category_id": "20",
-          "views": "37497",
-          "likes": "784",
-          "comments": "32",
-          "published_at": "2026-09-13T09:30:04Z",
-          "url": "https://www.youtube.com/watch?v=By331eLrMKQ"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "جديد العم حسين - اغنية لا بطاطي ولا بحايل - انا ربي هو اللي حاميني - زمن العجايب 4 - تريند التيك توك",
-          "channel": "غني - Ghani",
-          "category_id": "22",
-          "views": "21451",
-          "likes": "548",
-          "comments": "15",
-          "published_at": "2026-09-12T17:50:16Z",
-          "url": "https://www.youtube.com/watch?v=m10XtLF3k5U"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "سر الباب السرى فى منزل الجدة الشريرة جراني | Granny !! 🚪😱",
-          "channel": "EstubeGaming",
-          "category_id": "20",
-          "views": "55420",
-          "likes": "2224",
-          "comments": "178",
-          "published_at": "2026-09-13T15:05:12Z",
-          "url": "https://www.youtube.com/watch?v=9QUx77xkN08"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "ASSALA x Amjad Jomaa - Mashup | أصالة وأمجد جمعة - رجعت أصالة على الشام (Levantronic Remix)",
-          "channel": "Levantronic",
-          "category_id": "10",
-          "views": "442776",
-          "likes": "4815",
-          "comments": "159",
-          "published_at": "2026-09-12T13:27:34Z",
-          "url": "https://www.youtube.com/watch?v=j8WolPR68t0"
         },
         {
           "source": "youtube_trending_eg",
           "title": "طورت فريقي من المركز الأخير لفريق بينافس عالدوري 🏆 البعشور الصغير #٧",
           "channel": "B3shr - عمرو بشر",
           "category_id": "20",
-          "views": "51205",
-          "likes": "3420",
-          "comments": "132",
+          "views": "67542",
+          "likes": "4603",
+          "comments": "155",
           "published_at": "2026-09-13T18:58:55Z",
           "url": "https://www.youtube.com/watch?v=-goaIUX9rOE"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "جديد العم حسين - اغنية لا بطاطي ولا بحايل - انا ربي هو اللي حاميني - زمن العجايب 4 - تريند التيك توك",
+          "channel": "غني - Ghani",
+          "category_id": "22",
+          "views": "24262",
+          "likes": "674",
+          "comments": "16",
+          "published_at": "2026-09-12T17:50:16Z",
+          "url": "https://www.youtube.com/watch?v=m10XtLF3k5U"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "تطورت من إنسان عادي إلى أقوى بطل خارق! 😱🦸 Superhero Evolution",
+          "channel": "Aslano",
+          "category_id": "20",
+          "views": "40030",
+          "likes": "872",
+          "comments": "36",
+          "published_at": "2026-09-13T09:30:04Z",
+          "url": "https://www.youtube.com/watch?v=By331eLrMKQ"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "ASSALA x Amjad Jomaa - Mashup | أصالة وأمجد جمعة - رجعت أصالة على الشام (Levantronic Remix)",
+          "channel": "Levantronic",
+          "category_id": "10",
+          "views": "503358",
+          "likes": "6109",
+          "comments": "189",
+          "published_at": "2026-09-12T13:27:34Z",
+          "url": "https://www.youtube.com/watch?v=j8WolPR68t0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "سر الباب السرى فى منزل الجدة الشريرة جراني | Granny !! 🚪😱",
+          "channel": "EstubeGaming",
+          "category_id": "20",
+          "views": "62200",
+          "likes": "2694",
+          "comments": "199",
+          "published_at": "2026-09-13T15:05:12Z",
+          "url": "https://www.youtube.com/watch?v=9QUx77xkN08"
         },
         {
           "source": "youtube_trending_eg",
           "title": "زفت | El Khal - Zeft (Official Music Video)",
           "channel": "HAMO ELGALAD",
           "category_id": "10",
-          "views": "23786",
-          "likes": "447",
-          "comments": "48",
+          "views": "25532",
+          "likes": "483",
+          "comments": "50",
           "published_at": "2026-09-12T21:00:28Z",
           "url": "https://www.youtube.com/watch?v=4iUaDMAbXXs"
         },
@@ -220,53 +220,53 @@
           "title": "هربت من عالم سبايدرمان في روبلوكس 🕸️😱",
           "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "43131",
-          "likes": "1729",
-          "comments": "134",
+          "views": "49773",
+          "likes": "2111",
+          "comments": "156",
           "published_at": "2026-09-13T15:15:38Z",
           "url": "https://www.youtube.com/watch?v=9oG21EKCDHs"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "يا صباح عنابي",
-          "channel": "Release - Topic",
-          "category_id": "10",
-          "views": "12610",
-          "likes": "168",
-          "comments": "0",
-          "published_at": "2026-09-11T15:20:00Z",
-          "url": "https://www.youtube.com/watch?v=3bQS5C1nqNU"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "تختيم حدث الخير والشر كامل  🥚 💣🫡🔥| steal an egg admin abuse",
-          "channel": "يوميات عبده ماندو _ Abdo Mando",
-          "category_id": "20",
-          "views": "82369",
-          "likes": "4570",
-          "comments": "160",
-          "published_at": "2026-09-12T20:20:32Z",
-          "url": "https://www.youtube.com/watch?v=qEnyt8j2VT4"
         },
         {
           "source": "youtube_trending_eg",
           "title": "لا امان وسط البشر (العين حسوده)",
           "channel": "Mana production - Topic",
           "category_id": "10",
-          "views": "8486",
-          "likes": "233",
+          "views": "11212",
+          "likes": "320",
           "comments": "4",
           "published_at": "2026-09-13T08:07:44Z",
           "url": "https://www.youtube.com/watch?v=NJYvx3zFQKE"
         },
         {
           "source": "youtube_trending_eg",
+          "title": "تحدي الهروب من الكيان مكركروم الخبيث وجدت ال 4 مفاتيح وختمت اللعبه 😱 | ‏monochrome roblox",
+          "channel": "Abdo Mando - عبده ماندو",
+          "category_id": "20",
+          "views": "50575",
+          "likes": "4677",
+          "comments": "305",
+          "published_at": "2026-09-13T16:15:14Z",
+          "url": "https://www.youtube.com/watch?v=NR4RGjm-qb8"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "يا صباح عنابي",
+          "channel": "Release - Topic",
+          "category_id": "10",
+          "views": "14126",
+          "likes": "194",
+          "comments": "0",
+          "published_at": "2026-09-11T15:20:00Z",
+          "url": "https://www.youtube.com/watch?v=3bQS5C1nqNU"
+        },
+        {
+          "source": "youtube_trending_eg",
           "title": "اول جيم في المود الجديد وتحدي 35 كيل 🔥 | الدو الذهبي 🔥",
           "channel": "LiveSa3dola ",
           "category_id": "20",
-          "views": "44619",
-          "likes": "1776",
-          "comments": "59",
+          "views": "55813",
+          "likes": "2224",
+          "comments": "65",
           "published_at": "2026-09-13T15:00:14Z",
           "url": "https://www.youtube.com/watch?v=coWpDNg4S9w"
         },
@@ -275,31 +275,31 @@
           "title": "Hleem Taj Alser - Caramel (Official Audio) | حليم تاج السر",
           "channel": "Hleem Taj Alser",
           "category_id": "10",
-          "views": "19102",
-          "likes": "1276",
-          "comments": "379",
+          "views": "31400",
+          "likes": "1836",
+          "comments": "467",
           "published_at": "2026-09-13T21:00:27Z",
           "url": "https://www.youtube.com/watch?v=clYD9tuZilg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "تحدي الهروب من الكيان مكركروم الخبيث وجدت ال 4 مفاتيح وختمت اللعبه 😱 | ‏monochrome roblox",
-          "channel": "Abdo Mando - عبده ماندو",
+          "title": "تختيم حدث الخير والشر كامل  🥚 💣🫡🔥| steal an egg admin abuse",
+          "channel": "يوميات عبده ماندو _ Abdo Mando",
           "category_id": "20",
-          "views": "43065",
-          "likes": "3762",
-          "comments": "260",
-          "published_at": "2026-09-13T16:15:14Z",
-          "url": "https://www.youtube.com/watch?v=NR4RGjm-qb8"
+          "views": "85952",
+          "likes": "4758",
+          "comments": "168",
+          "published_at": "2026-09-12T20:20:32Z",
+          "url": "https://www.youtube.com/watch?v=qEnyt8j2VT4"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Mariam Amer Mounib - Ragaouli Habibi | مريم عامر منيب - رجعولي حبيبي",
           "channel": "Mariam Amer Mounib",
           "category_id": "22",
-          "views": "240522",
-          "likes": "7273",
-          "comments": "436",
+          "views": "252966",
+          "likes": "7594",
+          "comments": "455",
           "published_at": "2026-09-10T19:00:21Z",
           "url": "https://www.youtube.com/watch?v=8QGlD-NF4-4"
         },
@@ -308,9 +308,9 @@
           "title": "كل قفزة ثقة الكائن الاصفر يطور | Jump Verity Escape !! 🦘",
           "channel": "Solom",
           "category_id": "20",
-          "views": "26757",
-          "likes": "832",
-          "comments": "42",
+          "views": "31003",
+          "likes": "1035",
+          "comments": "47",
           "published_at": "2026-09-13T15:42:49Z",
           "url": "https://www.youtube.com/watch?v=XK98KUnw9Fs"
         },
@@ -319,32 +319,32 @@
           "title": "اغنية \" دايرة خيانة \"  الخال | Dayra 5eyana EL KHAL (Virtual Artist) - (Official Music Video)",
           "channel": "MARWAN ZIDAN SALEM",
           "category_id": "10",
-          "views": "5871",
-          "likes": "165",
-          "comments": "27",
+          "views": "7343",
+          "likes": "187",
+          "comments": "29",
           "published_at": "2026-09-13T18:00:06Z",
           "url": "https://www.youtube.com/watch?v=VjMJVktJiow"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "فيلم روبلوكس : عالم سرقة البيض داخل الحياة الواقعيه..!😱🔥ولكن ميجو بطى جدآ ولا يمتلك سير💔",
-          "channel": "Migo9",
+          "title": "لعبت ريڤايڤ لأول مرة في حياتي !! 😭💔",
+          "channel": "BEPO FF",
           "category_id": "20",
-          "views": "74190",
-          "likes": "2805",
-          "comments": "380",
-          "published_at": "2026-09-12T22:36:02Z",
-          "url": "https://www.youtube.com/watch?v=x_-6dFxh2sg"
+          "views": "169780",
+          "likes": "15069",
+          "comments": "702",
+          "published_at": "2026-09-13T11:59:39Z",
+          "url": "https://www.youtube.com/watch?v=2P886avklbM"
         }
       ]
     },
     {
-      "collected_at": "2026-09-14T04:16:37.978433+00:00",
+      "collected_at": "2026-09-14T12:19:52.068084+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-14T04:16:38.274486+00:00",
+      "collected_at": "2026-09-14T12:19:52.451563+00:00",
       "platform": "tiktok",
       "items": []
     }
