@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-09-16T11:12:43.616194+00:00",
+  "generated_at": "2026-09-16T16:32:33.170411+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-16T11:12:44.088087+00:00",
+      "collected_at": "2026-09-16T16:32:33.619410+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "شام الذهبي",
+          "term": "أتلتيكو مدريد ضد أوساسونا",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "محمد إمام",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سعر اليورو مقابل الجنيه المصري",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "موعد اذان الظهر",
+          "term": "غزل المحلة ضد الزمالك",
           "traffic": "10000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ربيع ياسين",
+          "term": "ghazl el mahalla vs zamalek",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "محمود الخطيب",
-          "traffic": "100+"
+          "term": "موعد صلاه المغرب",
+          "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ريم البارودي",
+          "term": "المجلس القومي للأجور",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "أنصار الله الحوثيون",
+          "term": "عداد كهرباء",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الحوثي",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "دنيا سمير غانم",
-          "traffic": "500+"
+          "term": "مدرسة",
+          "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ماجدة خير الله",
-          "traffic": "500+"
+          "term": "بي بي سي",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مجلس الاحتياطي الفيدرالي",
+          "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-16T11:12:44.267466+00:00",
+      "collected_at": "2026-09-16T16:32:33.746252+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "اكتر حاجه اذتني اقرب ناس ( والله فلوسي مش حرام ) احمد موزه السلطان - توزيع يوسف اوشا Official Video",
           "channel": "احمد موزه - Ahmed Moza",
           "category_id": "10",
-          "views": "35829",
-          "likes": "1349",
-          "comments": "64",
+          "views": "43096",
+          "likes": "1532",
+          "comments": "68",
           "published_at": "2026-09-15T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=05YQFaVJg5M"
         },
@@ -77,9 +77,9 @@
           "title": "أول تجربة للعبة FC 27 الكاملة",
           "channel": "Abdo 2xd",
           "category_id": "20",
-          "views": "408457",
-          "likes": "32490",
-          "comments": "833",
+          "views": "699645",
+          "likes": "41399",
+          "comments": "958",
           "published_at": "2026-09-15T20:33:44Z",
           "url": "https://www.youtube.com/watch?v=u5dvCayd0nU"
         },
@@ -88,31 +88,31 @@
           "title": "خد ياجميل رايح فين ( ياحصنة جراية انا لا ) مصطفي الجن و هادي الصغير - توزيع امجد الجوكر",
           "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
           "category_id": "10",
-          "views": "20590",
-          "likes": "821",
+          "views": "26083",
+          "likes": "926",
           "comments": "38",
           "published_at": "2026-09-15T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=BuQTz6rF22o"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "فتحت بيض التحديث بالكامل وخليت كل المخلوقات فوق المليار  🥚 💣🫡🔥| steal an egg admin abuse",
-          "channel": "يوميات عبده ماندو _ Abdo Mando",
-          "category_id": "20",
-          "views": "50780",
-          "likes": "3095",
-          "comments": "144",
-          "published_at": "2026-09-15T13:00:27Z",
-          "url": "https://www.youtube.com/watch?v=KuOtB4KxRx4"
+          "title": "حملة هدايا جديدة واضافات جديدة من كونامي 🔥🤯 حزم واحداث يوم الخميس المميز !!😱|efootball 2026",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "88091",
+          "likes": "9315",
+          "comments": "291",
+          "published_at": "2026-09-16T07:38:55Z",
+          "url": "https://www.youtube.com/watch?v=REFhtYndIjY"
         },
         {
           "source": "youtube_trending_eg",
           "title": "فاقد الاهلية | El Khal - Faked El Ahlia (Official Music Video)",
           "channel": "HAMO ELGALAD",
           "category_id": "10",
-          "views": "12546",
-          "likes": "305",
-          "comments": "21",
+          "views": "17648",
+          "likes": "390",
+          "comments": "34",
           "published_at": "2026-09-15T20:12:58Z",
           "url": "https://www.youtube.com/watch?v=mnENnYt8Ozg"
         },
@@ -121,9 +121,9 @@
           "title": "الدبدوب فريدي تحول الي رجل القطه ذو القبعه الحمراء😱 | cat in the hat",
           "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "37117",
-          "likes": "2118",
-          "comments": "132",
+          "views": "48949",
+          "likes": "2610",
+          "comments": "139",
           "published_at": "2026-09-15T16:45:15Z",
           "url": "https://www.youtube.com/watch?v=3ceBj_6uqGI"
         },
@@ -132,184 +132,184 @@
           "title": "Assala - Ragaet Assala Ala El Sham  | أصالة - رجعت أصالة على الشام",
           "channel": "Assala Nasri",
           "category_id": "10",
-          "views": "584202",
-          "likes": "10728",
-          "comments": "754",
+          "views": "670076",
+          "likes": "11729",
+          "comments": "796",
           "published_at": "2026-09-14T14:05:44Z",
           "url": "https://www.youtube.com/watch?v=I6yDvA5vmqw"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "حولت منزل اصلانو لاكبر معرض سيارات خارقة في GTA 5! 💰🏎️",
-          "channel": "Aslano",
-          "category_id": "20",
-          "views": "38841",
-          "likes": "1645",
-          "comments": "37",
-          "published_at": "2026-09-15T10:51:06Z",
-          "url": "https://www.youtube.com/watch?v=h01kHvxgDlY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "طب ب بحبك ( العيون الحلوه دي - مش لاقي حاجه ف الوجود ) - حمو المرشدي - توزيع: وزه منتصر",
-          "channel": "Hamo ELMorshdy - حمو المرشدي",
-          "category_id": "10",
-          "views": "1905765",
-          "likes": "39082",
-          "comments": "1947",
-          "published_at": "2026-09-11T18:30:38Z",
-          "url": "https://www.youtube.com/watch?v=BiUGXFnDnXc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "جبت58‎%‎ في ثانويه عامه🍆👌🏼",
-          "channel": "Mondy",
-          "category_id": "20",
-          "views": "72966",
-          "likes": "4700",
-          "comments": "302",
-          "published_at": "2026-09-15T14:15:31Z",
-          "url": "https://www.youtube.com/watch?v=Dj5nfJm9E0E"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "يا حبيبي خليك | ريدبُل مزيكا صالونات",
-          "channel": "Release - Topic",
-          "category_id": "10",
-          "views": "36744",
-          "likes": "759",
-          "comments": "18",
-          "published_at": "2026-09-13T19:42:11Z",
-          "url": "https://www.youtube.com/watch?v=b3q3FTqYNMc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "1% فقط من اللاعبين يعرفوا سر الـ3 زعماء في Super Bear Adventure! 😱🚨",
-          "channel": "Mkamel GG",
-          "category_id": "20",
-          "views": "76993",
-          "likes": "5806",
-          "comments": "119",
-          "published_at": "2026-09-15T13:00:39Z",
-          "url": "https://www.youtube.com/watch?v=8yjG43msuBY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "MOLO X PABLO - AB3AD MADA ابعد مدي ريمكس ( REMIX )",
-          "channel": "Molotof",
-          "category_id": "10",
-          "views": "19406",
-          "likes": "1087",
-          "comments": "91",
-          "published_at": "2026-09-15T14:48:25Z",
-          "url": "https://www.youtube.com/watch?v=CfhlYgrI5rk"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "يا اكسب كل حاجة يا أخسر كل حاجة 🏆😬|| كارير مود العسلاوي الحلقة الأخيرة FC 26",
-          "channel": "يحيى عزام || العب يا نوب - Yahya Azzam Gaming",
-          "category_id": "20",
-          "views": "36048",
-          "likes": "2415",
-          "comments": "83",
-          "published_at": "2026-09-15T17:02:42Z",
-          "url": "https://www.youtube.com/watch?v=Oz1dO3CaZEw"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "راب شارع اندرجراوند مصر",
-          "channel": "Rap Shar3 | راب شارع",
-          "category_id": "10",
-          "views": "17726",
-          "likes": "658",
-          "comments": "200",
-          "published_at": "2026-09-14T16:30:06Z",
-          "url": "https://www.youtube.com/watch?v=0zMcCRx4Zi0"
         },
         {
           "source": "youtube_trending_eg",
           "title": "ده مش ابويا | Not My Dad !! 😱😭",
           "channel": "EstubeGaming",
           "category_id": "20",
-          "views": "32616",
-          "likes": "2088",
-          "comments": "121",
+          "views": "41071",
+          "likes": "2576",
+          "comments": "132",
           "published_at": "2026-09-15T15:52:32Z",
           "url": "https://www.youtube.com/watch?v=9wvQy1El44E"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "طب ب بحبك ( العيون الحلوه دي - مش لاقي حاجه ف الوجود ) - حمو المرشدي - توزيع: وزه منتصر",
+          "channel": "Hamo ELMorshdy - حمو المرشدي",
+          "category_id": "10",
+          "views": "1974449",
+          "likes": "40021",
+          "comments": "1964",
+          "published_at": "2026-09-11T18:30:38Z",
+          "url": "https://www.youtube.com/watch?v=BiUGXFnDnXc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "فتحت بيض التحديث بالكامل وخليت كل المخلوقات فوق المليار  🥚 💣🫡🔥| steal an egg admin abuse",
+          "channel": "يوميات عبده ماندو _ Abdo Mando",
+          "category_id": "20",
+          "views": "57972",
+          "likes": "3406",
+          "comments": "151",
+          "published_at": "2026-09-15T13:00:27Z",
+          "url": "https://www.youtube.com/watch?v=KuOtB4KxRx4"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "يا حبيبي خليك | ريدبُل مزيكا صالونات",
+          "channel": "Amr Mostafa - Topic",
+          "category_id": "10",
+          "views": "39490",
+          "likes": "812",
+          "comments": "18",
+          "published_at": "2026-09-13T19:42:11Z",
+          "url": "https://www.youtube.com/watch?v=b3q3FTqYNMc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "حولت منزل اصلانو لاكبر معرض سيارات خارقة في GTA 5! 💰🏎️",
+          "channel": "Aslano",
+          "category_id": "20",
+          "views": "44033",
+          "likes": "1858",
+          "comments": "40",
+          "published_at": "2026-09-15T10:51:06Z",
+          "url": "https://www.youtube.com/watch?v=h01kHvxgDlY"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "MOLO X PABLO - AB3AD MADA ابعد مدي ريمكس ( REMIX )",
+          "channel": "Molotof",
+          "category_id": "10",
+          "views": "22268",
+          "likes": "1224",
+          "comments": "96",
+          "published_at": "2026-09-15T14:48:25Z",
+          "url": "https://www.youtube.com/watch?v=CfhlYgrI5rk"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "1% فقط من اللاعبين يعرفوا سر الـ3 زعماء في Super Bear Adventure! 😱🚨",
+          "channel": "Mkamel GG",
+          "category_id": "20",
+          "views": "97411",
+          "likes": "6972",
+          "comments": "134",
+          "published_at": "2026-09-15T13:00:39Z",
+          "url": "https://www.youtube.com/watch?v=8yjG43msuBY"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "راب شارع اندرجراوند مصر",
+          "channel": "Rap Shar3 | راب شارع",
+          "category_id": "10",
+          "views": "18919",
+          "likes": "701",
+          "comments": "219",
+          "published_at": "2026-09-14T16:30:06Z",
+          "url": "https://www.youtube.com/watch?v=0zMcCRx4Zi0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "يا اكسب كل حاجة يا أخسر كل حاجة 🏆😬|| كارير مود العسلاوي الحلقة الأخيرة FC 26",
+          "channel": "يحيى عزام || العب يا نوب - Yahya Azzam Gaming",
+          "category_id": "20",
+          "views": "42160",
+          "likes": "2735",
+          "comments": "97",
+          "published_at": "2026-09-15T17:02:42Z",
+          "url": "https://www.youtube.com/watch?v=Oz1dO3CaZEw"
         },
         {
           "source": "youtube_trending_eg",
           "title": "مهرجان زمن العجايب 4 - انا ربي هو اللي حاميني \" لا بطاطي ولا بحايل ولا حد ليه عليا جمايل \" العم حسين",
           "channel": "غني - Ghani",
           "category_id": "22",
-          "views": "25554",
-          "likes": "410",
+          "views": "27539",
+          "likes": "423",
           "comments": "12",
           "published_at": "2026-09-11T20:41:47Z",
           "url": "https://www.youtube.com/watch?v=IAVNypn2LPI"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "حملة هدايا جديدة واضافات جديدة من كونامي 🔥🤯 حزم واحداث يوم الخميس المميز !!😱|efootball 2026",
-          "channel": "من بره التمنتاشر",
-          "category_id": "26",
-          "views": "19784",
-          "likes": "5527",
-          "comments": "220",
-          "published_at": "2026-09-16T07:38:55Z",
-          "url": "https://www.youtube.com/watch?v=REFhtYndIjY"
+          "title": "جبت58‎%‎ في ثانويه عامه🍆👌🏼",
+          "channel": "Mondy",
+          "category_id": "20",
+          "views": "83482",
+          "likes": "5120",
+          "comments": "317",
+          "published_at": "2026-09-15T14:15:31Z",
+          "url": "https://www.youtube.com/watch?v=Dj5nfJm9E0E"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Houda - Hayragaly (Official Music Video) حوده ـ هيرجعلي ",
           "channel": "Houda",
           "category_id": "10",
-          "views": "434393",
-          "likes": "9304",
-          "comments": "715",
+          "views": "449062",
+          "likes": "9553",
+          "comments": "716",
           "published_at": "2026-09-12T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=NwKUe3CrnlI"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "أنا وغنيوة عملنا أسوأ فريق في تاريخ اللعبة #2 😂🔥 | Machine Party 🔥",
-          "channel": "LiveSa3dola ",
+          "title": "قلدت اصوات الميمز المشهورة علي التيك توك 🎙️",
+          "channel": "سحس الفأر",
           "category_id": "20",
-          "views": "31141",
-          "likes": "1359",
-          "comments": "32",
-          "published_at": "2026-09-15T13:00:03Z",
-          "url": "https://www.youtube.com/watch?v=z8tM-LHqgC4"
+          "views": "25516",
+          "likes": "1691",
+          "comments": "45",
+          "published_at": "2026-09-15T13:00:07Z",
+          "url": "https://www.youtube.com/watch?v=tfxs9QceJmw"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Wezza Montaser - 26 | وزة منتصر - ٢٦",
           "channel": "Wezza Montaser",
           "category_id": "10",
-          "views": "14505",
-          "likes": "710",
-          "comments": "85",
+          "views": "17311",
+          "likes": "823",
+          "comments": "98",
           "published_at": "2026-09-15T17:00:06Z",
           "url": "https://www.youtube.com/watch?v=zioi8owTDh4"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "شخص سرق الاكل والمياة فى لعبة السفر الطويل 😱 نهاية حزينة 😭",
-          "channel": "Ahmed Aslan",
+          "title": "مبقناش حمل المود الجديد 🥲 | الدو الذهبي 😂",
+          "channel": "LiveSa3dola ",
           "category_id": "20",
-          "views": "21356",
-          "likes": "625",
-          "comments": "17",
-          "published_at": "2026-09-15T13:03:19Z",
-          "url": "https://www.youtube.com/watch?v=rPjm656xPn0"
+          "views": "51748",
+          "likes": "1951",
+          "comments": "46",
+          "published_at": "2026-09-15T15:00:04Z",
+          "url": "https://www.youtube.com/watch?v=_nurBAr5CNU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "موال | وسط الضباع لازم أعيش ( فتح عينك ومتأمنشي ) احمد موزه | شعبي جديد وحصري 2026",
           "channel": "شلش مصر",
           "category_id": "10",
-          "views": "8870",
-          "likes": "87",
+          "views": "9424",
+          "likes": "98",
           "comments": "1",
           "published_at": "2026-09-15T00:52:06Z",
           "url": "https://www.youtube.com/watch?v=smSbu3Fo51o"
@@ -319,32 +319,32 @@
           "title": "ملكة النقار ؟",
           "channel": "BEPO FF",
           "category_id": "20",
-          "views": "175928",
-          "likes": "15724",
-          "comments": "971",
+          "views": "198660",
+          "likes": "16784",
+          "comments": "1009",
           "published_at": "2026-09-15T11:39:39Z",
           "url": "https://www.youtube.com/watch?v=aLpcXRqShas"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اقفل بوقك واصطبح - اسلام كابونجا - Eslam Kabonga - Aqfl Boqk w Stbeh - Official Music 2026",
-          "channel": "اسلام كابونجا - Eslam Kabonga ",
+          "title": "لا امان وسط البشر (العين حسوده)",
+          "channel": "Mana production - Topic",
           "category_id": "10",
-          "views": "38120",
-          "likes": "550",
-          "comments": "67",
-          "published_at": "2026-09-14T16:00:06Z",
-          "url": "https://www.youtube.com/watch?v=dsBv8KPBKXA"
+          "views": "44737",
+          "likes": "867",
+          "comments": "12",
+          "published_at": "2026-09-13T08:07:44Z",
+          "url": "https://www.youtube.com/watch?v=NJYvx3zFQKE"
         }
       ]
     },
     {
-      "collected_at": "2026-09-16T11:12:44.268312+00:00",
+      "collected_at": "2026-09-16T16:32:33.747133+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-16T11:12:44.658449+00:00",
+      "collected_at": "2026-09-16T16:32:34.170644+00:00",
       "platform": "tiktok",
       "items": []
     }
