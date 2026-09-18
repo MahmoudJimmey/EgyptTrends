@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-18T10:54:56.375324+00:00",
+  "generated_at": "2026-09-18T16:09:19.899931+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-18T10:54:57.316350+00:00",
+      "collected_at": "2026-09-18T16:09:20.332960+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "سعر الذهب اليوم عيار 21 الآن 2026",
+          "term": "kick",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "دجاج",
+          "term": "أحمد كجوك",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "شاي أخضر",
+          "term": "إلهام شاهين",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "موعد اذان الظهر",
-          "traffic": "20000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "جنيه مصري",
+          "term": "قرش حوتي",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "خوان ألفينا",
+          "term": "أشرف داري",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سعر الدولار مقابل الجنيه المصري اليوم",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "cats",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "كهرباء",
-          "traffic": "2000+"
+          "term": "سيزار حيدر",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "عبد الملك الحوثي",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "يوتيوب يوتيوب",
+          "term": "ال",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "جولسن تونجر",
-          "traffic": "100+"
+          "term": "فرحه مصر",
+          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-18T10:54:57.418841+00:00",
+      "collected_at": "2026-09-18T16:09:20.419400+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-18T10:54:57.886127+00:00",
+      "collected_at": "2026-09-18T16:09:20.884626+00:00",
       "platform": "tiktok",
       "items": []
     }
