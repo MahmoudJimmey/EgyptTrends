@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-17T21:08:50.106173+00:00",
+  "generated_at": "2026-09-18T04:03:13.523061+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-17T21:08:50.542442+00:00",
+      "collected_at": "2026-09-18T04:03:13.950335+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "بحر البقر",
+          "term": "موعد صلاة الجمعة",
+          "traffic": "10000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "زوجة",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سكك حديد مصر",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "شمس البارودي",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "celtic vs ferencváros",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "بشكتاش ضد أولمبيك مارسيليا",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ندى كامل",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سعر الفائدة",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سفير",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سيزار حيدر",
+          "term": "it",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ترتيب الدورى المصرى",
+          "term": "اصاله",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ترتيبات الدوري المصري",
+          "term": "مسيرة",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "المركزي المصري",
           "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "málaga vs villarreal",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "عبد الفتاح السيسي",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "beşiktaş vs marseille",
+          "traffic": "100+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-17T21:08:50.621469+00:00",
+      "collected_at": "2026-09-18T04:03:14.051336+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-17T21:08:51.725576+00:00",
+      "collected_at": "2026-09-18T04:03:14.467548+00:00",
       "platform": "tiktok",
       "items": []
     }
