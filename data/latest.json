@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-19T10:37:49.497980+00:00",
+  "generated_at": "2026-09-19T15:41:27.530263+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-19T10:37:49.936228+00:00",
+      "collected_at": "2026-09-19T15:41:28.025398+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "موعد مباراة مصر",
+          "term": "ارسنال",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مسكن",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مصر الرقمية",
+          "term": "arsenal",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "خوان بيزيرا",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "يوتيوب يوتيوب",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "القران الكريم",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "قران",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ناصر ماهر",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "f",
+          "term": "صن داونز",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مصرف",
-          "traffic": "200+"
+          "term": "filgoal",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "tottenham",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "توتنهام",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سعر الريال السعودي اليوم",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "games",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "a",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "و",
+          "traffic": "100+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-19T10:37:50.011111+00:00",
+      "collected_at": "2026-09-19T15:41:28.117039+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-19T10:37:50.365269+00:00",
+      "collected_at": "2026-09-19T15:41:28.366991+00:00",
       "platform": "tiktok",
       "items": []
     }
