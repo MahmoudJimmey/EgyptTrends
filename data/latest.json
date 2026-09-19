@@ -1,29 +1,44 @@
 {
-  "generated_at": "2026-09-19T15:41:27.530263+00:00",
+  "generated_at": "2026-09-19T20:20:31.934423+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-19T15:41:28.025398+00:00",
+      "collected_at": "2026-09-19T20:20:32.406613+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
+          "term": "ترتيب الدوري التركي",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "trabzonspor",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "اذان المغرب",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
           "term": "ارسنال",
-          "traffic": "200+"
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ترتيب الدوري الانجليزي",
+          "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
           "term": "arsenal",
-          "traffic": "100+"
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
           "term": "صن داونز",
           "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "filgoal",
-          "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
@@ -37,33 +52,18 @@
         },
         {
           "source": "google_trends_rss",
-          "term": "سعر الريال السعودي اليوم",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
           "term": "games",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "a",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "و",
           "traffic": "100+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-19T15:41:28.117039+00:00",
+      "collected_at": "2026-09-19T20:20:32.483261+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-19T15:41:28.366991+00:00",
+      "collected_at": "2026-09-19T20:20:32.784158+00:00",
       "platform": "tiktok",
       "items": []
     }
