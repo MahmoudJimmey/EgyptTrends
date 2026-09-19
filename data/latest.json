@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-19T04:00:15.099365+00:00",
+  "generated_at": "2026-09-19T10:37:49.497980+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-19T04:00:15.789493+00:00",
+      "collected_at": "2026-09-19T10:37:49.936228+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "the scandal",
+          "term": "موعد مباراة مصر",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مسكن",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مصر الرقمية",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "رغيف",
-          "traffic": "200+"
+          "term": "خوان بيزيرا",
+          "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مخبز",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "تعليم",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "إنترنت",
+          "term": "يوتيوب يوتيوب",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "brentford f.c. vs chelsea f.c. standings",
-          "traffic": "2000+"
+          "term": "القران الكريم",
+          "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "إسكان",
+          "term": "قران",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ناصر ماهر",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "f",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ترتيبات بايرن ميونخ – يونيون برلين",
-          "traffic": "10000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "bayern munich vs union berlin standings",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مصر",
-          "traffic": "2000+"
+          "term": "مصرف",
+          "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-19T04:00:15.904436+00:00",
+      "collected_at": "2026-09-19T10:37:50.011111+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-19T04:00:16.929050+00:00",
+      "collected_at": "2026-09-19T10:37:50.365269+00:00",
       "platform": "tiktok",
       "items": []
     }
