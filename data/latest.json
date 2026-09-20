@@ -1,10 +1,30 @@
 {
-  "generated_at": "2026-09-20T15:46:52.978792+00:00",
+  "generated_at": "2026-09-20T20:34:34.422486+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-20T15:46:53.753139+00:00",
+      "collected_at": "2026-09-20T20:34:35.361380+00:00",
       "platform": "google_trends",
       "items": [
+        {
+          "source": "google_trends_rss",
+          "term": "محمد عبد المنعم",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "اذان المغرب",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الدنمارك",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "صبا مبارك",
+          "traffic": "100+"
+        },
         {
           "source": "google_trends_rss",
           "term": "ليفربول",
@@ -13,57 +33,37 @@
         {
           "source": "google_trends_rss",
           "term": "ريال مدريد",
-          "traffic": "1000+"
+          "traffic": "5000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "greenland",
+          "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
           "term": "real madrid",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مانشستر سيتي",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "كندة علوش",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "arman tsarukyan",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سعر الدولار مقابل الجنيه المصري",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "رمضان صبحي",
           "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "سعر الريال",
-          "traffic": "100+"
+          "term": "yallakora",
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ai",
+          "term": "the scandal",
           "traffic": "100+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-20T15:46:53.866091+00:00",
+      "collected_at": "2026-09-20T20:34:35.438628+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-20T15:46:54.223554+00:00",
+      "collected_at": "2026-09-20T20:34:35.750117+00:00",
       "platform": "tiktok",
       "items": []
     }
