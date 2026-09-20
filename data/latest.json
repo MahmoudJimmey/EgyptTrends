@@ -1,14 +1,34 @@
 {
-  "generated_at": "2026-09-19T20:20:31.934423+00:00",
+  "generated_at": "2026-09-20T04:19:18.325398+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-19T20:20:32.406613+00:00",
+      "collected_at": "2026-09-20T04:19:18.837413+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
+          "term": "اسعار الذهب",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ufc",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ترتيب الدوري الاسباني",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "barcelona",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
           "term": "ترتيب الدوري التركي",
-          "traffic": "2000+"
+          "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
@@ -18,7 +38,7 @@
         {
           "source": "google_trends_rss",
           "term": "اذان المغرب",
-          "traffic": "2000+"
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
@@ -34,36 +54,16 @@
           "source": "google_trends_rss",
           "term": "arsenal",
           "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "صن داونز",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "tottenham",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "توتنهام",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "games",
-          "traffic": "100+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-19T20:20:32.483261+00:00",
+      "collected_at": "2026-09-20T04:19:18.946044+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-19T20:20:32.784158+00:00",
+      "collected_at": "2026-09-20T04:19:19.334500+00:00",
       "platform": "tiktok",
       "items": []
     }
