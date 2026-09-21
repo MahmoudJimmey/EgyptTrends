@@ -1,10 +1,30 @@
 {
-  "generated_at": "2026-09-21T12:27:28.313098+00:00",
+  "generated_at": "2026-09-21T21:51:56.522897+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-21T12:27:29.163164+00:00",
+      "collected_at": "2026-09-21T21:51:57.184711+00:00",
       "platform": "google_trends",
       "items": [
+        {
+          "source": "google_trends_rss",
+          "term": "kick",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سعر اليورو اليوم",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "اذان المغرب",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "محمد ناصر",
+          "traffic": "500+"
+        },
         {
           "source": "google_trends_rss",
           "term": "maps",
@@ -13,7 +33,7 @@
         {
           "source": "google_trends_rss",
           "term": "إبراهيم حسن",
-          "traffic": "1000+"
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
@@ -24,46 +44,16 @@
           "source": "google_trends_rss",
           "term": "اليوم السابع",
           "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "محمد عبد المنعم",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "اذان المغرب",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "الدنمارك",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "صبا مبارك",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ليفربول",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ريال مدريد",
-          "traffic": "5000+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-21T12:27:29.283395+00:00",
+      "collected_at": "2026-09-21T21:51:57.330214+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-21T12:27:30.408663+00:00",
+      "collected_at": "2026-09-21T21:51:57.808730+00:00",
       "platform": "tiktok",
       "items": []
     }
