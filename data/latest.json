@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-22T16:39:11.899963+00:00",
+  "generated_at": "2026-09-22T21:05:19.424972+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-22T16:39:12.190934+00:00",
+      "collected_at": "2026-09-22T21:05:19.840807+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "سعر الصرف",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "البنك الأهلي المصري",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "المصري اليوم",
+          "term": "دوري أبطال إفريقيا",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "سعر",
+          "term": "باتريس كارتيرون",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "برج فلكي",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سمكة الشيطان",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "دواجن",
+          "term": "مسعود بزشكيان",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مخبز",
+          "term": "بنك مصر",
+          "traffic": "10000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "النادي الإسماعيلي",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "حسن الشافعي",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "دولار أمريكي",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "القبض على ملحن",
+          "traffic": "10000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "نادية رشاد",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "أحمد العوضي",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "الشروق الجديد",
-          "traffic": "200+"
+          "term": "موعد اذان المغرب",
+          "traffic": "2000+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-22T16:39:12.266103+00:00",
+      "collected_at": "2026-09-22T21:05:19.913518+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-22T16:39:12.691832+00:00",
+      "collected_at": "2026-09-22T21:05:20.187595+00:00",
       "platform": "tiktok",
       "items": []
     }
