@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-22T04:12:39.121395+00:00",
+  "generated_at": "2026-09-22T11:17:03.023055+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-22T04:12:39.668989+00:00",
+      "collected_at": "2026-09-22T11:17:03.635098+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "friedrich merz",
+          "term": "الشروق الجديد",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "kick",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ياسر إبراهيم",
+          "term": "فائدة",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "سعر اليورو اليوم",
+          "term": "كرة القدم النسائية",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "قرار",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "دينا عزت",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "فيديو",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "اذان المغرب",
+          "term": "طبيب",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "سد",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ام كلثوم",
+          "term": "باكستان",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "محمد ناصر",
-          "traffic": "1000+"
+          "term": "سعر الدولار اليوم مصر",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "maps",
+          "term": "google gemini",
           "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "إبراهيم حسن",
-          "traffic": "1000+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-22T04:12:39.776762+00:00",
+      "collected_at": "2026-09-22T11:17:03.737339+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-22T04:12:40.055509+00:00",
+      "collected_at": "2026-09-22T11:17:04.946933+00:00",
       "platform": "tiktok",
       "items": []
     }
