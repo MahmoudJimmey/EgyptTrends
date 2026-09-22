@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-22T11:17:03.023055+00:00",
+  "generated_at": "2026-09-22T16:39:11.899963+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-22T11:17:03.635098+00:00",
+      "collected_at": "2026-09-22T16:39:12.190934+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "الشروق الجديد",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "فائدة",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "كرة القدم النسائية",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "قرار",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "دينا عزت",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "فيديو",
+          "term": "سعر الصرف",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "طبيب",
+          "term": "البنك الأهلي المصري",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "المصري اليوم",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "باكستان",
+          "term": "سعر",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "سعر الدولار اليوم مصر",
+          "term": "برج فلكي",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "google gemini",
+          "term": "سمكة الشيطان",
           "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "دواجن",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مخبز",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "أحمد العوضي",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الشروق الجديد",
+          "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-22T11:17:03.737339+00:00",
+      "collected_at": "2026-09-22T16:39:12.266103+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-22T11:17:04.946933+00:00",
+      "collected_at": "2026-09-22T16:39:12.691832+00:00",
       "platform": "tiktok",
       "items": []
     }
