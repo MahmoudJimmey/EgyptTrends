@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-23T16:31:43.055270+00:00",
+  "generated_at": "2026-09-23T21:19:42.457183+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-23T16:31:43.618660+00:00",
+      "collected_at": "2026-09-23T21:19:42.922430+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "محمود عصمت",
+          "term": "ياسين منصور",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مارسيل كولر",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "زفاف",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "محكمة الاستئناف",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "جمهورية",
+          "term": "احمد سراج لاعب الاهلى",
           "traffic": "10000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "العراق ضد عمان",
-          "traffic": "2000+"
+          "term": "barcelona vs paris fc",
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "كهرباء",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "دولار",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "عاصفة رعدية",
+          "term": "محمد صلاح",
           "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "بيض",
+          "term": "weather tomorrow",
+          "traffic": "10000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "دينا",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "gulf cup",
           "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "محمد هانى",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "السعودية ضد الكويت",
+          "traffic": "10000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "المملكة المتحدة",
+          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-23T16:31:43.694564+00:00",
+      "collected_at": "2026-09-23T21:19:43.012247+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-23T16:31:44.001530+00:00",
+      "collected_at": "2026-09-23T21:19:43.305665+00:00",
       "platform": "tiktok",
       "items": []
     }
