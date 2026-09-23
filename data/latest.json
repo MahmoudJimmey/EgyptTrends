@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-23T11:10:11.980884+00:00",
+  "generated_at": "2026-09-23T16:31:43.055270+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-23T11:10:12.430073+00:00",
+      "collected_at": "2026-09-23T16:31:43.618660+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "طائرة",
+          "term": "محمود عصمت",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "منتخب أنغولا لكرة القدم",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "بنيامين نتنياهو",
+          "term": "مارسيل كولر",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "أحمد سراج",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "نوة",
+          "term": "زفاف",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الشروق",
-          "traffic": "500+"
+          "term": "محكمة الاستئناف",
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "العاصمة الجديدة",
-          "traffic": "100+"
+          "term": "جمهورية",
+          "traffic": "10000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "اذكار الصباح",
+          "term": "العراق ضد عمان",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "عبد المنعم إبراهيم",
+          "term": "كهرباء",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "دولار",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "عاصفة رعدية",
           "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "خبز",
-          "traffic": "2000+"
+          "term": "بيض",
+          "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-23T11:10:12.522185+00:00",
+      "collected_at": "2026-09-23T16:31:43.694564+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-23T11:10:12.842651+00:00",
+      "collected_at": "2026-09-23T16:31:44.001530+00:00",
       "platform": "tiktok",
       "items": []
     }
