@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-24T11:26:40.967413+00:00",
+  "generated_at": "2026-09-24T16:51:41.548015+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-24T11:26:41.561962+00:00",
+      "collected_at": "2026-09-24T16:51:42.009091+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "محمود الخطيب",
+          "term": "دوري الأمم",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "سبيكة",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "south korea vs ecuador",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "رمضان",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "أسعار الفراخ البيضاء اليوم الخميس",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "قرار",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مدحت شلبي",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "فيرجيل فان دايك",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "погода",
+          "term": "ذكاء اصطناعي",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الطقس",
-          "traffic": "50000+"
+          "term": "بنك مركزي",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الإمارات ضد اليمن",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "dr congo vs equatorial guinea",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "عداد كهرباء",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "المغرب",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سعر",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "أشرف بن شرقي",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "investing",
+          "traffic": "1000+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-24T11:26:41.659952+00:00",
+      "collected_at": "2026-09-24T16:51:42.092836+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-24T11:26:42.084272+00:00",
+      "collected_at": "2026-09-24T16:51:42.398633+00:00",
       "platform": "tiktok",
       "items": []
     }
