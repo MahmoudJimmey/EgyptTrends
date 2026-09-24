@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-24T04:05:34.730388+00:00",
+  "generated_at": "2026-09-24T11:26:40.967413+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-24T04:05:35.260317+00:00",
+      "collected_at": "2026-09-24T11:26:41.561962+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "الطقس",
-          "traffic": "20000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "weather",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "إنستاباي",
+          "term": "محمود الخطيب",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "المصري اليوم",
+          "term": "سبيكة",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "monster",
-          "traffic": "200+"
+          "term": "south korea vs ecuador",
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ea",
-          "traffic": "100+"
+          "term": "رمضان",
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "24 سبتمبر",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "تصفيات أمم أفريقيا",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "تيجراي",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "صبري عبد المنعم",
+          "term": "أسعار الفراخ البيضاء اليوم الخميس",
           "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "قرار",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مدحت شلبي",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "فيرجيل فان دايك",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "погода",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الطقس",
+          "traffic": "50000+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-24T04:05:35.336968+00:00",
+      "collected_at": "2026-09-24T11:26:41.659952+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-24T04:05:35.630352+00:00",
+      "collected_at": "2026-09-24T11:26:42.084272+00:00",
       "platform": "tiktok",
       "items": []
     }
