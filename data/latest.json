@@ -1,18 +1,69 @@
 {
-  "generated_at": "2026-09-25T16:55:48.647677+00:00",
+  "generated_at": "2026-09-25T21:20:23.483448+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-25T16:55:50.246399+00:00",
+      "collected_at": "2026-09-25T21:20:23.823086+00:00",
       "platform": "google_trends",
-      "items": []
+      "items": [
+        {
+          "source": "google_trends_rss",
+          "term": "منتخب المغرب لكرة القدم",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "اثيوبيا",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مجموعة مصر",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "حادث",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "النادي الإسماعيلي",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "عريس",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "mali vs cabo verde",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "رياضة",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مالي ضد الرأس الأخضر",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "algeria vs zambia",
+          "traffic": "500+"
+        }
+      ]
     },
     {
-      "collected_at": "2026-09-25T16:55:50.351865+00:00",
+      "collected_at": "2026-09-25T21:20:23.891566+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-25T16:55:50.735090+00:00",
+      "collected_at": "2026-09-25T21:20:24.179738+00:00",
       "platform": "tiktok",
       "items": []
     }
