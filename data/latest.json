@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-25T04:18:56.506510+00:00",
+  "generated_at": "2026-09-25T11:32:37.702771+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-25T04:18:56.953804+00:00",
+      "collected_at": "2026-09-25T11:32:38.094745+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "شهادات البنك الاهلى",
+          "term": "شيرين",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مسلسل بني مزار",
-          "traffic": "10000+"
+          "term": "أستراليا ضد البرازيل",
+          "traffic": "20000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "شاهد",
-          "traffic": "1000+"
+          "term": "australia vs brazil",
+          "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "طب شرعي",
-          "traffic": "1000+"
+          "term": "منى الشاذلي",
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "portugal fc",
+          "term": "اعتقال",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ياسمين عبدالعزيز",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الإسكندرية",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مسلسل خمسين خمسين",
+          "term": "صراف آلي",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "portugal",
-          "traffic": "200+"
+          "term": "خبر",
+          "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "وزارة البترول والثروة المعدنية",
-          "traffic": "500+"
+          "term": "وقود",
+          "traffic": "20000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الكاميرون ضد جزر القمر",
-          "traffic": "500+"
+          "term": "wetter",
+          "traffic": "100+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-25T04:18:57.039535+00:00",
+      "collected_at": "2026-09-25T11:32:38.168550+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-25T04:18:57.365603+00:00",
+      "collected_at": "2026-09-25T11:32:38.511383+00:00",
       "platform": "tiktok",
       "items": []
     }
