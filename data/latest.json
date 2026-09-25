@@ -1,69 +1,18 @@
 {
-  "generated_at": "2026-09-25T11:32:37.702771+00:00",
+  "generated_at": "2026-09-25T16:55:48.647677+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-25T11:32:38.094745+00:00",
+      "collected_at": "2026-09-25T16:55:50.246399+00:00",
       "platform": "google_trends",
-      "items": [
-        {
-          "source": "google_trends_rss",
-          "term": "شيرين",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "أستراليا ضد البرازيل",
-          "traffic": "20000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "australia vs brazil",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "منى الشاذلي",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "اعتقال",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ياسمين عبدالعزيز",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "صراف آلي",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "خبر",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "وقود",
-          "traffic": "20000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "wetter",
-          "traffic": "100+"
-        }
-      ]
+      "items": []
     },
     {
-      "collected_at": "2026-09-25T11:32:38.168550+00:00",
+      "collected_at": "2026-09-25T16:55:50.351865+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-25T11:32:38.511383+00:00",
+      "collected_at": "2026-09-25T16:55:50.735090+00:00",
       "platform": "tiktok",
       "items": []
     }
