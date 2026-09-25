@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-24T21:21:20.345094+00:00",
+  "generated_at": "2026-09-25T04:18:56.506510+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-24T21:21:21.157209+00:00",
+      "collected_at": "2026-09-25T04:18:56.953804+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "مسلسل القصة الكاملة",
-          "traffic": "500+"
+          "term": "شهادات البنك الاهلى",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "netherlands national football team vs germany national football team standings",
-          "traffic": "500+"
+          "term": "مسلسل بني مزار",
+          "traffic": "10000+"
         },
         {
           "source": "google_trends_rss",
@@ -22,13 +22,8 @@
         },
         {
           "source": "google_trends_rss",
-          "term": "cristiano ronaldo",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
           "term": "طب شرعي",
-          "traffic": "500+"
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
@@ -42,28 +37,33 @@
         },
         {
           "source": "google_trends_rss",
-          "term": "منتخب النرويج",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
           "term": "مسلسل خمسين خمسين",
-          "traffic": "1000+"
+          "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
           "term": "portugal",
           "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "وزارة البترول والثروة المعدنية",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الكاميرون ضد جزر القمر",
+          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-24T21:21:21.228064+00:00",
+      "collected_at": "2026-09-25T04:18:57.039535+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-24T21:21:21.521882+00:00",
+      "collected_at": "2026-09-25T04:18:57.365603+00:00",
       "platform": "tiktok",
       "items": []
     }
