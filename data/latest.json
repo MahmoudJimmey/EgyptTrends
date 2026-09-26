@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-26T11:06:43.017842+00:00",
+  "generated_at": "2026-09-26T16:07:21.760323+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-26T11:06:43.514045+00:00",
+      "collected_at": "2026-09-26T16:07:22.323431+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "محكمة",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "إثيوبيا",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سعر",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "التوقيت الشتوى",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "wetter",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "أحمد الزند",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "manchester city",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مسلسل القصة الكاملة",
+          "term": "الكويت ضد العراق",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "turkey national football team vs france national football team standings",
-          "traffic": "1000+"
+          "term": "المغرب",
+          "traffic": "20000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "tiktok",
+          "term": "تسعير",
           "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مسلسل خمسين خمسين",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "نادي الزمالك لكرة اليد",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "اثيوبيا",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "موعد اذان العصر",
+          "traffic": "5000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "حسام حسن",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "south africa vs guinea",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "جنوب أفريقيا ضد غينيا",
+          "traffic": "2000+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-26T11:06:43.638690+00:00",
+      "collected_at": "2026-09-26T16:07:22.407105+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-26T11:06:44.061346+00:00",
+      "collected_at": "2026-09-26T16:07:22.749407+00:00",
       "platform": "tiktok",
       "items": []
     }
