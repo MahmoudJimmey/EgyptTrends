@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-26T16:07:21.760323+00:00",
+  "generated_at": "2026-09-26T20:52:43.936156+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-26T16:07:22.323431+00:00",
+      "collected_at": "2026-09-26T20:52:44.398818+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "الكويت ضد العراق",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "المغرب",
-          "traffic": "20000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "تسعير",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مسلسل خمسين خمسين",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "نادي الزمالك لكرة اليد",
+          "term": "xiaomi 18 pro max",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "اثيوبيا",
-          "traffic": "500+"
+          "term": "usa vs peru",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "موعد اذان العصر",
-          "traffic": "5000+"
+          "term": "الولايات المتحدة ضد بيرو",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "حسام حسن",
+          "term": "spain national football team",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "عمر مرموش",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "south africa vs guinea",
+          "term": "صابرين",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "جنوب أفريقيا ضد غينيا",
+          "term": "ترتيبات منتخب الكويت لكرة القدم – منتخب العراق لكرة القدم",
           "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "شمال مقدونيا ضد سويسرا",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "north macedonia vs switzerland",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "التشيك ضد كرواتيا",
+          "traffic": "1000+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-26T16:07:22.407105+00:00",
+      "collected_at": "2026-09-26T20:52:44.495682+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-26T16:07:22.749407+00:00",
+      "collected_at": "2026-09-26T20:52:44.883507+00:00",
       "platform": "tiktok",
       "items": []
     }
