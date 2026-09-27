@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-27T16:43:34.952943+00:00",
+  "generated_at": "2026-09-27T21:09:09.472889+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-27T16:43:35.394264+00:00",
+      "collected_at": "2026-09-27T21:09:10.174940+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "نادي الزمالك لكرة اليد",
+          "term": "أنصار الله الحوثيون",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "بنيامين نتنياهو",
+          "term": "بوليفيا ضد باراغواي",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "yemen vs qatar",
+          "term": "مصلحة الضرائب العقارية",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "اليمن ضد قطر",
+          "term": "جواو فيليكس",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "portugal fc",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "denmark vs wales",
+          "term": "منتخب ايرلندا",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "israel vs ireland",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "austria vs kosovo",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "المغرب",
+          "term": "portugal national football team",
           "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "serbia vs netherlands",
-          "traffic": "1000+"
+          "term": "portugal",
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "خريف",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سعر الفائدة",
-          "traffic": "5000+"
+          "term": "honor",
+          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-27T16:43:35.480859+00:00",
+      "collected_at": "2026-09-27T21:09:10.304829+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-27T16:43:35.909918+00:00",
+      "collected_at": "2026-09-27T21:09:10.661913+00:00",
       "platform": "tiktok",
       "items": []
     }
