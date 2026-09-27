@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-26T20:52:43.936156+00:00",
+  "generated_at": "2026-09-27T04:40:16.728047+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-26T20:52:44.398818+00:00",
+      "collected_at": "2026-09-27T04:40:17.308490+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "xiaomi 18 pro max",
+          "term": "موعد الشروق",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "usa vs peru",
-          "traffic": "200+"
+          "term": "الشروق",
+          "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الولايات المتحدة ضد بيرو",
-          "traffic": "200+"
+          "term": "موعد اذان الفجر",
+          "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "spain national football team",
+          "term": "mexico vs colombia",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "المكسيك ضد كولومبيا",
           "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "عمر مرموش",
-          "traffic": "2000+"
+          "term": "canada vs chile",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "صابرين",
+          "term": "كندا ضد تشيلي",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ترتيبات منتخب الكويت لكرة القدم – منتخب العراق لكرة القدم",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "شمال مقدونيا ضد سويسرا",
+          "term": "مشروب",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "north macedonia vs switzerland",
-          "traffic": "500+"
+          "term": "xiaomi 18 pro max",
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "التشيك ضد كرواتيا",
+          "term": "usa vs peru",
           "traffic": "1000+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-26T20:52:44.495682+00:00",
+      "collected_at": "2026-09-27T04:40:17.387870+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-26T20:52:44.883507+00:00",
+      "collected_at": "2026-09-27T04:40:17.762284+00:00",
       "platform": "tiktok",
       "items": []
     }
