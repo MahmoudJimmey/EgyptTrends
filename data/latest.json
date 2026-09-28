@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-28T04:42:09.518950+00:00",
+  "generated_at": "2026-09-28T13:25:04.158320+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-28T04:42:09.965434+00:00",
+      "collected_at": "2026-09-28T13:25:04.668410+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "weather",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ليونيل ميسي",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "شمس البارودي",
+          "term": "بوتسوانا ضد تونس",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "columbus vs inter miami",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "كولومبوس كرو ضد إنتر ميامي",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "رقص",
+          "term": "مجلس الشيوخ",
           "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "honor x9e pro",
+          "term": "وظيفة",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "إمام عاشور",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مصر للطيران",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "فيلم شيش دو",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "حرارة",
+          "term": "خبر",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "بوليفيا ضد باراغواي",
-          "traffic": "200+"
+          "term": "كوريا الجنوبية ضد أوروغواي",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "south korea vs uruguay",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سعر الصرف",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "تيجراي",
+          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-28T04:42:10.043233+00:00",
+      "collected_at": "2026-09-28T13:25:04.741293+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-28T04:42:10.354910+00:00",
+      "collected_at": "2026-09-28T13:25:05.172097+00:00",
       "platform": "tiktok",
       "items": []
     }
