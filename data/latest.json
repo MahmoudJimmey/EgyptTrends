@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-27T21:09:09.472889+00:00",
+  "generated_at": "2026-09-28T04:42:09.518950+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-27T21:09:10.174940+00:00",
+      "collected_at": "2026-09-28T04:42:09.965434+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "أنصار الله الحوثيون",
+          "term": "weather",
+          "traffic": "5000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ليونيل ميسي",
           "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "شمس البارودي",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "columbus vs inter miami",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "كولومبوس كرو ضد إنتر ميامي",
+          "traffic": "5000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "رقص",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "honor x9e pro",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "فيلم شيش دو",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "حرارة",
+          "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
           "term": "بوليفيا ضد باراغواي",
           "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مصلحة الضرائب العقارية",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "جواو فيليكس",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "portugal fc",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "منتخب ايرلندا",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "israel vs ireland",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "portugal national football team",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "portugal",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "honor",
-          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-27T21:09:10.304829+00:00",
+      "collected_at": "2026-09-28T04:42:10.043233+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-27T21:09:10.661913+00:00",
+      "collected_at": "2026-09-28T04:42:10.354910+00:00",
       "platform": "tiktok",
       "items": []
     }
