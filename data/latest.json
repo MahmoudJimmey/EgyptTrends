@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-09-29T22:04:30.417632+00:00",
+  "generated_at": "2026-09-30T04:56:09.083364+00:00",
   "platforms": [
     {
-      "collected_at": "2026-09-29T22:04:31.182491+00:00",
+      "collected_at": "2026-09-30T04:56:09.552286+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "برلمان",
+          "term": "دواجن",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "mexico vs peru",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "هيدي كرم",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "usa vs chile",
           "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "2027",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "وزير الداخلية",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "برلمان",
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
@@ -23,42 +53,12 @@
         {
           "source": "google_trends_rss",
           "term": "زراعة الأعضاء",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "somalia vs côte d'ivoire",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "scotland vs switzerland",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "منتخب الجزائر لكرة القدم",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "جريمة",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "إسكتلندا ضد سويسرا",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "إسبانيا ضد كرواتيا",
-          "traffic": "20000+"
+          "traffic": "2000+"
         }
       ]
     },
     {
-      "collected_at": "2026-09-29T22:04:31.383027+00:00",
+      "collected_at": "2026-09-30T04:56:09.690624+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "رنو رنه ( اه صحيح الحب اعمي ) عصام صاصا و كيمو الديب - توزيع كيمو الديب Official Video",
           "channel": "كيمو الديب - kimo ElDeeb",
           "category_id": "10",
-          "views": "309559",
-          "likes": "6612",
-          "comments": "341",
+          "views": "333609",
+          "likes": "6822",
+          "comments": "349",
           "published_at": "2026-09-27T15:00:08Z",
           "url": "https://www.youtube.com/watch?v=WP2OjDsSEE4"
         },
@@ -77,9 +77,9 @@
           "title": "Fortnitemares 2026 | Cinematic Trailer",
           "channel": "Fortnite",
           "category_id": "20",
-          "views": "1308599",
-          "likes": "81195",
-          "comments": "5248",
+          "views": "1854038",
+          "likes": "91362",
+          "comments": "5849",
           "published_at": "2026-09-29T13:00:00Z",
           "url": "https://www.youtube.com/watch?v=5lddZVFmxaw"
         },
@@ -88,20 +88,53 @@
           "title": "مطاردة مرعبة! الكهف السري لي الوحش بدون وجة SLENDER MAN في لعبة Super Bear Adventure!😱🚫",
           "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "61523",
-          "likes": "2226",
-          "comments": "65",
+          "views": "70761",
+          "likes": "2341",
+          "comments": "66",
           "published_at": "2026-09-29T13:00:08Z",
           "url": "https://www.youtube.com/watch?v=NkDRb3uLQck"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Lil ALEX Matmarsh-ليل اليكس -مطمرش",
+          "channel": "Lil Alex Music",
+          "category_id": "10",
+          "views": "20219",
+          "likes": "1522",
+          "comments": "184",
+          "published_at": "2026-09-29T15:01:39Z",
+          "url": "https://www.youtube.com/watch?v=ZF7CwkA9t6E"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Among Us: New Influencer Role Trailer 📸 Out Now!",
+          "channel": "Innersloth",
+          "category_id": "20",
+          "views": "1152388",
+          "likes": "61452",
+          "comments": "5016",
+          "published_at": "2026-09-29T17:02:42Z",
+          "url": "https://www.youtube.com/watch?v=HQBYZPqxomM"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اكتشفت مرائب سرية وسرقت السيارات الخارقة في GTA 5! 🤯",
+          "channel": "Ahmed Aslan",
+          "category_id": "20",
+          "views": "22359",
+          "likes": "453",
+          "comments": "9",
+          "published_at": "2026-09-29T16:47:42Z",
+          "url": "https://www.youtube.com/watch?v=2zdkVtIUFBk"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Ramy Sabry - Ghar El Amaar [Jeddah concert 2026] | رامي صبري - غار القمر",
           "channel": "Ramy Sabry",
           "category_id": "10",
-          "views": "55758",
-          "likes": "917",
-          "comments": "46",
+          "views": "64772",
+          "likes": "978",
+          "comments": "48",
           "published_at": "2026-09-28T17:07:58Z",
           "url": "https://www.youtube.com/watch?v=S7eMbSAofwU"
         },
@@ -110,31 +143,31 @@
           "title": "The Witcher 3: Wild Hunt — Remastered | Official Launch Trailer",
           "channel": "The Witcher",
           "category_id": "20",
-          "views": "2232476",
-          "likes": "75098",
-          "comments": "4747",
+          "views": "2675072",
+          "likes": "80237",
+          "comments": "5054",
           "published_at": "2026-09-29T10:01:27Z",
           "url": "https://www.youtube.com/watch?v=OlmuIckOX0c"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "11 لاعب عجل ضد 11 لاعب رفيع 😂🔥 | eFootball 2027",
-          "channel": "Ahmed Assasa",
+          "title": "كوميديا مود الزومبي في 22 دقيقة 😂 منشنات التيك توك #96 | ببجي موبايل",
+          "channel": "3lilio",
           "category_id": "20",
-          "views": "54742",
-          "likes": "6092",
-          "comments": "200",
-          "published_at": "2026-09-29T10:31:11Z",
-          "url": "https://www.youtube.com/watch?v=lUeuHUG8-0o"
+          "views": "36513",
+          "likes": "2889",
+          "comments": "90",
+          "published_at": "2026-09-29T18:31:53Z",
+          "url": "https://www.youtube.com/watch?v=Vyh8YxmhmvA"
         },
         {
           "source": "youtube_trending_eg",
           "title": "الله غالب | Tito Bondok ft. El Khal - Allah Ghaleb (Official Music Video)",
           "channel": "HAMO ELGALAD",
           "category_id": "10",
-          "views": "31976",
-          "likes": "697",
-          "comments": "97",
+          "views": "39019",
+          "likes": "763",
+          "comments": "98",
           "published_at": "2026-09-28T17:59:35Z",
           "url": "https://www.youtube.com/watch?v=S4ioo5RnEbw"
         },
@@ -143,53 +176,53 @@
           "title": "الإعلان الرسمي \"فيلم مطلوب عائليا\" 7 أكتوبر في السينمات",
           "channel": "Karim Abdel Aziz",
           "category_id": "24",
-          "views": "217091",
-          "likes": "1592",
+          "views": "219747",
+          "likes": "1599",
           "comments": "142",
           "published_at": "2026-09-24T14:00:23Z",
           "url": "https://www.youtube.com/watch?v=ACbIlT7optg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "ميزات جديدة مع التحديث القادم ورسالة كونامي 🔥🤯 شرح اهم اخبار اللعبة الجديدة 😱|efootball 2027",
-          "channel": "من بره التمنتاشر",
-          "category_id": "26",
-          "views": "95087",
-          "likes": "7019",
-          "comments": "226",
-          "published_at": "2026-09-29T11:36:48Z",
-          "url": "https://www.youtube.com/watch?v=1IX5kM-Io_Y"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Lil ALEX Matmarsh-ليل اليكس -مطمرش",
-          "channel": "Lil Alex Music",
-          "category_id": "10",
-          "views": "8491",
-          "likes": "1055",
-          "comments": "153",
-          "published_at": "2026-09-29T15:01:39Z",
-          "url": "https://www.youtube.com/watch?v=ZF7CwkA9t6E"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "فتحت بكج ثنائي القوه  في الهجوم والدفاع 🤯عودة مقاوم الاستربس🔥 |efootbal 2027",
-          "channel": "TONY GAMING",
+          "title": "11 لاعب عجل ضد 11 لاعب رفيع 😂🔥 | eFootball 2027",
+          "channel": "Ahmed Assasa",
           "category_id": "20",
-          "views": "167456",
-          "likes": "12321",
-          "comments": "332",
-          "published_at": "2026-09-28T18:53:48Z",
-          "url": "https://www.youtube.com/watch?v=sbkYhZGssC4"
+          "views": "78294",
+          "likes": "6992",
+          "comments": "210",
+          "published_at": "2026-09-29T10:31:11Z",
+          "url": "https://www.youtube.com/watch?v=lUeuHUG8-0o"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "دا اسطبل لامم وانا خيال ( بنت البلد عبايتها حكايه ) مصطفي الجن و هادي الصغير - توزيع دولسي برودكشن",
+          "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
+          "category_id": "10",
+          "views": "15424",
+          "likes": "420",
+          "comments": "25",
+          "published_at": "2026-09-29T15:00:07Z",
+          "url": "https://www.youtube.com/watch?v=nvxhYob03ak"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "فتحنا كل باكدجات اللعبة في فيديو واحد 😱🔥 | PUBG Mobile",
+          "channel": "GhNewa",
+          "category_id": "20",
+          "views": "20098",
+          "likes": "936",
+          "comments": "41",
+          "published_at": "2026-09-29T14:00:24Z",
+          "url": "https://www.youtube.com/watch?v=7cUqQGocI-A"
         },
         {
           "source": "youtube_trending_eg",
           "title": "الخال حجاج - 2027 ابعدي كل الخاينين | النسخه الأصلية كامله 2026 ",
           "channel": "EL KHAL HAGGAG | الخال حجاج",
           "category_id": "10",
-          "views": "27694",
-          "likes": "500",
-          "comments": "28",
+          "views": "35374",
+          "likes": "572",
+          "comments": "30",
           "published_at": "2026-09-28T21:30:06Z",
           "url": "https://www.youtube.com/watch?v=TeYEYTgIaB4"
         },
@@ -198,142 +231,120 @@
           "title": "كشف ابواب سرية فى بيت الجده الشريره جراني | Granny !! 😱😭",
           "channel": "EstubeGaming",
           "category_id": "20",
-          "views": "19054",
-          "likes": "1100",
-          "comments": "100",
+          "views": "29814",
+          "likes": "1251",
+          "comments": "106",
           "published_at": "2026-09-29T16:37:35Z",
           "url": "https://www.youtube.com/watch?v=K8OkDbwZ6fc"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "دا اسطبل لامم وانا خيال ( بنت البلد عبايتها حكايه ) مصطفي الجن و هادي الصغير - توزيع دولسي برودكشن",
-          "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
+          "title": "Kay’O - 4 The Culture (Official Visualizer) | كي او - اديني حقي",
+          "channel": "Kay'O",
           "category_id": "10",
-          "views": "7974",
-          "likes": "327",
-          "comments": "25",
-          "published_at": "2026-09-29T15:00:07Z",
-          "url": "https://www.youtube.com/watch?v=nvxhYob03ak"
+          "views": "12232",
+          "likes": "649",
+          "comments": "234",
+          "published_at": "2026-09-29T17:29:47Z",
+          "url": "https://www.youtube.com/watch?v=HtpE5LY0-2o"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "عملنا ستريم سنايب على يوتيوبر مشهور انا وحسونة  !! 😂🔥",
-          "channel": "BEPO FF",
-          "category_id": "20",
-          "views": "132381",
-          "likes": "12873",
-          "comments": "423",
-          "published_at": "2026-09-29T10:59:29Z",
-          "url": "https://www.youtube.com/watch?v=kD8KB5BdmJk"
+          "title": "ميزات جديدة مع التحديث القادم ورسالة كونامي 🔥🤯 شرح اهم اخبار اللعبة الجديدة 😱|efootball 2027",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "117840",
+          "likes": "7503",
+          "comments": "232",
+          "published_at": "2026-09-29T11:36:48Z",
+          "url": "https://www.youtube.com/watch?v=1IX5kM-Io_Y"
         },
         {
           "source": "youtube_trending_eg",
           "title": "كيد الرخاص",
           "channel": "دنيا الالفي - Topic",
           "category_id": "10",
-          "views": "9033",
-          "likes": "142",
+          "views": "10258",
+          "likes": "157",
           "comments": "0",
           "published_at": "2026-09-27T17:13:11Z",
           "url": "https://www.youtube.com/watch?v=ZbJieUzCOCU"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "فتحنا كل باكدجات اللعبة في فيديو واحد 😱🔥 | PUBG Mobile",
-          "channel": "GhNewa",
+          "title": "عملنا ستريم سنايب على يوتيوبر مشهور انا وحسونة  !! 😂🔥",
+          "channel": "BEPO FF",
           "category_id": "20",
-          "views": "13162",
-          "likes": "787",
-          "comments": "40",
-          "published_at": "2026-09-29T14:00:24Z",
-          "url": "https://www.youtube.com/watch?v=7cUqQGocI-A"
+          "views": "160983",
+          "likes": "13777",
+          "comments": "437",
+          "published_at": "2026-09-29T10:59:29Z",
+          "url": "https://www.youtube.com/watch?v=kD8KB5BdmJk"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "هدف خارق + فوز = التشكيله كامله هتطور من بيزك ضعيف الي Big Time🔥او ابلع عقاب 🤯!",
-          "channel": "MessiGaming10",
+          "title": "احتل البابا الساحه ( all eyez on me - بلعب بمهاره ) حمو المرشدي - توزيع احمد النص - 2027",
+          "channel": "Hamo ELMorshdy - حمو المرشدي",
+          "category_id": "10",
+          "views": "337343",
+          "likes": "5832",
+          "comments": "917",
+          "published_at": "2026-09-26T13:10:54Z",
+          "url": "https://www.youtube.com/watch?v=kAfyIlnxlSU"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "فتحت بكج ثنائي القوه  في الهجوم والدفاع 🤯عودة مقاوم الاستربس🔥 |efootbal 2027",
+          "channel": "TONY GAMING",
           "category_id": "20",
-          "views": "146536",
-          "likes": "9452",
-          "comments": "402",
-          "published_at": "2026-09-29T08:20:35Z",
-          "url": "https://www.youtube.com/watch?v=lGsOzfJoj3Q"
+          "views": "181410",
+          "likes": "12672",
+          "comments": "338",
+          "published_at": "2026-09-28T18:53:48Z",
+          "url": "https://www.youtube.com/watch?v=sbkYhZGssC4"
         },
         {
           "source": "youtube_trending_eg",
           "title": "العيون الحلوه دي",
           "channel": "ديباك كومار - Topic",
           "category_id": "10",
-          "views": "36891",
-          "likes": "377",
+          "views": "38234",
+          "likes": "395",
           "comments": "1",
           "published_at": "2026-09-21T10:04:47Z",
           "url": "https://www.youtube.com/watch?v=nK8JOZS2774"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "فاجأت أخويا وطورت حسابه بـ 15,000 كوين! 🤯🔥 معقول الفريق بقى أسطوري؟! 😍 || eFootball 27",
-          "channel": "GAMING AHMED HAMDI",
+          "title": "ماب سرقه البيض سرقت البيض ووديتو عند اخر وحش (امسك نفسك من الضحك😂) 😳 |  steal an egg admin abuse",
+          "channel": "يوميات عبده ماندو _ Abdo Mando",
           "category_id": "20",
-          "views": "43447",
-          "likes": "6852",
-          "comments": "147",
-          "published_at": "2026-09-29T12:32:58Z",
-          "url": "https://www.youtube.com/watch?v=8axH4Msi7m0"
+          "views": "22145",
+          "likes": "2281",
+          "comments": "91",
+          "published_at": "2026-09-29T17:43:19Z",
+          "url": "https://www.youtube.com/watch?v=Uff7Gj3ZESA"
         },
         {
           "source": "youtube_trending_eg",
           "title": "كليب كيد الرخاص ( العين صابتني ) دنيا الالفي 2026 - توزيع محمد حريقة - انتاج المهندس فتحي سلامه",
           "channel": "دنيا الالفى - Donia Elalfy",
           "category_id": "10",
-          "views": "34266",
-          "likes": "718",
-          "comments": "52",
+          "views": "38360",
+          "likes": "751",
+          "comments": "54",
           "published_at": "2026-09-27T15:00:17Z",
           "url": "https://www.youtube.com/watch?v=eh4gclC60Ss"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اصلانو من أضعف رجل إلى أقوى رجل 💪 كل ضربة تزود قوتي +1 | Strength Destruction",
-          "channel": "Ahmed Aslan",
-          "category_id": "20",
-          "views": "48981",
-          "likes": "708",
-          "comments": "13",
-          "published_at": "2026-09-28T15:00:18Z",
-          "url": "https://www.youtube.com/watch?v=IvPGbma_Now"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "يا دكتور العياده",
-          "channel": "El Khal الخال - Topic",
-          "category_id": "10",
-          "views": "17404",
-          "likes": "140",
-          "comments": "0",
-          "published_at": "2026-09-21T10:40:51Z",
-          "url": "https://www.youtube.com/watch?v=SWz-TbdTIaw"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "البحث عن أبره في وسط 1300000000 مليون قشه 😱 | Find The Needle",
-          "channel": "Abdo Mando - عبده ماندو",
-          "category_id": "20",
-          "views": "48822",
-          "likes": "2199",
-          "comments": "114",
-          "published_at": "2026-09-28T19:57:20Z",
-          "url": "https://www.youtube.com/watch?v=XFMWzIgF47o"
         }
       ]
     },
     {
-      "collected_at": "2026-09-29T22:04:31.383583+00:00",
+      "collected_at": "2026-09-30T04:56:09.691242+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-09-29T22:04:31.742139+00:00",
+      "collected_at": "2026-09-30T04:56:10.798757+00:00",
       "platform": "tiktok",
       "items": []
     }
