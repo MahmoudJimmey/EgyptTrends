@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-01T05:09:13.438389+00:00",
+  "generated_at": "2026-10-01T12:48:54.709627+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-01T05:09:13.880382+00:00",
+      "collected_at": "2026-10-01T12:48:55.409611+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "الطقس",
-          "traffic": "20000+"
+          "term": "كرة اليد",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "weather",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "الفنانة رحمة محسن",
+          "term": "بنك ناصر الاجتماعي",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الأرجنتين ضد بوليفيا",
-          "traffic": "20000+"
+          "term": "وزارة الداخلية",
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "argentina vs bolivia",
-          "traffic": "10000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ماء الشرب",
+          "term": "النيابة العامة",
           "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "غادة عادل",
+          "term": "محمد ثروت",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "منتخب المغرب لكرة القدم",
-          "traffic": "500+"
+          "term": "أسعار البنزين",
+          "traffic": "10000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "وقود السيارات",
-          "traffic": "5000+"
+          "term": "japan vs ecuador",
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "تعليم",
-          "traffic": "500+"
+          "term": "منتدى مصر 2026",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "قانون التصالح",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ماركو روبيو",
+          "traffic": "2000+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-01T05:09:14.009699+00:00",
+      "collected_at": "2026-10-01T12:48:55.587449+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "الجاي نوة ده الجي جحيم ( هتشوفو حد متخطر قاسي ) عصام صاصا الكروان - توزيع كيمو الديب Official Video",
           "channel": "عصام صاصا - Essam Saasa",
           "category_id": "10",
-          "views": "94279",
-          "likes": "5189",
-          "comments": "692",
+          "views": "122239",
+          "likes": "5899",
+          "comments": "729",
           "published_at": "2026-09-30T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=4XBPUzSpc28"
         },
@@ -77,9 +77,9 @@
           "title": "Avengers: Doomsday | “EXTINCTION” TRAILER CONCEPT | Marvel Studios",
           "channel": "MovieTrailers Entertainment",
           "category_id": "24",
-          "views": "1176327",
-          "likes": "10418",
-          "comments": "294",
+          "views": "1600957",
+          "likes": "13404",
+          "comments": "330",
           "published_at": "2026-09-30T13:30:17Z",
           "url": "https://www.youtube.com/watch?v=6ifgtTCexgs"
         },
@@ -88,9 +88,9 @@
           "title": "حياة ووبلي : قررت اسيب اليوتيوب و اروح اشتغل 😂🍕 | Wobbly Life !!",
           "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "52271",
-          "likes": "1789",
-          "comments": "122",
+          "views": "67305",
+          "likes": "2307",
+          "comments": "142",
           "published_at": "2026-09-30T13:00:10Z",
           "url": "https://www.youtube.com/watch?v=wPXCnCgCdG4"
         },
@@ -99,9 +99,9 @@
           "title": "MOUSV - KOL YOUM | موسى - كل يوم (Official Music Video)",
           "channel": "MOUSV",
           "category_id": "22",
-          "views": "47997",
-          "likes": "4655",
-          "comments": "782",
+          "views": "55046",
+          "likes": "4972",
+          "comments": "834",
           "published_at": "2026-09-30T15:00:08Z",
           "url": "https://www.youtube.com/watch?v=qoRrosSc90g"
         },
@@ -110,9 +110,9 @@
           "title": "Fortnitemares 2026 | Cinematic Trailer",
           "channel": "Fortnite",
           "category_id": "20",
-          "views": "2496376",
-          "likes": "100542",
-          "comments": "6430",
+          "views": "2602426",
+          "likes": "102051",
+          "comments": "6493",
           "published_at": "2026-09-29T13:00:00Z",
           "url": "https://www.youtube.com/watch?v=5lddZVFmxaw"
         },
@@ -121,9 +121,9 @@
           "title": "الهدايا الأخيرة ف الحملة وحزم قوية منتظرة 🔥🤯 جميع احداث يوم الخميس المميز 😱|efootball 2027",
           "channel": "من بره التمنتاشر",
           "category_id": "26",
-          "views": "147846",
-          "likes": "9475",
-          "comments": "379",
+          "views": "166451",
+          "likes": "9787",
+          "comments": "387",
           "published_at": "2026-09-30T11:52:11Z",
           "url": "https://www.youtube.com/watch?v=uGfa9pnYT-g"
         },
@@ -132,9 +132,9 @@
           "title": "كليب احمد ربك ( فاكر لما مكنتش بطيق ريحت اي سجاره ) امين خطاب - توزيع يوسف اوشا انتاج فيصل العبد",
           "channel": "Ameen Khattab - امين خطاب",
           "category_id": "10",
-          "views": "29915",
-          "likes": "1638",
-          "comments": "158",
+          "views": "38362",
+          "likes": "1925",
+          "comments": "176",
           "published_at": "2026-09-30T15:00:09Z",
           "url": "https://www.youtube.com/watch?v=bciJcmmCEeE"
         },
@@ -143,31 +143,31 @@
           "title": "Among Us: New Influencer Role Trailer 📸 Out Now!",
           "channel": "Innersloth",
           "category_id": "20",
-          "views": "1890658",
-          "likes": "75277",
-          "comments": "6022",
+          "views": "1941933",
+          "likes": "76061",
+          "comments": "6106",
           "published_at": "2026-09-29T17:02:42Z",
           "url": "https://www.youtube.com/watch?v=HQBYZPqxomM"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كوميديا مود الزومبي في 22 دقيقة 😂 منشنات التيك توك #96 | ببجي موبايل",
-          "channel": "3lilio",
+          "title": "لعبه مجنونه جدا عن توصيل الأشخاص بالعجله الي اماكن مستحيله😱 | Happy Wheels",
+          "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "85323",
-          "likes": "5042",
-          "comments": "121",
-          "published_at": "2026-09-29T18:31:53Z",
-          "url": "https://www.youtube.com/watch?v=Vyh8YxmhmvA"
+          "views": "31383",
+          "likes": "2471",
+          "comments": "152",
+          "published_at": "2026-09-30T17:35:37Z",
+          "url": "https://www.youtube.com/watch?v=q2LtMfYQ7_M"
         },
         {
           "source": "youtube_trending_eg",
           "title": "اركب الـ جي كلاس ( شوفت نجم الجيل _ حاسب جه البابا ) حاسب جه البابا _ حمو المرشدى 2027",
           "channel": "Karizma Production",
           "category_id": "22",
-          "views": "45681",
-          "likes": "1654",
-          "comments": "237",
+          "views": "55043",
+          "likes": "1841",
+          "comments": "247",
           "published_at": "2026-09-30T11:56:55Z",
           "url": "https://www.youtube.com/watch?v=iLubpU4bmB0"
         },
@@ -176,97 +176,97 @@
           "title": "The Witcher 3: Wild Hunt — Remastered | Official Launch Trailer",
           "channel": "The Witcher",
           "category_id": "20",
-          "views": "3265074",
-          "likes": "87154",
-          "comments": "5446",
+          "views": "3320229",
+          "likes": "87779",
+          "comments": "5484",
           "published_at": "2026-09-29T10:01:27Z",
           "url": "https://www.youtube.com/watch?v=OlmuIckOX0c"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "لعبه مجنونه جدا عن توصيل الأشخاص بالعجله الي اماكن مستحيله😱 | Happy Wheels",
-          "channel": "Abdo Mando - عبده ماندو",
+          "title": "لعبت بالسلاح المفضل لغنيوه و هو لعب بالـMK 🔥😂 | الدو الذهبي 😂",
+          "channel": "LiveSa3dola ",
           "category_id": "20",
-          "views": "23291",
-          "likes": "1831",
-          "comments": "141",
-          "published_at": "2026-09-30T17:35:37Z",
-          "url": "https://www.youtube.com/watch?v=q2LtMfYQ7_M"
+          "views": "43028",
+          "likes": "1645",
+          "comments": "47",
+          "published_at": "2026-09-30T15:00:00Z",
+          "url": "https://www.youtube.com/watch?v=4V18Y1D84xA"
         },
         {
           "source": "youtube_trending_eg",
           "title": "ZUKSH - System (Official Video) | Prod. Elkvp & coolpix | زوكش - سيستم",
           "channel": "Double Zuksh - دبل زوكش",
           "category_id": "10",
-          "views": "39745",
-          "likes": "1988",
-          "comments": "151",
+          "views": "43845",
+          "likes": "2114",
+          "comments": "162",
           "published_at": "2026-09-29T19:49:24Z",
           "url": "https://www.youtube.com/watch?v=-gLbdN4hhaI"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "لعبت بالسلاح المفضل لغنيوه و هو لعب بالـMK  😂 | الدو الذهبي 😂",
-          "channel": "LiveSa3dola ",
-          "category_id": "20",
-          "views": "33042",
-          "likes": "1359",
-          "comments": "39",
-          "published_at": "2026-09-30T15:00:00Z",
-          "url": "https://www.youtube.com/watch?v=4V18Y1D84xA"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Lil ALEX Matmarsh-ليل اليكس -مطمرش",
-          "channel": "Lil Alex Music",
-          "category_id": "10",
-          "views": "47233",
-          "likes": "2357",
-          "comments": "249",
-          "published_at": "2026-09-29T15:01:39Z",
-          "url": "https://www.youtube.com/watch?v=ZF7CwkA9t6E"
         },
         {
           "source": "youtube_trending_eg",
           "title": "هل دي نهاية سكن بيبو !! 💔👋",
           "channel": "BEPO FF",
           "category_id": "20",
-          "views": "167231",
-          "likes": "16524",
-          "comments": "462",
+          "views": "190823",
+          "likes": "18768",
+          "comments": "493",
           "published_at": "2026-09-30T12:44:37Z",
           "url": "https://www.youtube.com/watch?v=fSpLJp73pYY"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Lil ALEX Matmarsh-ليل اليكس -مطمرش",
+          "channel": "Lil Alex Music",
+          "category_id": "10",
+          "views": "50712",
+          "likes": "2443",
+          "comments": "256",
+          "published_at": "2026-09-29T15:01:39Z",
+          "url": "https://www.youtube.com/watch?v=ZF7CwkA9t6E"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "كوميديا مود الزومبي في 22 دقيقة 😂 منشنات التيك توك #96 | ببجي موبايل",
+          "channel": "3lilio",
+          "category_id": "20",
+          "views": "91951",
+          "likes": "5334",
+          "comments": "122",
+          "published_at": "2026-09-29T18:31:53Z",
+          "url": "https://www.youtube.com/watch?v=Vyh8YxmhmvA"
         },
         {
           "source": "youtube_trending_eg",
           "title": "رنو رنه ( اه صحيح الحب اعمي ) عصام صاصا و كيمو الديب - توزيع كيمو الديب Official Video",
           "channel": "كيمو الديب - kimo ElDeeb",
           "category_id": "10",
-          "views": "421836",
-          "likes": "7615",
-          "comments": "374",
+          "views": "438080",
+          "likes": "7777",
+          "comments": "383",
           "published_at": "2026-09-27T15:00:08Z",
           "url": "https://www.youtube.com/watch?v=WP2OjDsSEE4"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اكتشفت مرائب سرية وسرقت السيارات الخارقة في GTA 5! 🤯",
-          "channel": "Ahmed Aslan",
+          "title": "استخدمت الحيوانات للهروب من الغابة !!",
+          "channel": "Aslano",
           "category_id": "20",
-          "views": "51142",
-          "likes": "880",
-          "comments": "14",
-          "published_at": "2026-09-29T16:47:42Z",
-          "url": "https://www.youtube.com/watch?v=2zdkVtIUFBk"
+          "views": "17325",
+          "likes": "355",
+          "comments": "5",
+          "published_at": "2026-09-30T15:00:26Z",
+          "url": "https://www.youtube.com/watch?v=Kc8Yf6ulFiU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "كاش كاش ( هو ده القانون ) حمو بيكا وفليكس | Hamo Bika ft. @FLEX020  ( Cash Cash )",
           "channel": "Hamo Bika - حمو بيكا",
           "category_id": "10",
-          "views": "12633",
-          "likes": "428",
-          "comments": "33",
+          "views": "14730",
+          "likes": "481",
+          "comments": "38",
           "published_at": "2026-09-30T15:00:09Z",
           "url": "https://www.youtube.com/watch?v=0N9x61jFqtA"
         },
@@ -275,9 +275,9 @@
           "title": "DID WE JUST BEAT MAGNUS CARLSEN? 😱",
           "channel": "Witty_Alien",
           "category_id": "24",
-          "views": "128486",
-          "likes": "8430",
-          "comments": "942",
+          "views": "237645",
+          "likes": "12318",
+          "comments": "1394",
           "published_at": "2026-09-30T19:16:38Z",
           "url": "https://www.youtube.com/watch?v=3mzScaC1UB4"
         },
@@ -286,65 +286,65 @@
           "title": "كليب بعلن اعتزالي - تيم عمده | Ba3len E3tezaly Music Video - Team Omda",
           "channel": "تيم عمده ميوزك - team omda music",
           "category_id": "10",
-          "views": "35541",
-          "likes": "1000",
-          "comments": "168",
+          "views": "43460",
+          "likes": "1223",
+          "comments": "189",
           "published_at": "2026-09-30T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=gpxoDXbb4fc"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "فيلم روبلوكس : عداد العمر ولكن المرة دى ما تعمل شر يزيد +1 ..!😱🔥",
-          "channel": "Migo9",
+          "title": "اكتشفت مرائب سرية وسرقت السيارات الخارقة في GTA 5! 🤯",
+          "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "63406",
-          "likes": "2370",
-          "comments": "234",
-          "published_at": "2026-09-29T23:05:44Z",
-          "url": "https://www.youtube.com/watch?v=HaCz6r0i-lI"
+          "views": "55191",
+          "likes": "972",
+          "comments": "18",
+          "published_at": "2026-09-29T16:47:42Z",
+          "url": "https://www.youtube.com/watch?v=2zdkVtIUFBk"
         },
         {
           "source": "youtube_trending_eg",
           "title": "دا اسطبل لامم وانا خيال ( بنت البلد عبايتها حكايه ) مصطفي الجن و هادي الصغير - توزيع دولسي برودكشن",
           "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
           "category_id": "10",
-          "views": "35743",
-          "likes": "625",
+          "views": "38490",
+          "likes": "645",
           "comments": "26",
           "published_at": "2026-09-29T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=nvxhYob03ak"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "استخدمت الحيوانات للهروب من الغابة !!",
-          "channel": "Aslano",
+          "title": "خمن مكان البيضة خلف الكوب | Shuffle an Egg !! 🥚🥛",
+          "channel": "Solom",
           "category_id": "20",
-          "views": "12970",
-          "likes": "236",
-          "comments": "3",
-          "published_at": "2026-09-30T15:00:26Z",
-          "url": "https://www.youtube.com/watch?v=Kc8Yf6ulFiU"
+          "views": "21202",
+          "likes": "784",
+          "comments": "30",
+          "published_at": "2026-09-30T16:49:48Z",
+          "url": "https://www.youtube.com/watch?v=Nuy4VAEDQ6c"
         },
         {
           "source": "youtube_trending_eg",
           "title": "الخال حجاج - 2027 ابعدي كل الخاينين | النسخه الأصلية كامله 2026 ",
           "channel": "EL KHAL HAGGAG | الخال حجاج",
           "category_id": "10",
-          "views": "62733",
-          "likes": "1214",
-          "comments": "52",
+          "views": "68099",
+          "likes": "1282",
+          "comments": "53",
           "published_at": "2026-09-28T21:30:06Z",
           "url": "https://www.youtube.com/watch?v=TeYEYTgIaB4"
         }
       ]
     },
     {
-      "collected_at": "2026-10-01T05:09:14.010330+00:00",
+      "collected_at": "2026-10-01T12:48:55.588240+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-01T05:09:14.326640+00:00",
+      "collected_at": "2026-10-01T12:48:56.105655+00:00",
       "platform": "tiktok",
       "items": []
     }
