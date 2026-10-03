@@ -1,24 +1,29 @@
 {
-  "generated_at": "2026-10-02T22:00:32.077611+00:00",
+  "generated_at": "2026-10-03T04:41:43.137900+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-02T22:00:32.631443+00:00",
+      "collected_at": "2026-10-03T04:41:43.442059+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "مسلسل هذا البحر سوف يفيض الموسم الثاني",
+          "term": "محكمة",
           "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "اميره اديب",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مسلسل هذا البحر سوف يفيض الموسم الثاني",
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
           "term": "ديانا هشام",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "france national football team vs italy national football team standings",
-          "traffic": "2000+"
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
@@ -29,6 +34,11 @@
           "source": "google_trends_rss",
           "term": "أشرف داري",
           "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "فرنسا",
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
@@ -43,22 +53,12 @@
         {
           "source": "google_trends_rss",
           "term": "فرنسا ضد إيطاليا",
-          "traffic": "50000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ذكاء",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "وزير",
-          "traffic": "1000+"
+          "traffic": "20000+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-02T22:00:32.803315+00:00",
+      "collected_at": "2026-10-03T04:41:43.574506+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "أيسل خالد -  درس خصوصي [2026] | Aysel Khaled - Dars 5wsosy",
           "channel": "Aysel Khaled",
           "category_id": "10",
-          "views": "445521",
-          "likes": "11609",
-          "comments": "1110",
+          "views": "469600",
+          "likes": "11776",
+          "comments": "1119",
           "published_at": "2026-10-01T13:11:01Z",
           "url": "https://www.youtube.com/watch?v=xAfferB-cCY"
         },
@@ -77,31 +77,31 @@
           "title": "Marvel Television’s VisionQuest | Official Trailer",
           "channel": "Marvel Entertainment",
           "category_id": "24",
-          "views": "11259187",
-          "likes": "187872",
-          "comments": "6888",
+          "views": "12094363",
+          "likes": "195157",
+          "comments": "7119",
           "published_at": "2026-10-01T16:00:21Z",
           "url": "https://www.youtube.com/watch?v=sXKnmgmbkoE"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كل هدف = الكرة هتكون أخطر",
-          "channel": "Abdo 2xd",
-          "category_id": "20",
-          "views": "716411",
-          "likes": "32302",
-          "comments": "537",
-          "published_at": "2026-10-01T12:15:39Z",
-          "url": "https://www.youtube.com/watch?v=FmhckkvFBxI"
+          "title": "لعبت أكتر لعبة بتعصب في العالم !! 🤯😡",
+          "channel": "Esraa Gaming ",
+          "category_id": "22",
+          "views": "312085",
+          "likes": "13573",
+          "comments": "2854",
+          "published_at": "2026-10-02T14:04:43Z",
+          "url": "https://www.youtube.com/watch?v=SwjpFxqGgpk"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Sherine - Khayen | شيرين - خاين",
           "channel": "Warner Music MENA",
           "category_id": "10",
-          "views": "1342610",
-          "likes": "22806",
-          "comments": "2585",
+          "views": "1704412",
+          "likes": "24832",
+          "comments": "2721",
           "published_at": "2026-10-01T15:00:37Z",
           "url": "https://www.youtube.com/watch?v=DkymdZxsi1M"
         },
@@ -110,31 +110,31 @@
           "title": "Dexter: Resurrection | Season 2 Official Trailer | Paramount+",
           "channel": "Paramount Plus",
           "category_id": "24",
-          "views": "3629161",
-          "likes": "44877",
-          "comments": "2834",
+          "views": "4504203",
+          "likes": "46403",
+          "comments": "2911",
           "published_at": "2026-10-01T15:00:03Z",
           "url": "https://www.youtube.com/watch?v=nTOf1FIsBcs"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اصلانو اصبح بطل خارق 😂!! هساعد الناس",
-          "channel": "Ahmed Aslan",
-          "category_id": "20",
-          "views": "29008",
-          "likes": "535",
-          "comments": "29",
-          "published_at": "2026-10-02T10:30:29Z",
-          "url": "https://www.youtube.com/watch?v=jTWcFne8ZyE"
+          "title": "كينقزليق مينا 🏆 – الجولة الخامسة | مباشر",
+          "channel": "Kings League MENA",
+          "category_id": "17",
+          "views": "1047181",
+          "likes": "10021",
+          "comments": "19",
+          "published_at": "2026-10-02T21:51:35Z",
+          "url": "https://www.youtube.com/watch?v=oNbEE8lpmdc"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Houda - Elalb Maat ( Official Video clip ) حوده ـ القلب مات ",
           "channel": "Houda",
           "category_id": "10",
-          "views": "222111",
-          "likes": "10279",
-          "comments": "814",
+          "views": "259854",
+          "likes": "11046",
+          "comments": "852",
           "published_at": "2026-10-01T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=MBHDVmngt9w"
         },
@@ -143,31 +143,31 @@
           "title": "Escape From Playtime | Open Beta Live Now | EXTENDED Trailer",
           "channel": "Mob Entertainment",
           "category_id": "20",
-          "views": "592711",
-          "likes": "30188",
-          "comments": "1475",
+          "views": "628526",
+          "likes": "30872",
+          "comments": "1496",
           "published_at": "2026-10-01T19:34:02Z",
           "url": "https://www.youtube.com/watch?v=A-ZH7LDcQSo"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "سلسلة مواهب مدفونة 💀 #1 | هازارد ",
-          "channel": "El 7areef - الحريف",
+          "title": "كل هدف = الكرة هتكون أخطر",
+          "channel": "Abdo 2xd",
           "category_id": "20",
-          "views": "60986",
-          "likes": "6705",
-          "comments": "517",
-          "published_at": "2026-10-02T12:45:02Z",
-          "url": "https://www.youtube.com/watch?v=Xv6nJTkIRXU"
+          "views": "755994",
+          "likes": "33023",
+          "comments": "542",
+          "published_at": "2026-10-01T12:15:39Z",
+          "url": "https://www.youtube.com/watch?v=FmhckkvFBxI"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Rahma Mohsen - Ana El Khosara | Official Music Video 2026 | رحمه محسن - انا الخسارة",
           "channel": "Rahma Mohsen - رحمه محسن",
           "category_id": "10",
-          "views": "205909",
-          "likes": "4698",
-          "comments": "265",
+          "views": "245443",
+          "likes": "5180",
+          "comments": "280",
           "published_at": "2026-10-01T14:00:08Z",
           "url": "https://www.youtube.com/watch?v=DLP45jSaBaY"
         },
@@ -176,31 +176,31 @@
           "title": "Avengers: Doomsday | “EXTINCTION” TRAILER CONCEPT | Marvel Studios",
           "channel": "MovieTrailers Entertainment",
           "category_id": "24",
-          "views": "2611902",
-          "likes": "19502",
-          "comments": "406",
+          "views": "2733466",
+          "likes": "20306",
+          "comments": "411",
           "published_at": "2026-09-30T13:30:17Z",
           "url": "https://www.youtube.com/watch?v=6ifgtTCexgs"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "قتلت كل الاقمار السفليه وواجهت اكازا بالغلط 😭| demon slayer in minecraft",
-          "channel": "Joe Fadl | چوو فضل",
-          "category_id": "22",
-          "views": "94271",
-          "likes": "9473",
-          "comments": "580",
-          "published_at": "2026-10-02T09:20:04Z",
-          "url": "https://www.youtube.com/watch?v=fGJ76e0BI5Y"
+          "title": "سلسلة مواهب مدفونة 💀 #1 | هازارد ",
+          "channel": "El 7areef - الحريف",
+          "category_id": "20",
+          "views": "79382",
+          "likes": "7427",
+          "comments": "539",
+          "published_at": "2026-10-02T12:45:02Z",
+          "url": "https://www.youtube.com/watch?v=Xv6nJTkIRXU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "انا والليل صحاب يابا ( رابط علي قلبي بالعافيه - غريق في بحر كلو نفاق ) حمو المرشدي - توزيع احمد النص",
           "channel": "Hamo ELMorshdy - حمو المرشدي",
           "category_id": "10",
-          "views": "122306",
-          "likes": "3293",
-          "comments": "354",
+          "views": "139626",
+          "likes": "3526",
+          "comments": "360",
           "published_at": "2026-10-01T16:20:12Z",
           "url": "https://www.youtube.com/watch?v=rCV2Z6uMVVg"
         },
@@ -209,120 +209,142 @@
           "title": "Among Us: New Influencer Role Trailer 📸 Out Now!",
           "channel": "Innersloth",
           "category_id": "20",
-          "views": "2192259",
-          "likes": "79480",
-          "comments": "6360",
+          "views": "2229506",
+          "likes": "79886",
+          "comments": "6378",
           "published_at": "2026-09-29T17:02:42Z",
           "url": "https://www.youtube.com/watch?v=HQBYZPqxomM"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "هربت بلساني من أخطر لعبة في روبلوكس! 👅😱",
-          "channel": "Mkamel GG",
+          "title": "هيكا في محاكي سواق الميكروباص المصري🚐🇪🇬",
+          "channel": "HikaGaming",
           "category_id": "20",
-          "views": "79511",
-          "likes": "4868",
-          "comments": "127",
-          "published_at": "2026-10-01T16:15:42Z",
-          "url": "https://www.youtube.com/watch?v=9d3KCcanDVg"
+          "views": "77499",
+          "likes": "3300",
+          "comments": "201",
+          "published_at": "2026-10-02T14:00:19Z",
+          "url": "https://www.youtube.com/watch?v=UUF8BOKbH5I"
         },
         {
           "source": "youtube_trending_eg",
           "title": "الجاي نوة ده الجي جحيم ( هتشوفو حد متخطر قاسي ) عصام صاصا الكروان - توزيع كيمو الديب Official Video",
           "channel": "عصام صاصا - Essam Saasa",
           "category_id": "10",
-          "views": "272746",
-          "likes": "8160",
-          "comments": "846",
+          "views": "292197",
+          "likes": "8355",
+          "comments": "852",
           "published_at": "2026-09-30T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=4XBPUzSpc28"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "The Witcher 3: Wild Hunt — Remastered | Official Launch Trailer",
-          "channel": "The Witcher",
+          "title": "جربت كل لاعبين عقد الأختيار الشو تايم !! 🤯🔥مين فيهم يستحق الأختيار ؟! 🤔☠️ || eFootball 27",
+          "channel": "OKATO GO",
           "category_id": "20",
-          "views": "3500723",
-          "likes": "89583",
-          "comments": "5593",
-          "published_at": "2026-09-29T10:01:27Z",
-          "url": "https://www.youtube.com/watch?v=OlmuIckOX0c"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "رحلة البحث عن افضل جوكر في التاريخ 🤯عودة الثلاثي الهولندي🔥 |efootbal 2027",
-          "channel": "TONY GAMING",
-          "category_id": "20",
-          "views": "194577",
-          "likes": "14554",
-          "comments": "492",
-          "published_at": "2026-10-01T18:56:57Z",
-          "url": "https://www.youtube.com/watch?v=uqnZ0rOhL_Q"
+          "views": "92155",
+          "likes": "6257",
+          "comments": "209",
+          "published_at": "2026-10-02T15:54:13Z",
+          "url": "https://www.youtube.com/watch?v=5Fh6yD2PPlU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Khayen",
           "channel": "Release - Topic",
           "category_id": "10",
-          "views": "33400",
-          "likes": "418",
+          "views": "39477",
+          "likes": "475",
           "comments": "0",
           "published_at": "2026-10-01T15:01:13Z",
           "url": "https://www.youtube.com/watch?v=uDGFziExCg4"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "يا ولي النعم",
-          "channel": "HERO GAMING",
+          "title": "قتلت كل الاقمار السفليه وواجهت اكازا بالغلط 😭| demon slayer in minecraft",
+          "channel": "Joe Fadl | چوو فضل",
+          "category_id": "22",
+          "views": "110781",
+          "likes": "10212",
+          "comments": "604",
+          "published_at": "2026-10-02T09:20:04Z",
+          "url": "https://www.youtube.com/watch?v=fGJ76e0BI5Y"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اركب الدبابه",
+          "channel": "Release - Topic",
+          "category_id": "10",
+          "views": "6783",
+          "likes": "121",
+          "comments": "0",
+          "published_at": "2026-10-02T15:46:49Z",
+          "url": "https://www.youtube.com/watch?v=tlkMyhxrA7I"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اصلانو اصبح بطل خارق 😂!! هساعد الناس",
+          "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "132413",
-          "likes": "12230",
-          "comments": "930",
-          "published_at": "2026-10-01T16:13:57Z",
-          "url": "https://www.youtube.com/watch?v=RZJ6-1TFeIM"
+          "views": "33654",
+          "likes": "576",
+          "comments": "33",
+          "published_at": "2026-10-02T10:30:29Z",
+          "url": "https://www.youtube.com/watch?v=jTWcFne8ZyE"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "عيني في فوني ( طفل في زماني  _ شارع الغرام فاضي يا حرام ) حمو المرشدي - توزيع احمد النص",
+          "channel": "Karizma Production",
+          "category_id": "22",
+          "views": "34438",
+          "likes": "1207",
+          "comments": "149",
+          "published_at": "2026-10-02T14:48:49Z",
+          "url": "https://www.youtube.com/watch?v=mFBFaIev6wo"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "رحلة البحث عن افضل جوكر في التاريخ 🤯عودة الثلاثي الهولندي🔥 |efootbal 2027",
+          "channel": "TONY GAMING",
+          "category_id": "20",
+          "views": "209938",
+          "likes": "15030",
+          "comments": "497",
+          "published_at": "2026-10-01T18:56:57Z",
+          "url": "https://www.youtube.com/watch?v=uqnZ0rOhL_Q"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Kan Andak Kam Sana",
           "channel": "Release - Topic",
           "category_id": "10",
-          "views": "28182",
-          "likes": "485",
+          "views": "34131",
+          "likes": "498",
           "comments": "0",
           "published_at": "2026-10-01T15:05:19Z",
           "url": "https://www.youtube.com/watch?v=5bflJSsgMc8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "حمام سباحه بتعوم فيه بنت شريره 😱 | POOL LOOP",
-          "channel": "Abdo Mando - عبده ماندو",
+          "title": "هربت بلساني من أخطر لعبة في روبلوكس! 👅😱",
+          "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "86428",
-          "likes": "3179",
-          "comments": "161",
-          "published_at": "2026-10-01T18:20:22Z",
-          "url": "https://www.youtube.com/watch?v=ndI4So4lfzQ"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "القلب مات",
-          "channel": "Houda - Topic",
-          "category_id": "10",
-          "views": "12711",
-          "likes": "319",
-          "comments": "2",
-          "published_at": "2026-10-01T15:08:30Z",
-          "url": "https://www.youtube.com/watch?v=RIdPFY3wn0g"
+          "views": "83848",
+          "likes": "4979",
+          "comments": "128",
+          "published_at": "2026-10-01T16:15:42Z",
+          "url": "https://www.youtube.com/watch?v=9d3KCcanDVg"
         }
       ]
     },
     {
-      "collected_at": "2026-10-02T22:00:32.804216+00:00",
+      "collected_at": "2026-10-03T04:41:43.575393+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-02T22:00:33.306645+00:00",
+      "collected_at": "2026-10-03T04:41:44.115716+00:00",
       "platform": "tiktok",
       "items": []
     }
