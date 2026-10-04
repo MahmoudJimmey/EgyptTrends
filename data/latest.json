@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-04T05:12:55.850402+00:00",
+  "generated_at": "2026-10-04T12:04:24.619138+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-04T05:12:56.540209+00:00",
+      "collected_at": "2026-10-04T12:04:25.171955+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "سعر الفراخ البيضاء اليوم",
+          "term": "السدير مسعود",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "موعد الشروق",
+          "term": "الاتحاد المصري لكرة القدم",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "usa vs mexico",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مصر واثيوبيا",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "الارجنتين",
+          "term": "الطريق الدائري",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "منتخب الارجنتين",
-          "traffic": "200+"
+          "term": "موعد اذان الظهر",
+          "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "منتخب مصر تحت 17 سنة لكرة القدم",
+          "term": "gemini ai",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "أحمد الجفالي",
+          "term": "سعر الصرف",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "منخفض جوي",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الأرجنتين ضد بوركينا فاسو",
-          "traffic": "20000+"
+          "term": "ابنة",
+          "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "argentina vs burkina faso",
-          "traffic": "20000+"
+          "term": "f1",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "أسعار الفراخ البيضاء اليوم",
+          "traffic": "1000+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-04T05:12:56.670943+00:00",
+      "collected_at": "2026-10-04T12:04:25.362621+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "Sherine - Khayen | شيرين - خاين",
           "channel": "Warner Music MENA",
           "category_id": "10",
-          "views": "2546618",
-          "likes": "31780",
-          "comments": "3194",
+          "views": "2633977",
+          "likes": "32698",
+          "comments": "3241",
           "published_at": "2026-10-01T15:00:37Z",
           "url": "https://www.youtube.com/watch?v=DkymdZxsi1M"
         },
@@ -77,9 +77,9 @@
           "title": "Marvel Television’s VisionQuest | Official Trailer",
           "channel": "Marvel Entertainment",
           "category_id": "24",
-          "views": "14521132",
-          "likes": "215208",
-          "comments": "7638",
+          "views": "15077288",
+          "likes": "219076",
+          "comments": "7722",
           "published_at": "2026-10-01T16:00:21Z",
           "url": "https://www.youtube.com/watch?v=sXKnmgmbkoE"
         },
@@ -88,9 +88,9 @@
           "title": "لعبت أكتر لعبة بتعصب في العالم !! 🤯😡",
           "channel": "Esraa Gaming ",
           "category_id": "22",
-          "views": "607522",
-          "likes": "20473",
-          "comments": "4353",
+          "views": "625761",
+          "likes": "21011",
+          "comments": "4486",
           "published_at": "2026-10-02T14:04:43Z",
           "url": "https://www.youtube.com/watch?v=SwjpFxqGgpk"
         },
@@ -99,9 +99,9 @@
           "title": "أيسل خالد -  درس خصوصي [2026] | Aysel Khaled - Dars 5wsosy",
           "channel": "Aysel Khaled",
           "category_id": "10",
-          "views": "627121",
-          "likes": "13466",
-          "comments": "1212",
+          "views": "643706",
+          "likes": "13689",
+          "comments": "1222",
           "published_at": "2026-10-01T13:11:01Z",
           "url": "https://www.youtube.com/watch?v=xAfferB-cCY"
         },
@@ -110,31 +110,31 @@
           "title": "Dexter: Resurrection | Season 2 Official Trailer | Paramount+",
           "channel": "Paramount Plus",
           "category_id": "24",
-          "views": "6779115",
-          "likes": "51308",
-          "comments": "3162",
+          "views": "7333393",
+          "likes": "51925",
+          "comments": "3192",
           "published_at": "2026-10-01T15:00:03Z",
           "url": "https://www.youtube.com/watch?v=nTOf1FIsBcs"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "سرقت بيضة جراني في أخطر نسخة STEAL AN EGG!! 😱🔥",
-          "channel": "Mkamel GG",
+          "title": "كل مرة اسرق سيارة اتحول الى بطل خارق جديد !!",
+          "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "52830",
-          "likes": "2843",
-          "comments": "100",
-          "published_at": "2026-10-03T13:00:39Z",
-          "url": "https://www.youtube.com/watch?v=N91UYXftuKU"
+          "views": "31847",
+          "likes": "692",
+          "comments": "11",
+          "published_at": "2026-10-03T17:03:08Z",
+          "url": "https://www.youtube.com/watch?v=-xKkS0cbbTQ"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Houda - Elalb Maat ( Official Video clip ) حوده ـ القلب مات ",
           "channel": "Houda",
           "category_id": "10",
-          "views": "399076",
-          "likes": "13943",
-          "comments": "965",
+          "views": "426478",
+          "likes": "14566",
+          "comments": "985",
           "published_at": "2026-10-01T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=MBHDVmngt9w"
         },
@@ -143,30 +143,30 @@
           "title": "Escape From Playtime | Open Beta Live Now | EXTENDED Trailer",
           "channel": "Mob Entertainment",
           "category_id": "20",
-          "views": "700556",
-          "likes": "32564",
-          "comments": "1576",
+          "views": "712130",
+          "likes": "32800",
+          "comments": "1592",
           "published_at": "2026-10-01T19:34:02Z",
           "url": "https://www.youtube.com/watch?v=A-ZH7LDcQSo"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كل مرة اسرق سيارة اتحول الى بطل خارق جديد !!",
-          "channel": "Ahmed Aslan",
+          "title": "سرقت بيضة جراني في أخطر نسخة STEAL AN EGG!! 😱🔥",
+          "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "23450",
-          "likes": "474",
-          "comments": "7",
-          "published_at": "2026-10-03T17:03:08Z",
-          "url": "https://www.youtube.com/watch?v=-xKkS0cbbTQ"
+          "views": "59842",
+          "likes": "3309",
+          "comments": "107",
+          "published_at": "2026-10-03T13:00:39Z",
+          "url": "https://www.youtube.com/watch?v=N91UYXftuKU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "اركب الدبابه",
           "channel": "Release - Topic",
           "category_id": "10",
-          "views": "36822",
-          "likes": "451",
+          "views": "42386",
+          "likes": "519",
           "comments": "0",
           "published_at": "2026-10-02T15:46:49Z",
           "url": "https://www.youtube.com/watch?v=tlkMyhxrA7I"
@@ -176,9 +176,9 @@
           "title": "كينقزليق مينا 🏆 – الجولة الخامسة | مباشر",
           "channel": "Kings League MENA",
           "category_id": "17",
-          "views": "1073240",
-          "likes": "10132",
-          "comments": "40",
+          "views": "1074469",
+          "likes": "10138",
+          "comments": "41",
           "published_at": "2026-10-02T21:51:35Z",
           "url": "https://www.youtube.com/watch?v=oNbEE8lpmdc"
         },
@@ -187,9 +187,9 @@
           "title": "Rahma Mohsen - Ana El Khosara | Official Music Video 2026 | رحمه محسن - انا الخسارة",
           "channel": "Rahma Mohsen - رحمه محسن",
           "category_id": "10",
-          "views": "392579",
-          "likes": "6999",
-          "comments": "344",
+          "views": "423798",
+          "likes": "7392",
+          "comments": "367",
           "published_at": "2026-10-01T14:00:08Z",
           "url": "https://www.youtube.com/watch?v=DLP45jSaBaY"
         },
@@ -198,64 +198,20 @@
           "title": "زحليقة السيارات المائيه | BeamNG.drive !! 😱🛝",
           "channel": "EstubeGaming",
           "category_id": "20",
-          "views": "28387",
-          "likes": "1241",
-          "comments": "65",
+          "views": "31876",
+          "likes": "1393",
+          "comments": "73",
           "published_at": "2026-10-03T14:08:45Z",
           "url": "https://www.youtube.com/watch?v=byNbfN-q7e4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Khayen",
-          "channel": "Release - Topic",
-          "category_id": "10",
-          "views": "72579",
-          "likes": "729",
-          "comments": "0",
-          "published_at": "2026-10-01T15:01:13Z",
-          "url": "https://www.youtube.com/watch?v=uDGFziExCg4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "تحدي الفوز بالسلاح الجديد فقط !!😱🔥",
-          "channel": "BEPO FF",
-          "category_id": "20",
-          "views": "165520",
-          "likes": "13723",
-          "comments": "412",
-          "published_at": "2026-10-03T13:24:05Z",
-          "url": "https://www.youtube.com/watch?v=HVOayPh5F9U"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "انا والليل صحاب يابا ( رابط علي قلبي بالعافيه - غريق في بحر كلو نفاق ) حمو المرشدي - توزيع احمد النص",
-          "channel": "Hamo ELMorshdy - حمو المرشدي",
-          "category_id": "10",
-          "views": "196001",
-          "likes": "4443",
-          "comments": "408",
-          "published_at": "2026-10-01T16:20:12Z",
-          "url": "https://www.youtube.com/watch?v=rCV2Z6uMVVg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "البحث عن الإبرة في كومة القش ",
-          "channel": "صالح - oPiiLz",
-          "category_id": "24",
-          "views": "831404",
-          "likes": "41191",
-          "comments": "1372",
-          "published_at": "2026-10-03T10:00:19Z",
-          "url": "https://www.youtube.com/watch?v=J_UH5zb-kf4"
         },
         {
           "source": "youtube_trending_eg",
           "title": "شبعان ومتربي - الخال حجاج (مولد يادنيا وعايشين صدمة) النسخه الأصلية 2026 ",
           "channel": "EL KHAL HAGGAG | الخال حجاج",
           "category_id": "10",
-          "views": "44422",
-          "likes": "955",
-          "comments": "46",
+          "views": "50207",
+          "likes": "1091",
+          "comments": "49",
           "published_at": "2026-10-02T20:04:17Z",
           "url": "https://www.youtube.com/watch?v=M5J6PeEUpc8"
         },
@@ -264,42 +220,86 @@
           "title": "ختمت حدث الفراشات الجديد وجبت سيكرت من الوحش الجديد 😂 | steal an egg admin abuse",
           "channel": "يوميات عبده ماندو _ Abdo Mando",
           "category_id": "20",
-          "views": "18969",
-          "likes": "1354",
-          "comments": "69",
+          "views": "28034",
+          "likes": "1883",
+          "comments": "83",
           "published_at": "2026-10-03T19:06:38Z",
           "url": "https://www.youtube.com/watch?v=VKllQOk181I"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "انا والليل صحاب يابا ( رابط علي قلبي بالعافيه - غريق في بحر كلو نفاق ) حمو المرشدي - توزيع احمد النص",
+          "channel": "Hamo ELMorshdy - حمو المرشدي",
+          "category_id": "10",
+          "views": "204922",
+          "likes": "4588",
+          "comments": "415",
+          "published_at": "2026-10-01T16:20:12Z",
+          "url": "https://www.youtube.com/watch?v=rCV2Z6uMVVg"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "تحدي الفوز بالسلاح الجديد فقط !!😱🔥",
+          "channel": "BEPO FF",
+          "category_id": "20",
+          "views": "190134",
+          "likes": "15784",
+          "comments": "440",
+          "published_at": "2026-10-03T13:24:05Z",
+          "url": "https://www.youtube.com/watch?v=HVOayPh5F9U"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Khayen",
+          "channel": "Release - Topic",
+          "category_id": "10",
+          "views": "76958",
+          "likes": "784",
+          "comments": "0",
+          "published_at": "2026-10-01T15:01:13Z",
+          "url": "https://www.youtube.com/watch?v=uDGFziExCg4"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "البحث عن الإبرة في كومة القش ",
+          "channel": "صالح - oPiiLz",
+          "category_id": "24",
+          "views": "962756",
+          "likes": "45474",
+          "comments": "1482",
+          "published_at": "2026-10-03T10:00:19Z",
+          "url": "https://www.youtube.com/watch?v=J_UH5zb-kf4"
         },
         {
           "source": "youtube_trending_eg",
           "title": "كليب الاقي هموم ( بقوم من النوم بلاقي هموم ) محمود السوهاجي -الحان   وليد خالد - الكليب الرسمي",
           "channel": "محمود السوهاجي سلطان الصعيد",
           "category_id": "10",
-          "views": "34544",
-          "likes": "1339",
-          "comments": "173",
+          "views": "36946",
+          "likes": "1386",
+          "comments": "176",
           "published_at": "2026-10-02T15:00:10Z",
           "url": "https://www.youtube.com/watch?v=PCzppUdiuQQ"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "هيكا في محاكي سواق الميكروباص المصري🚐🇪🇬",
-          "channel": "HikaGaming",
+          "title": "ستريم سنايب | ببجي ساعدتني اجنن الستريمر 😂🔥",
+          "channel": "Mr RoMa",
           "category_id": "20",
-          "views": "152626",
-          "likes": "5060",
-          "comments": "265",
-          "published_at": "2026-10-02T14:00:19Z",
-          "url": "https://www.youtube.com/watch?v=UUF8BOKbH5I"
+          "views": "34530",
+          "likes": "2864",
+          "comments": "178",
+          "published_at": "2026-10-03T17:32:49Z",
+          "url": "https://www.youtube.com/watch?v=PGxT6D1GoAE"
         },
         {
           "source": "youtube_trending_eg",
           "title": "عيني في فوني ( طفل في زماني  _ شارع الغرام فاضي يا حرام ) حمو المرشدي - توزيع احمد النص",
           "channel": "Karizma Production",
           "category_id": "22",
-          "views": "64650",
-          "likes": "1733",
-          "comments": "181",
+          "views": "67977",
+          "likes": "1795",
+          "comments": "184",
           "published_at": "2026-10-02T14:48:49Z",
           "url": "https://www.youtube.com/watch?v=mFBFaIev6wo"
         },
@@ -308,9 +308,9 @@
           "title": "إنقاذ مانشستر سيتي بعد الهبوط للدرجة الرابعة بسبب العقوبات المالية ⏬ FC 27",
           "channel": "يحيى عزام || العب يا نوب - Yahya Azzam Gaming",
           "category_id": "20",
-          "views": "36861",
-          "likes": "2567",
-          "comments": "51",
+          "views": "44582",
+          "likes": "2974",
+          "comments": "57",
           "published_at": "2026-10-03T17:00:46Z",
           "url": "https://www.youtube.com/watch?v=2pESBpYtPR4"
         },
@@ -319,32 +319,32 @@
           "title": "Kan Andak Kam Sana",
           "channel": "Release - Topic",
           "category_id": "10",
-          "views": "64479",
-          "likes": "778",
+          "views": "70705",
+          "likes": "841",
           "comments": "0",
           "published_at": "2026-10-01T15:05:19Z",
           "url": "https://www.youtube.com/watch?v=5bflJSsgMc8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "ستريم سنايب | ببجي ساعدتني اجنن الستريمر 😂🔥",
-          "channel": "Mr RoMa",
+          "title": "هيكا في محاكي سواق الميكروباص المصري🚐🇪🇬",
+          "channel": "HikaGaming",
           "category_id": "20",
-          "views": "26870",
-          "likes": "2412",
-          "comments": "167",
-          "published_at": "2026-10-03T17:32:49Z",
-          "url": "https://www.youtube.com/watch?v=PGxT6D1GoAE"
+          "views": "158024",
+          "likes": "5210",
+          "comments": "278",
+          "published_at": "2026-10-02T14:00:19Z",
+          "url": "https://www.youtube.com/watch?v=UUF8BOKbH5I"
         }
       ]
     },
     {
-      "collected_at": "2026-10-04T05:12:56.672011+00:00",
+      "collected_at": "2026-10-04T12:04:25.363452+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-04T05:12:57.009107+00:00",
+      "collected_at": "2026-10-04T12:04:25.709469+00:00",
       "platform": "tiktok",
       "items": []
     }
