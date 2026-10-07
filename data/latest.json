@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-07T05:16:24.568562+00:00",
+  "generated_at": "2026-10-07T13:00:18.995419+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-07T05:16:25.490387+00:00",
+      "collected_at": "2026-10-07T13:00:19.830336+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "погода",
+          "term": "موعد مباراة الزمالك",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "المكسيك ضد تشيلي",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "محمد انور السادات",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "حمادة هلال",
+          "term": "أنصار الله الحوثيون",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "عبد الفتاح السيسي",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "كوكب",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "حالة الطقس اليوم",
+          "term": "رضا سليم",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "play gta 5",
+          "term": "البطاقة التموينية",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ايات اباظة",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مشاهدة مباريات اليوم",
+          "term": "ريما حسن",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الهيئة القومية للتأمين الاجتماعي",
+          "term": "الاهلى",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مصراوي",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "طائرة مقاتلة",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سعر الفراخ البيضاء",
           "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-07T05:16:25.633372+00:00",
+      "collected_at": "2026-10-07T13:00:19.976244+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,20 +66,31 @@
           "title": "انا مش بتنسي علي فكرة ( الجيها كلها بتجدع ) مصطفي الجن و هادي الصغير - توزيع دولسي برودكشن",
           "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
           "category_id": "10",
-          "views": "26484",
-          "likes": "969",
-          "comments": "42",
+          "views": "38266",
+          "likes": "1198",
+          "comments": "47",
           "published_at": "2026-10-06T15:00:10Z",
           "url": "https://www.youtube.com/watch?v=ralrkGuahG0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "فيلم الفيل الأزرق ٣ - teaser",
+          "channel": "في ال scene - مع محمدين",
+          "category_id": "24",
+          "views": "4268",
+          "likes": "44",
+          "comments": "4",
+          "published_at": "2026-10-06T15:41:09Z",
+          "url": "https://www.youtube.com/watch?v=4uzAY2QuCSU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "رجعت لفيفا تاني بسبب رونالدو ال١٢٢🔥🇵🇹",
           "channel": "HikaSIU",
           "category_id": "20",
-          "views": "113940",
-          "likes": "9453",
-          "comments": "694",
+          "views": "135504",
+          "likes": "11095",
+          "comments": "762",
           "published_at": "2026-10-06T14:52:14Z",
           "url": "https://www.youtube.com/watch?v=E4hk5TEm5RI"
         },
@@ -88,9 +99,9 @@
           "title": " اسلام كابونجا [ العركة بدأت تاك تاك ] فيديو كليب ‏Eslam Kabonga - Tak Tak ‏[ Official Music Video ]",
           "channel": "اسلام كابونجا - الدبابه",
           "category_id": "10",
-          "views": "122464",
-          "likes": "3375",
-          "comments": "304",
+          "views": "135089",
+          "likes": "3660",
+          "comments": "330",
           "published_at": "2026-10-05T14:30:08Z",
           "url": "https://www.youtube.com/watch?v=0a8Ju8KsjY8"
         },
@@ -99,9 +110,9 @@
           "title": "تحدي القفز بالسيارات من علي مرتفاعاات عملاقه 🚗 ❌| BeamNG.drive",
           "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "43963",
-          "likes": "3069",
-          "comments": "100",
+          "views": "50758",
+          "likes": "3574",
+          "comments": "112",
           "published_at": "2026-10-06T13:02:16Z",
           "url": "https://www.youtube.com/watch?v=TTUrbfZ7Hdw"
         },
@@ -110,9 +121,9 @@
           "title": "الدنيا دي مرحمتنيش ( الدنيا كوم و امي في كوم ) احمد موزه السلطان - توزيع يوسف اوشا Official Video",
           "channel": "احمد موزه - Ahmed Moza",
           "category_id": "10",
-          "views": "25334",
-          "likes": "971",
-          "comments": "53",
+          "views": "33788",
+          "likes": "1123",
+          "comments": "57",
           "published_at": "2026-10-06T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=cs46V7VuCfc"
         },
@@ -121,9 +132,9 @@
           "title": "دخلت أخطر POOLROOMS في العالم… والوحش كان مستنيني Super Bear Adventure!!😱💧",
           "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "57321",
-          "likes": "3458",
-          "comments": "80",
+          "views": "68796",
+          "likes": "4329",
+          "comments": "87",
           "published_at": "2026-10-06T13:00:29Z",
           "url": "https://www.youtube.com/watch?v=ruBmnETXu9I"
         },
@@ -132,8 +143,8 @@
           "title": "الغرام المستحيل",
           "channel": "Sari Alsalibe - Topic",
           "category_id": "10",
-          "views": "21407",
-          "likes": "100",
+          "views": "31693",
+          "likes": "223",
           "comments": "0",
           "published_at": "2026-10-05T23:45:39Z",
           "url": "https://www.youtube.com/watch?v=qJmBLDN-XTU"
@@ -143,19 +154,41 @@
           "title": "اخيرااا التحديث الكبير المنتظر كونامي تعلنها🔥🤯 اخبار اليوم وبكج نجوم الاسبوع 😱|efootball 2026",
           "channel": "من بره التمنتاشر",
           "category_id": "26",
-          "views": "113821",
-          "likes": "8447",
-          "comments": "249",
+          "views": "127058",
+          "likes": "9059",
+          "comments": "264",
           "published_at": "2026-10-06T11:47:19Z",
           "url": "https://www.youtube.com/watch?v=kkpDcM405-E"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Mafish Marra",
+          "channel": "Sherine - Topic",
+          "category_id": "10",
+          "views": "32052",
+          "likes": "343",
+          "comments": "9",
+          "published_at": "2026-10-01T12:54:37Z",
+          "url": "https://www.youtube.com/watch?v=lpXoiuPvzrg"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "مسكت AWM مع MK في مود مود سيد المحيط  وجبنا 41 كيل  😂🔥| PUBG MOBILE 🔥",
+          "channel": "LiveSa3dola ",
+          "category_id": "20",
+          "views": "29883",
+          "likes": "1079",
+          "comments": "16",
+          "published_at": "2026-10-06T15:00:37Z",
+          "url": "https://www.youtube.com/watch?v=1qYuLQ1TW-k"
         },
         {
           "source": "youtube_trending_eg",
           "title": "العركة بدأت تاك تاك",
           "channel": "Eslam Kabonga - Topic",
           "category_id": "10",
-          "views": "25222",
-          "likes": "523",
+          "views": "27386",
+          "likes": "572",
           "comments": "13",
           "published_at": "2026-10-05T14:00:32Z",
           "url": "https://www.youtube.com/watch?v=9aUopE_2s_I"
@@ -165,9 +198,9 @@
           "title": "سبايدر مان وفينوم هربو من السجن 😱 Human Fall Flat",
           "channel": "Aslano",
           "category_id": "20",
-          "views": "28603",
-          "likes": "633",
-          "comments": "9",
+          "views": "32231",
+          "likes": "731",
+          "comments": "10",
           "published_at": "2026-10-06T10:45:17Z",
           "url": "https://www.youtube.com/watch?v=R33yPJVGOGM"
         },
@@ -176,175 +209,142 @@
           "title": "لما تحبى تغيظى الراجل ( اوعي تصدق كلمه اخويا ) كريم كرستيانو - توزيع يوسف اوشا Official Video",
           "channel": "الغزال كريم كرستيانو - Elgazal Cristiano",
           "category_id": "10",
-          "views": "10974",
-          "likes": "506",
+          "views": "14474",
+          "likes": "629",
           "comments": "20",
           "published_at": "2026-10-06T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=Fq6Ss74wi2o"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "رحلة البحث عن الساحر البرازيلي🤯مع تشكيلة الدوري الاسباني بين الماضي والحاضر🔥 |efootbal 2027",
-          "channel": "TONY GAMING",
+          "title": "من الصفر #8 اخر فرصة للتوب مليون🤯بداية كارثية في الديفيجن ولكن!🔥|efootball 2027",
+          "channel": "كابتن ماجد Gaming",
           "category_id": "20",
-          "views": "202141",
-          "likes": "15330",
-          "comments": "417",
-          "published_at": "2026-10-05T17:35:56Z",
-          "url": "https://www.youtube.com/watch?v=PT9iPPIAiKk"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Mafish Marra",
-          "channel": "Sherine - Topic",
-          "category_id": "10",
-          "views": "26109",
-          "likes": "285",
-          "comments": "9",
-          "published_at": "2026-10-01T12:54:37Z",
-          "url": "https://www.youtube.com/watch?v=lpXoiuPvzrg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "مش هيرو الي يخسر 50 ماتش ورا بعض 🔥",
-          "channel": "HERO GAMING",
-          "category_id": "20",
-          "views": "134039",
-          "likes": "14024",
-          "comments": "649",
-          "published_at": "2026-10-05T18:46:32Z",
-          "url": "https://www.youtube.com/watch?v=h4m5ddLE8rA"
+          "views": "66337",
+          "likes": "5553",
+          "comments": "250",
+          "published_at": "2026-10-06T15:02:38Z",
+          "url": "https://www.youtube.com/watch?v=XuKEd56-apY"
         },
         {
           "source": "youtube_trending_eg",
           "title": "الخال – ربنا يسترها عليا | El Khal - Rabbena Yestorha Ma3aya (Official Video)",
           "channel": "HAMO ELGALAD",
           "category_id": "10",
-          "views": "53955",
-          "likes": "750",
-          "comments": "77",
+          "views": "58536",
+          "likes": "806",
+          "comments": "80",
           "published_at": "2026-10-04T17:36:51Z",
           "url": "https://www.youtube.com/watch?v=2UD-2n6hfK4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "الرجل العنكبوت انقاذ باتمان Spider-Man Rescue batman vs iron man vs venom funny Game GTA 5 superhero",
-          "channel": "GTA HYPE",
-          "category_id": "10",
-          "views": "1881069",
-          "likes": "95309",
-          "comments": "5259",
-          "published_at": "2026-10-06T10:00:10Z",
-          "url": "https://www.youtube.com/watch?v=EGsAbe15tkg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "ايها السادة الأفاضل ( خد بالك من الي منك ) الخال حجاج | النسخه الأصلية 2026",
-          "channel": "EL KHAL HAGGAG | الخال حجاج",
-          "category_id": "10",
-          "views": "46594",
-          "likes": "744",
-          "comments": "24",
-          "published_at": "2026-10-01T21:15:09Z",
-          "url": "https://www.youtube.com/watch?v=Ngotfr42wxc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "مسكت AWM مع MK في مود مود سيد المحيط  وجبنا 41 كيل  😂🔥| PUBG MOBILE 🔥",
-          "channel": "LiveSa3dola ",
-          "category_id": "20",
-          "views": "24107",
-          "likes": "887",
-          "comments": "16",
-          "published_at": "2026-10-06T15:00:37Z",
-          "url": "https://www.youtube.com/watch?v=1qYuLQ1TW-k"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "شيطان وخططلهم",
-          "channel": "Release - Topic",
-          "category_id": "10",
-          "views": "18410",
-          "likes": "205",
-          "comments": "0",
-          "published_at": "2026-10-04T08:31:23Z",
-          "url": "https://www.youtube.com/watch?v=MuvW-QfmFtg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "من الصفر #8 اخر فرصة للتوب مليون🤯بداية كارثية في الديفيجن ولكن!🔥|efootball 2027",
-          "channel": "كابتن ماجد Gaming",
-          "category_id": "20",
-          "views": "57821",
-          "likes": "5004",
-          "comments": "225",
-          "published_at": "2026-10-06T15:02:38Z",
-          "url": "https://www.youtube.com/watch?v=XuKEd56-apY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Ramy Sabry -  Flamenco Medly [Jeddah concert 2026] | رامي صبري - ميدلي فلامنكو",
-          "channel": "Ramy Sabry",
-          "category_id": "10",
-          "views": "62215",
-          "likes": "955",
-          "comments": "56",
-          "published_at": "2026-10-04T15:38:45Z",
-          "url": "https://www.youtube.com/watch?v=8x1XIHTKe2U"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اتحبسنا في جزيرة ولازم نتعلم نصطاد سمك مع الشباب 😂🐟",
-          "channel": "LeOniDeS - مروان ريحان",
-          "category_id": "20",
-          "views": "339802",
-          "likes": "17237",
-          "comments": "735",
-          "published_at": "2026-10-04T15:15:18Z",
-          "url": "https://www.youtube.com/watch?v=dGUASBVYD9M"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "أنا الخسارة",
-          "channel": "Rahma Mohsen - Topic",
-          "category_id": "10",
-          "views": "54227",
-          "likes": "707",
-          "comments": "1",
-          "published_at": "2026-10-01T14:04:43Z",
-          "url": "https://www.youtube.com/watch?v=QokqW41yLVA"
         },
         {
           "source": "youtube_trending_eg",
           "title": "الجدة الشريرة جراني تستطيع الطيران | Granny !! 🪽😱",
           "channel": "EstubeGaming",
           "category_id": "20",
-          "views": "31670",
-          "likes": "1277",
-          "comments": "99",
+          "views": "39595",
+          "likes": "1548",
+          "comments": "111",
           "published_at": "2026-10-06T15:43:35Z",
           "url": "https://www.youtube.com/watch?v=XUt32kIYe4s"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "بالحب او زي ماتحب ( في ضهرك ياشق الشقايق ) عمر حفظي و اوشا الصغير - توزيع دولسي برودكشن انتاج الديب",
-          "channel": "الديب برودكشن - Eldeeb Productions",
+          "title": "ايها السادة الأفاضل ( خد بالك من الي منك ) الخال حجاج | النسخه الأصلية 2026",
+          "channel": "EL KHAL HAGGAG | الخال حجاج",
           "category_id": "10",
-          "views": "5977",
-          "likes": "231",
-          "comments": "3",
-          "published_at": "2026-10-06T15:00:08Z",
-          "url": "https://www.youtube.com/watch?v=C-DEVRUnXcc"
+          "views": "49022",
+          "likes": "774",
+          "comments": "27",
+          "published_at": "2026-10-01T21:15:09Z",
+          "url": "https://www.youtube.com/watch?v=Ngotfr42wxc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "الرجل العنكبوت انقاذ باتمان Spider-Man Rescue batman vs iron man vs venom funny Game GTA 5 superhero",
+          "channel": "GTA HYPE",
+          "category_id": "10",
+          "views": "2759659",
+          "likes": "95453",
+          "comments": "5271",
+          "published_at": "2026-10-06T10:00:10Z",
+          "url": "https://www.youtube.com/watch?v=EGsAbe15tkg"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "شيطان وخططلهم",
+          "channel": "Release - Topic",
+          "category_id": "10",
+          "views": "20173",
+          "likes": "234",
+          "comments": "0",
+          "published_at": "2026-10-04T08:31:23Z",
+          "url": "https://www.youtube.com/watch?v=MuvW-QfmFtg"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "مش هيرو الي يخسر 50 ماتش ورا بعض 🔥",
+          "channel": "HERO GAMING",
+          "category_id": "20",
+          "views": "139843",
+          "likes": "14546",
+          "comments": "669",
+          "published_at": "2026-10-05T18:46:32Z",
+          "url": "https://www.youtube.com/watch?v=h4m5ddLE8rA"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "أنا الخسارة",
+          "channel": "Rahma Mohsen - Topic",
+          "category_id": "10",
+          "views": "57723",
+          "likes": "766",
+          "comments": "1",
+          "published_at": "2026-10-01T14:04:43Z",
+          "url": "https://www.youtube.com/watch?v=QokqW41yLVA"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "رحلة البحث عن الساحر البرازيلي🤯مع تشكيلة الدوري الاسباني بين الماضي والحاضر🔥 |efootbal 2027",
+          "channel": "TONY GAMING",
+          "category_id": "20",
+          "views": "209899",
+          "likes": "15745",
+          "comments": "423",
+          "published_at": "2026-10-05T17:35:56Z",
+          "url": "https://www.youtube.com/watch?v=PT9iPPIAiKk"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Ramy Sabry -  Flamenco Medly [Jeddah concert 2026] | رامي صبري - ميدلي فلامنكو",
+          "channel": "Ramy Sabry",
+          "category_id": "10",
+          "views": "65878",
+          "likes": "999",
+          "comments": "67",
+          "published_at": "2026-10-04T15:38:45Z",
+          "url": "https://www.youtube.com/watch?v=8x1XIHTKe2U"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "فيلم روبلوكس : قالو عنى زباله ومختوم بالضعف..💔ميعرفوش اننا مختوم بالكيوبى كارما🦊🔥نهاية جامده بجد",
+          "channel": "Migo9",
+          "category_id": "20",
+          "views": "27928",
+          "likes": "1776",
+          "comments": "192",
+          "published_at": "2026-10-06T22:02:20Z",
+          "url": "https://www.youtube.com/watch?v=hPKHiXbxNyY"
         }
       ]
     },
     {
-      "collected_at": "2026-10-07T05:16:25.634203+00:00",
+      "collected_at": "2026-10-07T13:00:19.977179+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-07T05:16:25.940859+00:00",
+      "collected_at": "2026-10-07T13:00:20.452611+00:00",
       "platform": "tiktok",
       "items": []
     }
