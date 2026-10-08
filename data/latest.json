@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-08T05:26:00.340585+00:00",
+  "generated_at": "2026-10-08T13:07:45.146177+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-08T05:26:00.799922+00:00",
+      "collected_at": "2026-10-08T13:07:45.363367+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "погода",
-          "traffic": "100+"
+          "term": "مباراه الاهلي وبترول اسيوط كاس عاصمه مصر",
+          "traffic": "20000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "كرم جابر",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "عبد الملك الحوثي",
+          "term": "جنيه مصري",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مواقيت الصلاة اليوم",
+          "term": "إيكر كاسياس",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "العملة",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "محكمة القاهرة الاقتصادية",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "إغلاق",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "وزارة الداخلية",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مي كساب",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "فيفو y32",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "شريف فايد",
+          "term": "الرياض",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "شهادات بنك مصر",
-          "traffic": "100+"
+          "term": "شعير",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "توك توك",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "محمد إمام",
-          "traffic": "100+"
+          "term": "هاني شاكر",
+          "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-08T05:26:00.985007+00:00",
+      "collected_at": "2026-10-08T13:07:45.500716+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "MOUSV X Karim Osama - EL TAWLIFA | موسى و كريم اسامة - التوليفة Prod by Mohaimen",
           "channel": "MOUSV",
           "category_id": "22",
-          "views": "48748",
-          "likes": "3603",
-          "comments": "348",
+          "views": "59491",
+          "likes": "4089",
+          "comments": "379",
           "published_at": "2026-10-07T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=Gwg7GRzhFGU"
         },
@@ -77,9 +77,9 @@
           "title": "فيلم الفيل الأزرق ٣ - teaser",
           "channel": "في ال scene - مع محمدين",
           "category_id": "24",
-          "views": "11233",
-          "likes": "97",
-          "comments": "8",
+          "views": "13597",
+          "likes": "116",
+          "comments": "9",
           "published_at": "2026-10-06T15:41:09Z",
           "url": "https://www.youtube.com/watch?v=4uzAY2QuCSU"
         },
@@ -88,9 +88,9 @@
           "title": "تحدي السيارات ضد اكبر زوحليقه في العالم 🌏 😱 | BeamNG.drive",
           "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "48867",
-          "likes": "3595",
-          "comments": "130",
+          "views": "73132",
+          "likes": "4957",
+          "comments": "149",
           "published_at": "2026-10-07T16:01:27Z",
           "url": "https://www.youtube.com/watch?v=JJ2FMb3R_Oc"
         },
@@ -99,8 +99,8 @@
           "title": "انا مش بتنسي علي فكرة ( الجيها كلها بتجدع ) مصطفي الجن و هادي الصغير - توزيع دولسي برودكشن",
           "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
           "category_id": "10",
-          "views": "81226",
-          "likes": "1647",
+          "views": "90754",
+          "likes": "1822",
           "comments": "59",
           "published_at": "2026-10-06T15:00:10Z",
           "url": "https://www.youtube.com/watch?v=ralrkGuahG0"
@@ -110,163 +110,185 @@
           "title": "حملة هدايا اسطورية وميزات جديدة 🔥🤯 جميع هدايا واضافات التحديث القادم غدا 😱|efootball 2027",
           "channel": "من بره التمنتاشر",
           "category_id": "26",
-          "views": "159915",
-          "likes": "11549",
-          "comments": "839",
+          "views": "193344",
+          "likes": "12233",
+          "comments": "883",
           "published_at": "2026-10-07T12:13:34Z",
           "url": "https://www.youtube.com/watch?v=k1XBymLmrJI"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": " اسلام كابونجا [ العركة بدأت تاك تاك ] فيديو كليب ‏Eslam Kabonga - Tak Tak ‏[ Official Music Video ]",
-          "channel": "اسلام كابونجا - الدبابه",
-          "category_id": "10",
-          "views": "192069",
-          "likes": "4446",
-          "comments": "359",
-          "published_at": "2026-10-05T14:30:08Z",
-          "url": "https://www.youtube.com/watch?v=0a8Ju8KsjY8"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "من الصفر #6 مش هسيبك يا كالافيوري !! 🤯🔥ودي هي الفرصة الأخيرة لينا في الدفيجين ☠️ || eFootball 27",
-          "channel": "OKATO GO",
-          "category_id": "20",
-          "views": "111724",
-          "likes": "8373",
-          "comments": "181",
-          "published_at": "2026-10-07T14:01:49Z",
-          "url": "https://www.youtube.com/watch?v=ebnoaashuNA"
         },
         {
           "source": "youtube_trending_eg",
           "title": "الدنيا دي مرحمتنيش ( الدنيا كوم و امي في كوم ) احمد موزه السلطان - توزيع يوسف اوشا Official Video",
           "channel": "احمد موزه - Ahmed Moza",
           "category_id": "10",
-          "views": "59541",
-          "likes": "1416",
-          "comments": "59",
+          "views": "64931",
+          "likes": "1504",
+          "comments": "61",
           "published_at": "2026-10-06T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=cs46V7VuCfc"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "تحدي تسجيل الاهداف بكل نسخ بميسي التاريخيه فقط🔥🤯 |efootbal 2027",
-          "channel": "TONY GAMING",
+          "title": "من الصفر #6 مش هسيبك يا كالافيوري !! 🤯🔥ودي هي الفرصة الأخيرة لينا في الدفيجين ☠️ || eFootball 27",
+          "channel": "OKATO GO",
           "category_id": "20",
-          "views": "129820",
-          "likes": "9742",
-          "comments": "346",
-          "published_at": "2026-10-07T12:39:21Z",
-          "url": "https://www.youtube.com/watch?v=Nf0Mhp7sK0E"
+          "views": "128943",
+          "likes": "9223",
+          "comments": "188",
+          "published_at": "2026-10-07T14:01:49Z",
+          "url": "https://www.youtube.com/watch?v=ebnoaashuNA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "الغرام المستحيل",
-          "channel": "Sari Alsalibe - Topic",
+          "title": " اسلام كابونجا [ العركة بدأت تاك تاك ] فيديو كليب ‏Eslam Kabonga - Tak Tak ‏[ Official Music Video ]",
+          "channel": "اسلام كابونجا - الدبابه",
           "category_id": "10",
-          "views": "71359",
-          "likes": "491",
-          "comments": "0",
-          "published_at": "2026-10-05T23:45:39Z",
-          "url": "https://www.youtube.com/watch?v=qJmBLDN-XTU"
+          "views": "205501",
+          "likes": "4727",
+          "comments": "368",
+          "published_at": "2026-10-05T14:30:08Z",
+          "url": "https://www.youtube.com/watch?v=0a8Ju8KsjY8"
         },
         {
           "source": "youtube_trending_eg",
           "title": "أنا وأخويا دخلنا تحدي الرسم المستحيل! 🎨😂 مين رسم أحسن؟",
           "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "24980",
-          "likes": "912",
-          "comments": "20",
+          "views": "34046",
+          "likes": "1228",
+          "comments": "26",
           "published_at": "2026-10-07T10:48:15Z",
           "url": "https://www.youtube.com/watch?v=vOiQZZavMc8"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "الغرام المستحيل",
+          "channel": "Sari Alsalibe - Topic",
+          "category_id": "10",
+          "views": "81254",
+          "likes": "561",
+          "comments": "0",
+          "published_at": "2026-10-05T23:45:39Z",
+          "url": "https://www.youtube.com/watch?v=qJmBLDN-XTU"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "تحدي تسجيل الاهداف بكل نسخ بميسي التاريخيه فقط🔥🤯 |efootbal 2027",
+          "channel": "TONY GAMING",
+          "category_id": "20",
+          "views": "146027",
+          "likes": "10462",
+          "comments": "360",
+          "published_at": "2026-10-07T12:39:21Z",
+          "url": "https://www.youtube.com/watch?v=Nf0Mhp7sK0E"
         },
         {
           "source": "youtube_trending_eg",
           "title": "غار القمر",
           "channel": "Ramy Sabry - Topic",
           "category_id": "10",
-          "views": "15687",
-          "likes": "187",
+          "views": "19433",
+          "likes": "228",
           "comments": "2",
           "published_at": "2026-10-05T11:49:36Z",
           "url": "https://www.youtube.com/watch?v=kJyeFwtwmLk"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "رجعت لفيفا تاني بسبب رونالدو ال١٢٢🔥🇵🇹",
-          "channel": "HikaSIU",
+          "title": "فيلم روبلوكس : مصارع معتزل بيتنمروا عليه شباب صغير عشان عجوز… ميعرفوش إنه أقوى مصارع في التاريخ! 😱☠️",
+          "channel": "Migo9",
           "category_id": "20",
-          "views": "195424",
-          "likes": "13161",
-          "comments": "858",
-          "published_at": "2026-10-06T14:52:14Z",
-          "url": "https://www.youtube.com/watch?v=E4hk5TEm5RI"
+          "views": "37822",
+          "likes": "2124",
+          "comments": "256",
+          "published_at": "2026-10-07T22:22:18Z",
+          "url": "https://www.youtube.com/watch?v=1BWBftIxWdg"
         },
         {
           "source": "youtube_trending_eg",
           "title": "حماده هلال - أغنية إلا مصر 🇪🇬 اهداء من حزب حماة الوطن للجيش المصري بمناسبة 6 أكتوبر",
           "channel": "Hamada Helal - حماده هلال",
           "category_id": "10",
-          "views": "117680",
-          "likes": "3244",
-          "comments": "361",
+          "views": "126762",
+          "likes": "3484",
+          "comments": "372",
           "published_at": "2026-10-06T11:00:07Z",
           "url": "https://www.youtube.com/watch?v=n2UO13sUCw4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "غنيوه اتفنش فكان لازم أجيب الجيم لوحدي بالـ MK💪🔥  | الدو الذهبي 😂",
-          "channel": "LiveSa3dola ",
-          "category_id": "20",
-          "views": "29096",
-          "likes": "1419",
-          "comments": "24",
-          "published_at": "2026-10-07T15:00:01Z",
-          "url": "https://www.youtube.com/watch?v=TpRfKIK5aZY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "لما تحبى تغيظى الراجل ( اوعي تصدق كلمه اخويا ) كريم كرستيانو - توزيع يوسف اوشا Official Video",
-          "channel": "الغزال كريم كرستيانو - Elgazal Cristiano",
-          "category_id": "10",
-          "views": "25692",
-          "likes": "807",
-          "comments": "23",
-          "published_at": "2026-10-06T15:00:06Z",
-          "url": "https://www.youtube.com/watch?v=Fq6Ss74wi2o"
         },
         {
           "source": "youtube_trending_eg",
           "title": "تحولت إلى فينوم وجمعت سيارات الأبطال الخارقين في GTA 5! 😱🔥",
           "channel": "Aslano",
           "category_id": "20",
-          "views": "25909",
-          "likes": "401",
+          "views": "34280",
+          "likes": "519",
           "comments": "6",
           "published_at": "2026-10-07T11:00:10Z",
           "url": "https://www.youtube.com/watch?v=SR9v9FgqEQA"
         },
         {
           "source": "youtube_trending_eg",
+          "title": "لما تحبى تغيظى الراجل ( اوعي تصدق كلمه اخويا ) كريم كرستيانو - توزيع يوسف اوشا Official Video",
+          "channel": "الغزال كريم كرستيانو - Elgazal Cristiano",
+          "category_id": "10",
+          "views": "27933",
+          "likes": "860",
+          "comments": "25",
+          "published_at": "2026-10-06T15:00:06Z",
+          "url": "https://www.youtube.com/watch?v=Fq6Ss74wi2o"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "تحدي بناء اكبر سفينة فضائيه | Try To Reach The Final Island !! 🚀👽",
+          "channel": "Solom",
+          "category_id": "20",
+          "views": "30691",
+          "likes": "1262",
+          "comments": "47",
+          "published_at": "2026-10-07T14:54:09Z",
+          "url": "https://www.youtube.com/watch?v=1hcGlhumaZU"
+        },
+        {
+          "source": "youtube_trending_eg",
           "title": "خلاص ضاع - تامر عاشور - حوده بندق - مها فتوني - \" Khalas Daa3 \" Remix Sad 2026",
           "channel": "SAKR MUSIC",
           "category_id": "10",
-          "views": "33113",
-          "likes": "171",
+          "views": "34261",
+          "likes": "179",
           "comments": "2",
           "published_at": "2026-10-04T15:00:09Z",
           "url": "https://www.youtube.com/watch?v=9JVDf301rvI"
         },
         {
           "source": "youtube_trending_eg",
+          "title": "غنيوه اتفنش فكان لازم أجيب الجيم لوحدي بالـ MK💪🔥  | الدو الذهبي 😂",
+          "channel": "LiveSa3dola ",
+          "category_id": "20",
+          "views": "37946",
+          "likes": "1722",
+          "comments": "25",
+          "published_at": "2026-10-07T15:00:01Z",
+          "url": "https://www.youtube.com/watch?v=TpRfKIK5aZY"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "العركة بدأت تاك تاك",
+          "channel": "Eslam Kabonga - Topic",
+          "category_id": "10",
+          "views": "42153",
+          "likes": "854",
+          "comments": "16",
+          "published_at": "2026-10-05T14:00:32Z",
+          "url": "https://www.youtube.com/watch?v=9aUopE_2s_I"
+        },
+        {
+          "source": "youtube_trending_eg",
           "title": "قراند 5 😱مسكنا أول خيط يوصلنا للخاين🔥 | GTA V",
           "channel": "Abo Saged_أبو ساجد",
           "category_id": "20",
-          "views": "14299",
-          "likes": "2123",
-          "comments": "66",
+          "views": "18935",
+          "likes": "2516",
+          "comments": "70",
           "published_at": "2026-10-07T16:43:39Z",
           "url": "https://www.youtube.com/watch?v=kkJRLHUtC84"
         },
@@ -275,76 +297,54 @@
           "title": "Mafish Marra",
           "channel": "Sherine - Topic",
           "category_id": "10",
-          "views": "43142",
-          "likes": "428",
+          "views": "46614",
+          "likes": "475",
           "comments": "9",
           "published_at": "2026-10-01T12:54:37Z",
           "url": "https://www.youtube.com/watch?v=lpXoiuPvzrg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "فيلم روبلوكس : قالو عنى زباله ومختوم بالضعف..💔ميعرفوش اننا مختوم بالكيوبى كارما🦊🔥نهاية جامده بجد",
-          "channel": "Migo9",
+          "title": "رجعت لفيفا تاني بسبب رونالدو ال١٢٢🔥🇵🇹",
+          "channel": "HikaSIU",
           "category_id": "20",
-          "views": "69704",
-          "likes": "2759",
-          "comments": "243",
-          "published_at": "2026-10-06T22:02:20Z",
-          "url": "https://www.youtube.com/watch?v=hPKHiXbxNyY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "العركة بدأت تاك تاك",
-          "channel": "Eslam Kabonga - Topic",
-          "category_id": "10",
-          "views": "39476",
-          "likes": "781",
-          "comments": "16",
-          "published_at": "2026-10-05T14:00:32Z",
-          "url": "https://www.youtube.com/watch?v=9aUopE_2s_I"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "تحدي بناء اكبر سفينة فضائيه | Try To Reach The Final Island !! 🚀👽",
-          "channel": "Solom",
-          "category_id": "20",
-          "views": "20945",
-          "likes": "936",
-          "comments": "45",
-          "published_at": "2026-10-07T14:54:09Z",
-          "url": "https://www.youtube.com/watch?v=1hcGlhumaZU"
+          "views": "209855",
+          "likes": "13698",
+          "comments": "885",
+          "published_at": "2026-10-06T14:52:14Z",
+          "url": "https://www.youtube.com/watch?v=E4hk5TEm5RI"
         },
         {
           "source": "youtube_trending_eg",
           "title": "شيرين وبهاء🌹 كوكتيل أجمل الأغاني الرومانسية والحزينة 💔🎶 |🎧 Sherine & Bahaa",
           "channel": "Pop Music - بوب ميوزيك ",
           "category_id": "10",
-          "views": "10563",
-          "likes": "57",
+          "views": "11877",
+          "likes": "62",
           "comments": "0",
           "published_at": "2026-10-05T14:00:28Z",
           "url": "https://www.youtube.com/watch?v=PtdUAeVu5Xg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "حولت لعبه gta5 بالكامل لحقيقة بنظام gta6",
-          "channel": "Ahmed Desouky-احمد دسوقي",
+          "title": "اول يوتيوبر يفجر بكجات ميسي في إف سي موبايل 27 🔥 حراااام بجد 💔..!!",
+          "channel": "Mohamed Adel  TV",
           "category_id": "20",
-          "views": "22170",
-          "likes": "1434",
-          "comments": "199",
-          "published_at": "2026-10-07T13:00:00Z",
-          "url": "https://www.youtube.com/watch?v=vjZ34lH3Mwk"
+          "views": "31929",
+          "likes": "2517",
+          "comments": "173",
+          "published_at": "2026-10-08T03:34:16Z",
+          "url": "https://www.youtube.com/watch?v=uyqNsj6H8UQ"
         }
       ]
     },
     {
-      "collected_at": "2026-10-08T05:26:00.985565+00:00",
+      "collected_at": "2026-10-08T13:07:45.501687+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-08T05:26:01.281303+00:00",
+      "collected_at": "2026-10-08T13:07:45.884419+00:00",
       "platform": "tiktok",
       "items": []
     }
