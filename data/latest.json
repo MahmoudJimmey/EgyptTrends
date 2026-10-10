@@ -1,74 +1,107 @@
 {
-  "generated_at": "2026-10-10T05:13:50.835805+00:00",
+  "generated_at": "2026-10-10T12:12:34.406952+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-10T05:13:51.376369+00:00",
+      "collected_at": "2026-10-10T12:12:35.103701+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "الدوري المصري",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "توتنهام",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "عاصفة رعدية",
+          "term": "الاهلي و الزمالك",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "погода",
+          "term": "rayo vs athletic",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "عمر ارتان",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ريال مدريد",
+          "term": "ياسمين عز",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "طيار",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "google gemini",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "عاصفة",
+          "term": "arsenal",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "معتمد جمال",
-          "traffic": "1000+"
+          "term": "المصرف المتحد",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "آرسنال ضد ليدز",
+          "traffic": "10000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "arsenal vs leeds",
+          "traffic": "5000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "جمال الليثي",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سبيكة",
+          "traffic": "5000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "البنك التجاري الدولي",
+          "traffic": "100+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-10T05:13:51.573852+00:00",
+      "collected_at": "2026-10-10T12:12:35.283298+00:00",
       "platform": "youtube",
       "items": [
+        {
+          "source": "youtube_trending_eg",
+          "title": "كليب كوتي كوتي - ريشا كوستا - سماره ناو - عنبه [ الكليب الرسمي ] (2026)",
+          "channel": "ريشا كوستا و سماره - Resha wi SamaRa",
+          "category_id": "10",
+          "views": "52854",
+          "likes": "1561",
+          "comments": "134",
+          "published_at": "2026-10-09T13:00:09Z",
+          "url": "https://www.youtube.com/watch?v=yWmL_wiSD8U"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "The Exorcist: Martyrs | Official Trailer",
+          "channel": "Universal Pictures",
+          "category_id": "24",
+          "views": "1714013",
+          "likes": "32966",
+          "comments": "2845",
+          "published_at": "2026-10-09T22:31:45Z",
+          "url": "https://www.youtube.com/watch?v=iIEYfH-jg1Y"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "السفاح صديق الإنسان | Halloween: The Game",
+          "channel": "Karim Yl3b",
+          "category_id": "20",
+          "views": "172588",
+          "likes": "8938",
+          "comments": "204",
+          "published_at": "2026-10-09T14:00:32Z",
+          "url": "https://www.youtube.com/watch?v=8QlQ4Ty5Yyc"
+        },
         {
           "source": "youtube_trending_eg",
           "title": "عجوز بس رياضي ( رقم واحد بيتي وعنواني - سامع بيقول عني وبيلكلك ) - حمو المرشدي - توزيع : احمد النص",
           "channel": "Hamo ELMorshdy - حمو المرشدي",
           "category_id": "10",
-          "views": "150672",
-          "likes": "3606",
-          "comments": "600",
+          "views": "161054",
+          "likes": "3766",
+          "comments": "608",
           "published_at": "2026-10-08T11:22:31Z",
           "url": "https://www.youtube.com/watch?v=R2teGXF5eVM"
         },
@@ -77,86 +110,42 @@
           "title": "Absolute Justice | Official Teaser Trailer | DC",
           "channel": "DC",
           "category_id": "24",
-          "views": "1309950",
-          "likes": "33843",
-          "comments": "1408",
+          "views": "1468619",
+          "likes": "35862",
+          "comments": "1470",
           "published_at": "2026-10-09T16:15:25Z",
           "url": "https://www.youtube.com/watch?v=5T6U5Fqq7w4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "السفاح صديق الإنسان | Halloween: The Game",
-          "channel": "Karim Yl3b",
-          "category_id": "20",
-          "views": "138515",
-          "likes": "7466",
-          "comments": "174",
-          "published_at": "2026-10-09T14:00:32Z",
-          "url": "https://www.youtube.com/watch?v=8QlQ4Ty5Yyc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Khadija Amr -Ana msh kzaba (Official Music Video) خديجة عمرو -أنا مش كذابه",
-          "channel": "Khadija Amr",
-          "category_id": "10",
-          "views": "218786",
-          "likes": "4366",
-          "comments": "648",
-          "published_at": "2026-10-08T13:43:14Z",
-          "url": "https://www.youtube.com/watch?v=VA8cXDRPWJk"
         },
         {
           "source": "youtube_trending_eg",
           "title": "إشتريت لاعب 1 خارق من كل بلاي ستايل",
           "channel": "Abdo 2xd",
           "category_id": "20",
-          "views": "561373",
-          "likes": "35209",
-          "comments": "723",
+          "views": "639216",
+          "likes": "39151",
+          "comments": "767",
           "published_at": "2026-10-08T16:41:03Z",
           "url": "https://www.youtube.com/watch?v=mWOVGDWwNfs"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كليب كوتي كوتي - ريشا كوستا - سماره ناو - عنبه [ الكليب الرسمي ] (2026)",
-          "channel": "ريشا كوستا و سماره - Resha wi SamaRa",
+          "title": "Khadija Amr -Ana msh kzaba (Official Music Video) خديجة عمرو -أنا مش كذابه",
+          "channel": "Khadija Amr",
           "category_id": "10",
-          "views": "44178",
-          "likes": "1364",
-          "comments": "119",
-          "published_at": "2026-10-09T13:00:09Z",
-          "url": "https://www.youtube.com/watch?v=yWmL_wiSD8U"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "رحلة البحث عن اشرس مدافع مدريدي🤯مع تجربة اقوى ظهير مجاني🔥 |efootbal 2027",
-          "channel": "TONY GAMING",
-          "category_id": "20",
-          "views": "181312",
-          "likes": "13370",
-          "comments": "402",
-          "published_at": "2026-10-09T10:33:16Z",
-          "url": "https://www.youtube.com/watch?v=HncC5e2DMKg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "حاسب لا تقع ( فى حفرا يا جوزها ) حمو الطيخا 2026 - توزيع قط كرموز - Hamo Eltekha - Haseb La To2a3",
-          "channel": "حمو الطيخا - Hamo Eltekha",
-          "category_id": "10",
-          "views": "52263",
-          "likes": "3476",
-          "comments": "538",
-          "published_at": "2026-10-08T15:00:10Z",
-          "url": "https://www.youtube.com/watch?v=vVlcgBTLQxc"
+          "views": "244598",
+          "likes": "4571",
+          "comments": "660",
+          "published_at": "2026-10-08T13:43:14Z",
+          "url": "https://www.youtube.com/watch?v=VA8cXDRPWJk"
         },
         {
           "source": "youtube_trending_eg",
           "title": "جربت آخر نسخة لميسي مع أقوى تشكيلة نجوم أسبوع في eFootball 27 🤯🔥",
           "channel": "HERO GAMING",
           "category_id": "20",
-          "views": "71515",
-          "likes": "5998",
-          "comments": "265",
+          "views": "99682",
+          "likes": "7950",
+          "comments": "302",
           "published_at": "2026-10-09T19:10:07Z",
           "url": "https://www.youtube.com/watch?v=wglJIuUVnN0"
         },
@@ -165,9 +154,9 @@
           "title": "Slyver - PUFF PUFF | سلايفر - بف بف (Official Music Video)",
           "channel": "Slyver",
           "category_id": "10",
-          "views": "9879",
-          "likes": "980",
-          "comments": "145",
+          "views": "13965",
+          "likes": "1229",
+          "comments": "178",
           "published_at": "2026-10-09T20:00:07Z",
           "url": "https://www.youtube.com/watch?v=QHYFrkF-JuI"
         },
@@ -176,64 +165,86 @@
           "title": "فكرة شيطانية عمل نفسه رفيق 😂 منشنات التيك توك #97 | ببجي موبايل",
           "channel": "3lilio",
           "category_id": "20",
-          "views": "36262",
-          "likes": "3213",
-          "comments": "117",
+          "views": "50488",
+          "likes": "4210",
+          "comments": "142",
           "published_at": "2026-10-09T18:30:25Z",
           "url": "https://www.youtube.com/watch?v=Iw3QPVQ7Q8s"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "حاسب لا تقع ( فى حفرا يا جوزها ) حمو الطيخا 2026 - توزيع قط كرموز - Hamo Eltekha - Haseb La To2a3",
+          "channel": "حمو الطيخا - Hamo Eltekha",
+          "category_id": "10",
+          "views": "55571",
+          "likes": "3738",
+          "comments": "568",
+          "published_at": "2026-10-08T15:00:10Z",
+          "url": "https://www.youtube.com/watch?v=vVlcgBTLQxc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "رحلة البحث عن اشرس مدافع مدريدي🤯مع تجربة اقوى ظهير مجاني🔥 |efootbal 2027",
+          "channel": "TONY GAMING",
+          "category_id": "20",
+          "views": "196782",
+          "likes": "14072",
+          "comments": "415",
+          "published_at": "2026-10-09T10:33:16Z",
+          "url": "https://www.youtube.com/watch?v=HncC5e2DMKg"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Amjad Jomaa - Hawa (Official Music Video) | أمجد جمعة - هوى",
           "channel": "Amjad Jomaa",
           "category_id": "10",
-          "views": "949596",
-          "likes": "26016",
-          "comments": "2756",
+          "views": "1085232",
+          "likes": "28256",
+          "comments": "2947",
           "published_at": "2026-10-08T15:00:08Z",
           "url": "https://www.youtube.com/watch?v=z-GkOquSqLw"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "عدلت بلايستيشن 5 بنفسي.. لهدف واحد!",
-          "channel": "Gamerawi - وسيم",
+          "title": "تحدي تكسير اكبر بيضه في العالم طلعلي منها وحش اسطوري من الفضاء",
+          "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "390814",
-          "likes": "21437",
-          "comments": "1180",
-          "published_at": "2026-10-09T11:00:06Z",
-          "url": "https://www.youtube.com/watch?v=nArZKMDMBOQ"
+          "views": "48450",
+          "likes": "2169",
+          "comments": "136",
+          "published_at": "2026-10-09T18:17:48Z",
+          "url": "https://www.youtube.com/watch?v=tphExmG79ok"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Karim Mohsen - Ibn El Nas (Official Lyric Video) | كريم محسن - إبن الناس (جالي فتح في الكلام)",
           "channel": "Karim Mohsen | كريم محسن",
           "category_id": "10",
-          "views": "55213",
-          "likes": "1674",
-          "comments": "184",
+          "views": "57904",
+          "likes": "1746",
+          "comments": "186",
           "published_at": "2026-10-08T14:00:07Z",
           "url": "https://www.youtube.com/watch?v=k6VdM_ws4-8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "حاولت أغلب ماينكرافت ككائن عشوائي و هم يطاردوني..!",
-          "channel": "Omarmu AR",
+          "title": "أنا وأخويا بنينا أطول سُلّم في الفضاء علشان نوصل للمريخ! 😱🚀",
+          "channel": "Aslano",
           "category_id": "20",
-          "views": "48440",
-          "likes": "3472",
-          "comments": "180",
-          "published_at": "2026-10-09T12:00:08Z",
-          "url": "https://www.youtube.com/watch?v=545A7FIZmT8"
+          "views": "8399",
+          "likes": "835",
+          "comments": "13",
+          "published_at": "2026-10-10T09:30:05Z",
+          "url": "https://www.youtube.com/watch?v=-PzhtrmoCOQ"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Black Gak - نچيص FREESTYLE ",
           "channel": "Black Gak",
           "category_id": "22",
-          "views": "22171",
-          "likes": "1040",
-          "comments": "331",
+          "views": "27900",
+          "likes": "1290",
+          "comments": "395",
           "published_at": "2026-10-09T17:00:09Z",
           "url": "https://www.youtube.com/watch?v=NP5YM7JfUVU"
         },
@@ -242,9 +253,9 @@
           "title": "نهاية هنري المعصعص الغير متوقعه! 😂 | بالترجمة المصري 🇪🇬 | هنري المعصعص - Henry Stickmin",
           "channel": "Pisty - بيستي",
           "category_id": "20",
-          "views": "35519",
-          "likes": "3782",
-          "comments": "209",
+          "views": "40569",
+          "likes": "4187",
+          "comments": "223",
           "published_at": "2026-10-09T12:30:14Z",
           "url": "https://www.youtube.com/watch?v=jA48ualEs4g"
         },
@@ -253,98 +264,87 @@
           "title": "Bulin 47 X Kevin Wai - Dame Hombro (Video Oficial)",
           "channel": "Bulin 47 Oficial",
           "category_id": "10",
-          "views": "2073777",
-          "likes": "125579",
-          "comments": "6452",
+          "views": "2299567",
+          "likes": "129431",
+          "comments": "6599",
           "published_at": "2026-10-08T16:00:10Z",
           "url": "https://www.youtube.com/watch?v=VUIgT-E4IS0"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "تحدي تكسير اكبر بيضه في العالم طلعلي منها وحش اسطوري من الفضاء",
-          "channel": "Abdo Mando - عبده ماندو",
+          "title": "عدلت بلايستيشن 5 بنفسي.. لهدف واحد!",
+          "channel": "Gamerawi - وسيم",
           "category_id": "20",
-          "views": "28711",
-          "likes": "1518",
-          "comments": "106",
-          "published_at": "2026-10-09T18:17:48Z",
-          "url": "https://www.youtube.com/watch?v=tphExmG79ok"
+          "views": "438492",
+          "likes": "23225",
+          "comments": "1258",
+          "published_at": "2026-10-09T11:00:06Z",
+          "url": "https://www.youtube.com/watch?v=nArZKMDMBOQ"
         },
         {
           "source": "youtube_trending_eg",
           "title": "MOUSV X Karim Osama - EL TAWLIFA | موسى و كريم اسامة - التوليفة Prod by Mohaimen",
           "channel": "MOUSV",
           "category_id": "22",
-          "views": "105020",
-          "likes": "5080",
-          "comments": "411",
+          "views": "107678",
+          "likes": "5146",
+          "comments": "418",
           "published_at": "2026-10-07T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=Gwg7GRzhFGU"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "skibidi toilet 82",
-          "channel": "skibidi",
-          "category_id": "24",
-          "views": "3777997",
-          "likes": "189755",
-          "comments": "25629",
-          "published_at": "2026-10-09T14:00:08Z",
-          "url": "https://www.youtube.com/watch?v=javQvZ0ADx0"
+          "title": "حاولت أغلب ماينكرافت ككائن عشوائي و هم يطاردوني..!",
+          "channel": "Omarmu AR",
+          "category_id": "20",
+          "views": "59610",
+          "likes": "4081",
+          "comments": "195",
+          "published_at": "2026-10-09T12:00:08Z",
+          "url": "https://www.youtube.com/watch?v=545A7FIZmT8"
         },
         {
           "source": "youtube_trending_eg",
           "title": "انا مش بتنسي علي فكرة ( الجيها كلها بتجدع ) مصطفي الجن و هادي الصغير - توزيع دولسي برودكشن",
           "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
           "category_id": "10",
-          "views": "170307",
-          "likes": "2483",
-          "comments": "68",
+          "views": "177365",
+          "likes": "2572",
+          "comments": "70",
           "published_at": "2026-10-06T15:00:10Z",
           "url": "https://www.youtube.com/watch?v=ralrkGuahG0"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "جبت باك إنتر ميلان الجديد عشان انت متجيبهوش !! 😂🔥لاوتارو لو سكريمر خراافي 😍☠️ || eFootball 27",
-          "channel": "OKATO GO",
+          "title": "علمت أختي السواقة لأول مرة !! جابت العيد وهربنا من الشرطة 😂🚗💨",
+          "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "72314",
-          "likes": "4581",
-          "comments": "148",
-          "published_at": "2026-10-09T15:53:03Z",
-          "url": "https://www.youtube.com/watch?v=zBUqRn52Vrk"
+          "views": "6175",
+          "likes": "151",
+          "comments": "4",
+          "published_at": "2026-10-10T09:30:12Z",
+          "url": "https://www.youtube.com/watch?v=Cz5d0Bv6JW8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "واد خطر | El Khal ft. El Khala – Wad Khatar (Official Music Video)",
-          "channel": "HAMO ELGALAD",
+          "title": "وقت الشدة – الزعامة | ELza3aMa | Official Music Video",
+          "channel": "الزعامة - ELza3aMa",
           "category_id": "10",
-          "views": "22929",
-          "likes": "352",
-          "comments": "71",
-          "published_at": "2026-10-08T19:31:58Z",
-          "url": "https://www.youtube.com/watch?v=kaK7asQH7Bc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "ستريم سنايب | مكان ما يخطرش على بال حد 😂🔥",
-          "channel": "Mr RoMa",
-          "category_id": "20",
-          "views": "26368",
-          "likes": "2056",
-          "comments": "146",
-          "published_at": "2026-10-09T17:30:08Z",
-          "url": "https://www.youtube.com/watch?v=XW-Pb5X-3xs"
+          "views": "6996",
+          "likes": "102",
+          "comments": "2",
+          "published_at": "2026-10-08T14:00:08Z",
+          "url": "https://www.youtube.com/watch?v=ZdxNSLoYDhM"
         }
       ]
     },
     {
-      "collected_at": "2026-10-10T05:13:51.574806+00:00",
+      "collected_at": "2026-10-10T12:12:35.284127+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-10T05:13:51.805807+00:00",
+      "collected_at": "2026-10-10T12:12:35.705021+00:00",
       "platform": "tiktok",
       "items": []
     }
