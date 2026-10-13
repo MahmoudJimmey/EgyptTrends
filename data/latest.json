@@ -1,96 +1,129 @@
 {
-  "generated_at": "2026-10-13T13:54:21.986010+00:00",
+  "generated_at": "2026-10-13T22:28:18.493844+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-13T13:54:22.474423+00:00",
+      "collected_at": "2026-10-13T22:28:18.915909+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "البنك الاهلي ضد طلائع الجيش",
+          "term": "رمسيس الثاني",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "دعم الأسرة",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ياسر جلال",
+          "term": "مدير أمن",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "صلاة العصر",
-          "traffic": "10000+"
+          "term": "galatasaray vs fc barcelona standings",
+          "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "rj mitte وفاة",
+          "term": "arsenal f.c. vs losc lille standings",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "كريم أديمي",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مضيفة",
+          "term": "نابولي",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ترتيبات الاتحاد السكندرى – نادى الجونه",
+          "traffic": "5000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "إسلام جمال",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "omar marmoush",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "كووورة",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "نسرين أمين",
+          "term": "bayern",
           "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "max caster",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "alexander zverev",
-          "traffic": "100+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-13T13:54:22.641957+00:00",
+      "collected_at": "2026-10-13T22:28:19.023486+00:00",
       "platform": "youtube",
       "items": [
+        {
+          "source": "youtube_trending_eg",
+          "title": "Donia Samir Ghanem - Allah y3enny |  2026 |  دنيا سمير غانم - الله يعينّي من ألبوم الدلال",
+          "channel": "Donia Samir Ghanem",
+          "category_id": "10",
+          "views": "105740",
+          "likes": "4490",
+          "comments": "491",
+          "published_at": "2026-10-13T13:58:47Z",
+          "url": "https://www.youtube.com/watch?v=vdrzeiIHQtQ"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix",
+          "channel": "Netflix",
+          "category_id": "24",
+          "views": "613781",
+          "likes": "29199",
+          "comments": "4480",
+          "published_at": "2026-10-13T18:00:00Z",
+          "url": "https://www.youtube.com/watch?v=gDJ-ini7fF0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "مدينة GTA 5 اتجمدت بالكامل 🥶❄️ حاولت أنجو من أبرد يوم في جاتا !",
+          "channel": "Ahmed Aslan",
+          "category_id": "20",
+          "views": "29190",
+          "likes": "660",
+          "comments": "10",
+          "published_at": "2026-10-13T13:40:26Z",
+          "url": "https://www.youtube.com/watch?v=UOf2Iyod9QM"
+        },
         {
           "source": "youtube_trending_eg",
           "title": "انتا جاي في ايه يا شيخنا (انا مش عامل فيها مولانا 2)",
           "channel": "السلطان - Topic",
           "category_id": "10",
-          "views": "54048",
-          "likes": "628",
+          "views": "83053",
+          "likes": "851",
           "comments": "0",
           "published_at": "2026-10-11T21:02:20Z",
           "url": "https://www.youtube.com/watch?v=GsSZpwrE320"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Official Season 3 Part 2 Trailer | One-Punch Man | VIZ",
-          "channel": "vizmedia",
-          "category_id": "1",
-          "views": "1645477",
-          "likes": "36576",
-          "comments": "6910",
-          "published_at": "2026-10-10T18:20:16Z",
-          "url": "https://www.youtube.com/watch?v=iOFHoZWeEw4"
+          "title": "The Exorcist: Martyrs | Official Trailer",
+          "channel": "Universal Pictures",
+          "category_id": "24",
+          "views": "5206899",
+          "likes": "66431",
+          "comments": "5153",
+          "published_at": "2026-10-09T22:31:45Z",
+          "url": "https://www.youtube.com/watch?v=iIEYfH-jg1Y"
         },
         {
           "source": "youtube_trending_eg",
           "title": "فتحت بكج ثلاثي الدوري الانجليزي🤯عودة الكوون اجيروو🔥 |efootbal 2027",
           "channel": "TONY GAMING",
           "category_id": "20",
-          "views": "141922",
-          "likes": "11307",
-          "comments": "449",
+          "views": "181228",
+          "likes": "12814",
+          "comments": "473",
           "published_at": "2026-10-12T18:56:07Z",
           "url": "https://www.youtube.com/watch?v=el8f_3PEf4Q"
         },
@@ -99,42 +132,97 @@
           "title": "الخال حجاج - شيطاني تايب بس مماتش (يا اصفر مني بتأكلك) النسخه الأصلية 2026",
           "channel": "EL KHAL HAGGAG | الخال حجاج",
           "category_id": "10",
-          "views": "90260",
-          "likes": "1654",
-          "comments": "74",
+          "views": "125722",
+          "likes": "2473",
+          "comments": "107",
           "published_at": "2026-10-11T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=-m_2ZhAaFoY"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "The Exorcist: Martyrs | Official Trailer",
-          "channel": "Universal Pictures",
-          "category_id": "24",
-          "views": "4972098",
-          "likes": "64889",
-          "comments": "5092",
-          "published_at": "2026-10-09T22:31:45Z",
-          "url": "https://www.youtube.com/watch?v=iIEYfH-jg1Y"
+          "title": "نجوت من فتيات القوة الملعونات في ماين كرافت!! 😱🚫Minecraft",
+          "channel": "Mkamel GG",
+          "category_id": "20",
+          "views": "29487",
+          "likes": "1427",
+          "comments": "54",
+          "published_at": "2026-10-13T15:45:09Z",
+          "url": "https://www.youtube.com/watch?v=BIn_-kphKPo"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "قديم بجديد ( اخواتك اللي قصادك ديا ) مصطفي الجن و كريم كرستيانو و هادي الصغير - توزيع امجد الجوكر",
+          "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
+          "category_id": "10",
+          "views": "14719",
+          "likes": "649",
+          "comments": "29",
+          "published_at": "2026-10-13T15:00:10Z",
+          "url": "https://www.youtube.com/watch?v=Gj5b0XLLRaQ"
         },
         {
           "source": "youtube_trending_eg",
           "title": "البحث عن اساطير الدوري الانجليزي 🤯🏆 تفجير بكج اجويرو وتوريس 🔥 eFootball 27",
           "channel": "HERO GAMING",
           "category_id": "20",
-          "views": "73281",
-          "likes": "6837",
-          "comments": "617",
+          "views": "103443",
+          "likes": "8133",
+          "comments": "671",
           "published_at": "2026-10-12T20:08:44Z",
           "url": "https://www.youtube.com/watch?v=9xG3LlDePoE"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Khaled Essam - NAWY | خالد عصام - ناوى (Official Music Video)",
+          "channel": "Khaled Essam",
+          "category_id": "10",
+          "views": "43266",
+          "likes": "1298",
+          "comments": "71",
+          "published_at": "2026-10-12T16:00:31Z",
+          "url": "https://www.youtube.com/watch?v=822YdlHcNjM"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "حدث جديد يبدء وحزم بريميم رهيبة قادمة 🔥🤯 تحديث جديد اخر يوم الخميس القادم 😱|efootball 2027",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "100837",
+          "likes": "6858",
+          "comments": "191",
+          "published_at": "2026-10-13T11:25:32Z",
+          "url": "https://www.youtube.com/watch?v=4vcDKDDcFTs"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "انا مالي بيك",
+          "channel": "Release - Topic",
+          "category_id": "10",
+          "views": "20891",
+          "likes": "162",
+          "comments": "3",
+          "published_at": "2026-10-11T11:33:27Z",
+          "url": "https://www.youtube.com/watch?v=TyNMOHg2qrg"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "دربت الانتر و الميلان بالصفقات الجديدة لمدة موسم واحد🏆",
+          "channel": "B3shr - بشر",
+          "category_id": "20",
+          "views": "101638",
+          "likes": "4027",
+          "comments": "121",
+          "published_at": "2026-10-12T18:00:35Z",
+          "url": "https://www.youtube.com/watch?v=_kIKiEWMw2E"
         },
         {
           "source": "youtube_trending_eg",
           "title": "شاطب اسامي معلمين ( الشباب بقيت تعاني -عيال جديده لانج نوڤي ) حمو المرشدي - حصرياً 2026",
           "channel": "Hamo ELMorshdy - حمو المرشدي",
           "category_id": "10",
-          "views": "145933",
-          "likes": "2793",
-          "comments": "470",
+          "views": "174695",
+          "likes": "3055",
+          "comments": "484",
           "published_at": "2026-10-11T13:16:45Z",
           "url": "https://www.youtube.com/watch?v=LtIKmneyzFg"
         },
@@ -143,208 +231,120 @@
           "title": "الهروب من مطعم جدو سوشي 🍣😱 الشيف المجنون بيطاردني في روبلوكس!",
           "channel": "Aslano",
           "category_id": "20",
-          "views": "42983",
-          "likes": "1240",
+          "views": "57276",
+          "likes": "1481",
           "comments": "4",
           "published_at": "2026-10-12T11:20:21Z",
           "url": "https://www.youtube.com/watch?v=rBDdqYMdw-A"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Khaled Essam - NAWY | خالد عصام - ناوى (Official Music Video)",
-          "channel": "Khaled Essam",
+          "title": "كليب خاين ( هانت عليك كل الوعود ) اشرقت احمد - Ashrakat KHAYEN Official Video",
+          "channel": "Ashraqat - اشرقت ",
           "category_id": "10",
-          "views": "29776",
-          "likes": "1016",
-          "comments": "66",
-          "published_at": "2026-10-12T16:00:31Z",
-          "url": "https://www.youtube.com/watch?v=822YdlHcNjM"
+          "views": "15387",
+          "likes": "730",
+          "comments": "99",
+          "published_at": "2026-10-13T15:00:09Z",
+          "url": "https://www.youtube.com/watch?v=yMqELtqd7q0"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "دربت الانتر و الميلان بالصفقات الجديدة لمدة موسم واحد🏆",
-          "channel": "B3shr - عمرو بشر",
+          "title": "من الصفر #9 موسم جديد غيرت نص الفريق🤯هل نكسر ريت 3200؟🔥|efootball 2027",
+          "channel": "كابتن ماجد Gaming",
           "category_id": "20",
-          "views": "70246",
-          "likes": "3260",
-          "comments": "104",
-          "published_at": "2026-10-12T18:00:35Z",
-          "url": "https://www.youtube.com/watch?v=_kIKiEWMw2E"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "الحب عيبنا",
-          "channel": "Ramy Sabry - Topic",
-          "category_id": "10",
-          "views": "75479",
-          "likes": "546",
-          "comments": "0",
-          "published_at": "2026-10-11T11:33:27Z",
-          "url": "https://www.youtube.com/watch?v=ZTwcVJM9lCY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "جبت اقوي اساطير الهجوم للدوري الإنجليزي !! 🤯🔥أجويرو بـ 3 مهارات اسطورية 😍☠️ || eFootball 27",
-          "channel": "OKATO GO",
-          "category_id": "20",
-          "views": "132666",
-          "likes": "8001",
-          "comments": "275",
-          "published_at": "2026-10-12T13:05:28Z",
-          "url": "https://www.youtube.com/watch?v=Mzch4CMaA7s"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "رزقنا على الله 🙏 | VELXORA | Official Music Video 2026",
-          "channel": "VELXORA",
-          "category_id": "10",
-          "views": "34651",
-          "likes": "307",
-          "comments": "2",
-          "published_at": "2026-10-11T16:16:24Z",
-          "url": "https://www.youtube.com/watch?v=SRLw0kpXXh8"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "هل تقدر تعرف اللون الحقيقي لكل شخصية في روبلوكس؟ 🎨😂",
-          "channel": "Mkamel GG",
-          "category_id": "20",
-          "views": "43049",
-          "likes": "1627",
-          "comments": "96",
-          "published_at": "2026-10-12T15:30:29Z",
-          "url": "https://www.youtube.com/watch?v=iLm-kue0fhs"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "سندال و نسوانجي - حمو الطيخا - مودي امين - Sabdal w Naswange -Elt5A&Mody Amin Official Music 2026",
-          "channel": "ManDo El 3almy - ماندو العالمي",
-          "category_id": "10",
-          "views": "14151",
-          "likes": "649",
-          "comments": "59",
-          "published_at": "2026-10-12T15:00:07Z",
-          "url": "https://www.youtube.com/watch?v=btXjfuBt0QE"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "البحث عن المهاجم المرعب سيرخيو أجويرو 🥶🔥 عودة توريس ودروجبا بكروت أسطورية 🤯☠️ | eFootball 2027",
-          "channel": "JIGGSo_ar",
-          "category_id": "20",
-          "views": "100291",
-          "likes": "6744",
-          "comments": "336",
-          "published_at": "2026-10-12T12:50:32Z",
-          "url": "https://www.youtube.com/watch?v=iFddJgXvrV0"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "الخصومه نو فير - اسلام كابونجا - Eslam Kabonga - El5soma No Faer - Official Music 2026",
-          "channel": "Original Music",
-          "category_id": "10",
-          "views": "12837",
-          "likes": "497",
-          "comments": "63",
-          "published_at": "2026-10-12T13:15:10Z",
-          "url": "https://www.youtube.com/watch?v=Tt593dCAqZI"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اتحولنا انا واصدقائى الى حيوانات مسكينة بتحاول تحمى بيضها 🥚 من البشر الاشرار..!😭 ساعدونا",
-          "channel": "Migo9 Roblox",
-          "category_id": "22",
-          "views": "31207",
-          "likes": "1194",
-          "comments": "95",
-          "published_at": "2026-10-12T16:31:08Z",
-          "url": "https://www.youtube.com/watch?v=l4nhesEJbsw"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اللي يجي يجي يلا يامراحب",
-          "channel": "مصطفي الجن وهادي الصغير - تيم الابداع - Topic",
-          "category_id": "10",
-          "views": "16661",
-          "likes": "209",
-          "comments": "6",
-          "published_at": "2026-10-11T15:00:04Z",
-          "url": "https://www.youtube.com/watch?v=yDjyWlpHur0"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اصعب تحدي نجيب 50 كيل في جيم واحد ؟! 💀🔥 | مع الدو المشاكس 🔥",
-          "channel": "LiveSa3dola ",
-          "category_id": "20",
-          "views": "41132",
-          "likes": "1358",
-          "comments": "33",
-          "published_at": "2026-10-12T15:00:28Z",
-          "url": "https://www.youtube.com/watch?v=9nm40mRTTJw"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "شيطانى تايب بس مماتش",
-          "channel": "الخال حجاج - Topic",
-          "category_id": "10",
-          "views": "24712",
-          "likes": "447",
-          "comments": "0",
-          "published_at": "2026-10-11T04:34:49Z",
-          "url": "https://www.youtube.com/watch?v=Mfql-xUvNBs"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "خمن لون لعبه الصحيح | Guess the Anomaly Color !! 🤔",
-          "channel": "EstubeGaming",
-          "category_id": "20",
-          "views": "26329",
-          "likes": "940",
-          "comments": "64",
-          "published_at": "2026-10-12T13:26:19Z",
-          "url": "https://www.youtube.com/watch?v=ixifKX5E8Pw"
+          "views": "43758",
+          "likes": "5255",
+          "comments": "298",
+          "published_at": "2026-10-13T14:22:30Z",
+          "url": "https://www.youtube.com/watch?v=N1039Rbhv54"
         },
         {
           "source": "youtube_trending_eg",
           "title": "ايه شعبان 2027 ( الكل ف وادي وانا ف وادي ) ترند التيك توك _ شعبي ميكس جديد 2027",
           "channel": "Aya Shaban- أية شعبان ",
           "category_id": "22",
-          "views": "5424",
-          "likes": "101",
-          "comments": "3",
+          "views": "13758",
+          "likes": "178",
+          "comments": "4",
           "published_at": "2026-10-12T12:00:09Z",
           "url": "https://www.youtube.com/watch?v=tI_nCFYyCDg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "قراند 5 😱 مطاردة مجنونة بعد اكتشاف معرض الخاين!🚔🔥 | GTA V",
-          "channel": "Abo Saged_أبو ساجد",
+          "title": "    طورنا حسابين من الصفر في ساعتين بـ12,000 كوين.. ضد أخويا! 🔥 ||efootball 2027",
+          "channel": "Malak Mohamed",
           "category_id": "20",
-          "views": "17937",
-          "likes": "2343",
-          "comments": "69",
-          "published_at": "2026-10-12T16:42:59Z",
-          "url": "https://www.youtube.com/watch?v=1rVZUyiKDEY"
+          "views": "26456",
+          "likes": "2040",
+          "comments": "93",
+          "published_at": "2026-10-13T13:39:50Z",
+          "url": "https://www.youtube.com/watch?v=qSoJHe8oEp8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "مهرجان خلي ولي مدير",
-          "channel": "Mohamed Moneam - Topic",
+          "title": "الحب عيبنا",
+          "channel": "Release - Topic",
           "category_id": "10",
-          "views": "75651",
+          "views": "93271",
           "likes": "616",
-          "comments": "0",
-          "published_at": "2026-10-06T21:09:59Z",
-          "url": "https://www.youtube.com/watch?v=fP1RnpaYq3k"
+          "comments": "1",
+          "published_at": "2026-10-11T11:33:27Z",
+          "url": "https://www.youtube.com/watch?v=ZTwcVJM9lCY"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "مبقتش عارف افرق بين صحابي و الوحوش 😂 #4  | Memesis 😂",
+          "channel": "LiveSa3dola ",
+          "category_id": "20",
+          "views": "21850",
+          "likes": "1136",
+          "comments": "43",
+          "published_at": "2026-10-13T13:00:29Z",
+          "url": "https://www.youtube.com/watch?v=ESuAAlqKYQ0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "سندال و نسوانجي - حمو الطيخا - مودي امين - Sabdal w Naswange -Elt5A&Mody Amin Official Music 2026",
+          "channel": "ManDo El 3almy - ماندو العالمي",
+          "category_id": "10",
+          "views": "21115",
+          "likes": "784",
+          "comments": "62",
+          "published_at": "2026-10-12T15:00:07Z",
+          "url": "https://www.youtube.com/watch?v=btXjfuBt0QE"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اتحولنا انا واصدقائى الى حيوانات مسكينة بتحاول تحمى بيضها 🥚 من البشر الاشرار..!😭 ساعدونا",
+          "channel": "Migo9 Roblox",
+          "category_id": "22",
+          "views": "43114",
+          "likes": "1393",
+          "comments": "107",
+          "published_at": "2026-10-12T16:31:08Z",
+          "url": "https://www.youtube.com/watch?v=l4nhesEJbsw"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "DAPL M - يا يا يا YA YA YA | (Official Music Video)",
+          "channel": "DAPL M",
+          "category_id": "10",
+          "views": "4384",
+          "likes": "369",
+          "comments": "50",
+          "published_at": "2026-10-13T14:01:31Z",
+          "url": "https://www.youtube.com/watch?v=7JLc-OIIvrM"
         }
       ]
     },
     {
-      "collected_at": "2026-10-13T13:54:22.642873+00:00",
+      "collected_at": "2026-10-13T22:28:19.024395+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-13T13:54:22.971511+00:00",
+      "collected_at": "2026-10-13T22:28:19.429488+00:00",
       "platform": "tiktok",
       "items": []
     }
