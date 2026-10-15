@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-15T16:40:40.564516+00:00",
+  "generated_at": "2026-10-15T21:08:41.645050+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-15T16:40:40.954095+00:00",
+      "collected_at": "2026-10-15T21:08:42.309425+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "موعد اذان العشاء",
-          "traffic": "2000+"
+          "term": "بنك مصر",
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "تسجيل استمارة الصف الثالث الاعدادي",
+          "term": "مهرجان الجونة السينمائي",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "قصر معاشيق عدن",
+          "term": "عمرو موسى",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مسلسل خمسين خمسين",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "إسرائيل",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "rb salzburg vs milan",
+          "term": "يوفنتوس",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "جمال عبد الحميد",
+          "term": "عقار",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "استقالة",
+          "term": "benfica vs celtic",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "kups vs trabzonspor",
-          "traffic": "2000+"
+          "term": "bournemouth vs sturm graz",
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الحزم ضد الفتح",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "europa conference league",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "ياسمين صبري",
-          "traffic": "200+"
+          "term": "محمد صلاح",
+          "traffic": "20000+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-15T16:40:41.207684+00:00",
+      "collected_at": "2026-10-15T21:08:42.455748+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "الحسن عادل و ايسل خالد - يا بابا | من البوم هو[2026] | Alhassan Adel ft Aisel Khaled- Ya Baba",
           "channel": "Alhassan adel ",
           "category_id": "10",
-          "views": "24956",
-          "likes": "8618",
-          "comments": "1377",
+          "views": "283210",
+          "likes": "13643",
+          "comments": "1655",
           "published_at": "2026-10-15T14:00:09Z",
           "url": "https://www.youtube.com/watch?v=pWlh981sFE4"
         },
@@ -77,9 +77,9 @@
           "title": "Grand Theft Auto VI Launch Trailer",
           "channel": "Rockstar Games",
           "category_id": "20",
-          "views": "2633264",
-          "likes": "799272",
-          "comments": "62117",
+          "views": "13995431",
+          "likes": "1150590",
+          "comments": "86223",
           "published_at": "2026-10-15T13:00:26Z",
           "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY"
         },
@@ -88,9 +88,9 @@
           "title": "خليت ميسي ورونالدو ونيمار يلعبوا مع بعض لمدة 15 سنة",
           "channel": "Abdo 2xd",
           "category_id": "20",
-          "views": "627200",
-          "likes": "31424",
-          "comments": "805",
+          "views": "750785",
+          "likes": "34554",
+          "comments": "838",
           "published_at": "2026-10-14T14:53:02Z",
           "url": "https://www.youtube.com/watch?v=oSp8rpcInzc"
         },
@@ -99,9 +99,9 @@
           "title": "Nancy Ajram - Bastafizzak (Official Music Video) / نانسي عجرم - بستفزك",
           "channel": "Nancy Ajram",
           "category_id": "10",
-          "views": "2077099",
-          "likes": "19806",
-          "comments": "2816",
+          "views": "2256648",
+          "likes": "21634",
+          "comments": "2985",
           "published_at": "2026-10-14T14:00:08Z",
           "url": "https://www.youtube.com/watch?v=0WMpmbQyc0c"
         },
@@ -110,9 +110,9 @@
           "title": "GTA 6 LAUNCH TRAILER REACTION AND BREAKDOWN!",
           "channel": "TGG",
           "category_id": "22",
-          "views": "220203",
-          "likes": "9859",
-          "comments": "445",
+          "views": "476810",
+          "likes": "10969",
+          "comments": "627",
           "published_at": "2026-10-15T14:26:31Z",
           "url": "https://www.youtube.com/watch?v=Ej4S9MxmmOw"
         },
@@ -121,20 +121,53 @@
           "title": "المحاوله الاخيره للوصول لاعلي اوفر في اللعبه😨🤯",
           "channel": "HikaSIU",
           "category_id": "20",
-          "views": "54104",
-          "likes": "7319",
-          "comments": "252",
+          "views": "121690",
+          "likes": "10194",
+          "comments": "323",
           "published_at": "2026-10-15T11:27:48Z",
           "url": "https://www.youtube.com/watch?v=iVuTflrzsg4"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "كليب شيطاني تايب بس مماتش (يا اصفر مني بتأكلك) الخال حجاج 2026",
+          "channel": "EL KHAL HAGGAG | الخال حجاج",
+          "category_id": "10",
+          "views": "10956",
+          "likes": "234",
+          "comments": "11",
+          "published_at": "2026-10-15T15:00:09Z",
+          "url": "https://www.youtube.com/watch?v=hQVIXjOw3VI"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "The Beekeeper 2 | Official Teaser Trailer",
+          "channel": "Amazon MGM Studios",
+          "category_id": "24",
+          "views": "948435",
+          "likes": "12975",
+          "comments": "1257",
+          "published_at": "2026-10-15T14:44:46Z",
+          "url": "https://www.youtube.com/watch?v=5HK3wimDxBI"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "مهمتي انقذ اصحاب من ايد شخص شرير علي شكل مثلث واصحابي اشكال هندسيه😯😱 | Save The Shapes Chapter 2",
+          "channel": "Abdo Mando - عبده ماندو",
+          "category_id": "20",
+          "views": "34420",
+          "likes": "3624",
+          "comments": "123",
+          "published_at": "2026-10-15T13:00:37Z",
+          "url": "https://www.youtube.com/watch?v=n72yJk_KkKY"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Slyver X Arsenik - HAD KBEER AKALEMO | سلايفر و ارسينيك - حد كبير اكلمه (Official Audio)",
           "channel": "Slyver",
           "category_id": "10",
-          "views": "36119",
-          "likes": "2168",
-          "comments": "181",
+          "views": "46877",
+          "likes": "2394",
+          "comments": "191",
           "published_at": "2026-10-14T18:34:08Z",
           "url": "https://www.youtube.com/watch?v=KcqGuxWvCBo"
         },
@@ -143,20 +176,64 @@
           "title": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix",
           "channel": "Netflix",
           "category_id": "24",
-          "views": "30882521",
-          "likes": "77865",
-          "comments": "14500",
+          "views": "34215931",
+          "likes": "79694",
+          "comments": "15111",
           "published_at": "2026-10-13T18:00:00Z",
           "url": "https://www.youtube.com/watch?v=gDJ-ini7fF0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "رسمت أغرب رسمة وبعتها بـ 1,000,000 دولار في روبلوكس! 😂💰",
+          "channel": "Aslano",
+          "category_id": "20",
+          "views": "15973",
+          "likes": "888",
+          "comments": "16",
+          "published_at": "2026-10-15T15:07:44Z",
+          "url": "https://www.youtube.com/watch?v=Wp2njDxFLRg"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "إنت تقول و تمشي (عيون القلب)",
+          "channel": "Africa Cassette",
+          "category_id": "10",
+          "views": "155656",
+          "likes": "498",
+          "comments": "6",
+          "published_at": "2026-10-04T17:22:08Z",
+          "url": "https://www.youtube.com/watch?v=WgyBvu5sgQ0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "مفاجأة تخص البطولة القادمة وميزة المدرب كلوب 🔥🤯شرح التحديث واضافاته المثيره 😱|efootball 2027",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "102477",
+          "likes": "6342",
+          "comments": "220",
+          "published_at": "2026-10-15T11:19:32Z",
+          "url": "https://www.youtube.com/watch?v=2iY39fVvuIc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "الراعى الرسمى ( هرم رابع وانتو تقلدو ) احمد فيلو - توزيع فيلو Official Video",
+          "channel": "Felo - فيلو",
+          "category_id": "10",
+          "views": "5748",
+          "likes": "537",
+          "comments": "106",
+          "published_at": "2026-10-15T15:00:09Z",
+          "url": "https://www.youtube.com/watch?v=58jAfOrid1U"
         },
         {
           "source": "youtube_trending_eg",
           "title": "جربت تشكيلات اقو 3 يوتيورز في بيس🤯مع اغرب تشكيله في التاريخ🔥 |efootbal 2027",
           "channel": "TONY GAMING",
           "category_id": "20",
-          "views": "177272",
-          "likes": "14715",
-          "comments": "455",
+          "views": "206818",
+          "likes": "15628",
+          "comments": "461",
           "published_at": "2026-10-14T17:34:05Z",
           "url": "https://www.youtube.com/watch?v=O3AAojNhsuY"
         },
@@ -165,186 +242,109 @@
           "title": "Donia Samir Ghanem - Allah y3enny |  2026 |  دنيا سمير غانم - الله يعينّي من ألبوم الدلال",
           "channel": "Donia Samir Ghanem",
           "category_id": "10",
-          "views": "381128",
-          "likes": "9096",
-          "comments": "847",
+          "views": "417339",
+          "likes": "9439",
+          "comments": "883",
           "published_at": "2026-10-13T13:58:47Z",
           "url": "https://www.youtube.com/watch?v=vdrzeiIHQtQ"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "🔥 دخلت جوه الإيموجي المرعب ولسانه العملاق حاول يبلعني 😱 في روبلوكس! | Enter Verity",
-          "channel": "Mr Aslano",
+          "title": "أنا وصحابي لازم نتعاون عشان نعدّي أغبى لعبة في العالم!!😂🔥| Fart Together",
+          "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "42683",
-          "likes": "570",
-          "comments": "10",
-          "published_at": "2026-10-14T15:04:47Z",
-          "url": "https://www.youtube.com/watch?v=_kYSGuOJIrs"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "خدت الكاس",
-          "channel": "Hamo El Morshedy - Topic",
-          "category_id": "10",
-          "views": "12723",
-          "likes": "340",
-          "comments": "25",
-          "published_at": "2026-10-14T10:02:47Z",
-          "url": "https://www.youtube.com/watch?v=lbYiu-G4LZs"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "مفاجأة تخص البطولة القادمة وميزة المدرب كلوب 🔥🤯شرح التحديث واضافاته المثيره 😱|efootball 2027",
-          "channel": "من بره التمنتاشر",
-          "category_id": "26",
-          "views": "55240",
-          "likes": "5414",
-          "comments": "197",
-          "published_at": "2026-10-15T11:19:32Z",
-          "url": "https://www.youtube.com/watch?v=2iY39fVvuIc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "إنت تقول و تمشي (عيون القلب)",
-          "channel": "Africa Cassette",
-          "category_id": "10",
-          "views": "140225",
-          "likes": "470",
-          "comments": "6",
-          "published_at": "2026-10-04T17:22:08Z",
-          "url": "https://www.youtube.com/watch?v=WgyBvu5sgQ0"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "الوحش حاول يدخل منزلى ويسرق القطة بتاعتى !! روبلوكس",
-          "channel": "Aslano",
-          "category_id": "20",
-          "views": "41080",
-          "likes": "926",
-          "comments": "4",
-          "published_at": "2026-10-14T11:23:49Z",
-          "url": "https://www.youtube.com/watch?v=f3GXIkH3Wa0"
+          "views": "24919",
+          "likes": "1027",
+          "comments": "68",
+          "published_at": "2026-10-15T14:33:16Z",
+          "url": "https://www.youtube.com/watch?v=a2oa51iPN1k"
         },
         {
           "source": "youtube_trending_eg",
           "title": "قديم بجديد ( اخواتك اللي قصادك ديا ) مصطفي الجن و كريم كرستيانو و هادي الصغير - توزيع امجد الجوكر",
           "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
           "category_id": "10",
-          "views": "64507",
-          "likes": "1305",
+          "views": "73338",
+          "likes": "1353",
           "comments": "36",
           "published_at": "2026-10-13T15:00:10Z",
           "url": "https://www.youtube.com/watch?v=Gj5b0XLLRaQ"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كل حادثة تجعل سيارتى أسرع 100 مرة في GTA 5! 😱🔥",
-          "channel": "Ahmed Aslan",
+          "title": "🔥 دخلت جوه الإيموجي المرعب ولسانه العملاق حاول يبلعني 😱 في روبلوكس! | Enter Verity",
+          "channel": "Mr Aslano",
           "category_id": "20",
-          "views": "35603",
-          "likes": "736",
-          "comments": "10",
-          "published_at": "2026-10-14T16:07:45Z",
-          "url": "https://www.youtube.com/watch?v=MMIZI-gXujY"
+          "views": "52072",
+          "likes": "623",
+          "comments": "11",
+          "published_at": "2026-10-14T15:04:47Z",
+          "url": "https://www.youtube.com/watch?v=_kYSGuOJIrs"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "انا مالي بيك",
-          "channel": "Ramy Sabry - Topic",
+          "title": "Farid - Allah Yehdek (Official Lyric Video) | فريد - الله يهديك",
+          "channel": "JP Productions چيمي",
           "category_id": "10",
-          "views": "63871",
-          "likes": "437",
-          "comments": "3",
-          "published_at": "2026-10-11T11:33:27Z",
-          "url": "https://www.youtube.com/watch?v=TyNMOHg2qrg"
+          "views": "14668",
+          "likes": "893",
+          "comments": "111",
+          "published_at": "2026-10-15T15:00:11Z",
+          "url": "https://www.youtube.com/watch?v=1P_xMIz8YrE"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "مهمتي انقذ اصحاب من ايد شخص شرير علي شكل مثلث واصحابي اشكال هندسيه😯😱 | Save The Shapes Chapter 2",
-          "channel": "Abdo Mando - عبده ماندو",
+          "title": "لازم اجيب ملك المراوغات الجديد !! 🤯🔥 وأخير يورجن كلوب نسخة ليفربول 😍☠️ || eFootball 27",
+          "channel": "OKATO GO",
           "category_id": "20",
-          "views": "10037",
-          "likes": "2243",
-          "comments": "97",
-          "published_at": "2026-10-15T13:00:37Z",
-          "url": "https://www.youtube.com/watch?v=n72yJk_KkKY"
+          "views": "86857",
+          "likes": "6967",
+          "comments": "221",
+          "published_at": "2026-10-15T15:30:37Z",
+          "url": "https://www.youtube.com/watch?v=K-xZRDnXTZE"
         },
         {
           "source": "youtube_trending_eg",
           "title": "محمد منير 😍 أجمد كوكتل لعشاق الكينج 👑 | Mohamed Mounir",
           "channel": "Pop Music - بوب ميوزيك ",
           "category_id": "10",
-          "views": "9043",
-          "likes": "51",
+          "views": "12372",
+          "likes": "68",
           "comments": "0",
           "published_at": "2026-10-14T14:01:23Z",
           "url": "https://www.youtube.com/watch?v=zZZYDcouGMI"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Gravestone Griff or Melodie's Tattoo?! #Scarycoffins",
-          "channel": "Brawl Stars",
+          "title": "كل حادثة تجعل سيارتى أسرع 100 مرة في GTA 5! 😱🔥",
+          "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "1606432",
-          "likes": "49488",
-          "comments": "3456",
-          "published_at": "2026-10-15T08:08:24Z",
-          "url": "https://www.youtube.com/watch?v=GphPHvKIN_w"
+          "views": "43960",
+          "likes": "810",
+          "comments": "10",
+          "published_at": "2026-10-14T16:07:45Z",
+          "url": "https://www.youtube.com/watch?v=MMIZI-gXujY"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "انتا جاي في ايه يا شيخنا (انا مش عامل فيها مولانا 2)",
-          "channel": "السلطان - Topic",
+          "title": "انا والليل صحاب يابا",
+          "channel": "Hamo El Morshedy - Topic",
           "category_id": "10",
-          "views": "184516",
-          "likes": "1650",
+          "views": "17752",
+          "likes": "379",
           "comments": "0",
-          "published_at": "2026-10-11T21:02:20Z",
-          "url": "https://www.youtube.com/watch?v=GsSZpwrE320"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "تجربة ملك الضغظ العالي مع السد العالي😎🔥 ||efootball2027",
-          "channel": "PESAWI GAMING",
-          "category_id": "24",
-          "views": "15860",
-          "likes": "1716",
-          "comments": "135",
-          "published_at": "2026-10-15T11:04:49Z",
-          "url": "https://www.youtube.com/watch?v=HWPviP7MStk"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Mohamed Mounir👑Best Songs😍 محمد منير❤الكينج👑أجمل ميكس🎧رايــق",
-          "channel": "Mohamed Mounir Sonar - محـمد منـير سونار",
-          "category_id": "22",
-          "views": "25190",
-          "likes": "116",
-          "comments": "2",
-          "published_at": "2026-10-13T13:00:00Z",
-          "url": "https://www.youtube.com/watch?v=4rSu1aBcz2w"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "ردة فعلي على بطولة روكت ليج العالمية في السعودية",
-          "channel": "LiveBoltx",
-          "category_id": "20",
-          "views": "79279",
-          "likes": "2438",
-          "comments": "69",
-          "published_at": "2026-10-14T14:00:39Z",
-          "url": "https://www.youtube.com/watch?v=MzsIC4jevlw"
+          "published_at": "2026-10-12T07:16:36Z",
+          "url": "https://www.youtube.com/watch?v=bgSWhHQIUVc"
         }
       ]
     },
     {
-      "collected_at": "2026-10-15T16:40:41.208705+00:00",
+      "collected_at": "2026-10-15T21:08:42.456557+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-15T16:40:41.584170+00:00",
+      "collected_at": "2026-10-15T21:08:42.851954+00:00",
       "platform": "tiktok",
       "items": []
     }
