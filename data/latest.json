@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-17T03:47:40.597381+00:00",
+  "generated_at": "2026-10-17T10:24:19.191842+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-17T03:47:41.303808+00:00",
+      "collected_at": "2026-10-17T10:24:19.522292+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "ظاهرة جوية",
-          "traffic": "20000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "آيفون ديو",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "six",
+          "term": "alexander zverev",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "نادي المريخ",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سعر الذهب عيار 21",
+          "term": "القنوات الناقلة لمباراة الاهلي",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "إطلاق نار في مدرسة",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مرتبات شهر اكتوبر 2026",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مسلسل خمسين علي خمسين 10",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "هذا البحر سوف يفيض",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مسلسل طالع نازل الحلقه الثالثه",
+          "term": "عبد الفتاح السيسي",
           "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "غاز",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "رامي إمام",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "موعد عرض مسلسل خمسين خمسين الحلقه ١٠",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الرئيس السيسي",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "عداد",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ليلى علوي",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مطار عدن الدولي",
+          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-17T03:47:41.440260+00:00",
+      "collected_at": "2026-10-17T10:24:19.648565+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "الحسن عادل و ايسل خالد - يا بابا | من البوم هو[2026] | Alhassan Adel ft Aisel Khaled- Ya Baba",
           "channel": "Alhassan adel ",
           "category_id": "10",
-          "views": "906099",
-          "likes": "21609",
-          "comments": "2037",
+          "views": "961699",
+          "likes": "22433",
+          "comments": "2070",
           "published_at": "2026-10-15T14:00:09Z",
           "url": "https://www.youtube.com/watch?v=pWlh981sFE4"
         },
@@ -77,9 +77,9 @@
           "title": "Grand Theft Auto VI Launch Trailer",
           "channel": "Rockstar Games",
           "category_id": "20",
-          "views": "31109759",
-          "likes": "1541017",
-          "comments": "111812",
+          "views": "32993932",
+          "likes": "1572302",
+          "comments": "113714",
           "published_at": "2026-10-15T13:00:26Z",
           "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY"
         },
@@ -88,31 +88,31 @@
           "title": "المش مهندسين | Dumb Ways to Build",
           "channel": "Karim Yl3b",
           "category_id": "20",
-          "views": "105037",
-          "likes": "5729",
-          "comments": "152",
+          "views": "125453",
+          "likes": "6587",
+          "comments": "160",
           "published_at": "2026-10-16T14:00:18Z",
           "url": "https://www.youtube.com/watch?v=QU3-X_U-sDY"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كليب شيطاني تايب بس مماتش (يا اصفر مني بتأكلك) الخال حجاج 2026",
-          "channel": "EL KHAL HAGGAG | الخال حجاج",
+          "title": "مش هجبرك - msh hagbrk ",
+          "channel": "Hamo ELMorshdy - حمو المرشدي",
           "category_id": "10",
-          "views": "88340",
-          "likes": "992",
-          "comments": "43",
-          "published_at": "2026-10-15T15:00:09Z",
-          "url": "https://www.youtube.com/watch?v=hQVIXjOw3VI"
+          "views": "61318",
+          "likes": "2823",
+          "comments": "513",
+          "published_at": "2026-10-16T15:27:02Z",
+          "url": "https://www.youtube.com/watch?v=lTje7OElY1g"
         },
         {
           "source": "youtube_trending_eg",
           "title": "The Beekeeper 2 | Official Teaser Trailer",
           "channel": "Amazon MGM Studios",
           "category_id": "24",
-          "views": "8447729",
-          "likes": "36179",
-          "comments": "2768",
+          "views": "9068024",
+          "likes": "38891",
+          "comments": "2919",
           "published_at": "2026-10-15T14:44:46Z",
           "url": "https://www.youtube.com/watch?v=5HK3wimDxBI"
         },
@@ -121,9 +121,9 @@
           "title": "جربت اسطورة التدريب كلوب🤯مع البحث عن اسرع مدافع في العالم🔥 |efootbal 2027",
           "channel": "TONY GAMING",
           "category_id": "20",
-          "views": "190640",
-          "likes": "13854",
-          "comments": "445",
+          "views": "204768",
+          "likes": "14558",
+          "comments": "465",
           "published_at": "2026-10-16T10:32:28Z",
           "url": "https://www.youtube.com/watch?v=yT4aLauc-Y4"
         },
@@ -132,9 +132,9 @@
           "title": "عاملين صداع - امير سلطان - احمد موزه - Amir Soultan - Ahme Moza - 3Mlen Sda3 - توزيع محمد حريقه 2026",
           "channel": "امير سلطان - Amir soltan",
           "category_id": "10",
-          "views": "21132",
-          "likes": "849",
-          "comments": "130",
+          "views": "25652",
+          "likes": "973",
+          "comments": "131",
           "published_at": "2026-10-16T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=tIlQpAM2Eko"
         },
@@ -143,9 +143,9 @@
           "title": "RETURN (Piggy: Season 9 Part II Teaser Trailer)",
           "channel": "MiniToon",
           "category_id": "24",
-          "views": "139701",
-          "likes": "10871",
-          "comments": "1597",
+          "views": "159515",
+          "likes": "11468",
+          "comments": "1653",
           "published_at": "2026-10-16T17:00:07Z",
           "url": "https://www.youtube.com/watch?v=Eq1WkD3gyiY"
         },
@@ -154,197 +154,197 @@
           "title": "اصلانو المغامر اشتغل في محل بطاطس مع اخوة وظهر وحش مرعب عاوز ياكلني! 😱🍟 روبلوكس",
           "channel": "اصلانو المغامر - Aslano",
           "category_id": "20",
-          "views": "43271",
-          "likes": "1557",
-          "comments": "20",
+          "views": "53358",
+          "likes": "2103",
+          "comments": "23",
           "published_at": "2026-10-16T10:58:01Z",
           "url": "https://www.youtube.com/watch?v=GV9Mn1Ru-NI"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "مش هجبرك - msh hagbrk ",
-          "channel": "Hamo ELMorshdy - حمو المرشدي",
+          "title": "كليب شيطاني تايب بس مماتش (يا اصفر مني بتأكلك) الخال حجاج 2026",
+          "channel": "EL KHAL HAGGAG | الخال حجاج",
           "category_id": "10",
-          "views": "49552",
-          "likes": "2413",
-          "comments": "460",
-          "published_at": "2026-10-16T15:27:02Z",
-          "url": "https://www.youtube.com/watch?v=lTje7OElY1g"
+          "views": "93909",
+          "likes": "1088",
+          "comments": "48",
+          "published_at": "2026-10-15T15:00:09Z",
+          "url": "https://www.youtube.com/watch?v=hQVIXjOw3VI"
         },
         {
           "source": "youtube_trending_eg",
           "title": "LAST TRAILER | BLEACH: Thousand-Year Blood War Final Part - The Calamity | VIZ",
           "channel": "vizmedia",
           "category_id": "1",
-          "views": "567565",
-          "likes": "18728",
-          "comments": "1069",
+          "views": "642962",
+          "likes": "20353",
+          "comments": "1148",
           "published_at": "2026-10-16T14:19:18Z",
           "url": "https://www.youtube.com/watch?v=ymA80fp-UnE"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "عبده ماندو دخل السجن وكان ضعيف جدا ولكنو بقي اقوي واحد في السجن 💪 | ‏prison pump roblox",
-          "channel": "يوميات عبده ماندو _ Abdo Mando",
-          "category_id": "20",
-          "views": "72251",
-          "likes": "3403",
-          "comments": "157",
-          "published_at": "2026-10-15T17:55:58Z",
-          "url": "https://www.youtube.com/watch?v=CnhyKuegFrU"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Nancy Ajram - Bastafizzak (Official Music Video) / نانسي عجرم - بستفزك",
-          "channel": "Nancy Ajram",
-          "category_id": "10",
-          "views": "3220519",
-          "likes": "27453",
-          "comments": "3571",
-          "published_at": "2026-10-14T14:00:08Z",
-          "url": "https://www.youtube.com/watch?v=0WMpmbQyc0c"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Save Hay Day from the Red Revenant!",
-          "channel": "Hay Day",
-          "category_id": "20",
-          "views": "2662217",
-          "likes": "39841",
-          "comments": "1952",
-          "published_at": "2026-10-16T08:05:31Z",
-          "url": "https://www.youtube.com/watch?v=ikznGAyMjJk"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "عايش | ريد بُل مزيكا صالونات",
-          "channel": "Release - Topic",
-          "category_id": "10",
-          "views": "23277",
-          "likes": "812",
-          "comments": "0",
-          "published_at": "2026-10-15T18:05:06Z",
-          "url": "https://www.youtube.com/watch?v=s7FeIZvNOfs"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "خليت ميسي ورونالدو ونيمار يلعبوا مع بعض لمدة 15 سنة",
-          "channel": "Abdo 2xd",
-          "category_id": "20",
-          "views": "1078045",
-          "likes": "43416",
-          "comments": "975",
-          "published_at": "2026-10-14T14:53:02Z",
-          "url": "https://www.youtube.com/watch?v=oSp8rpcInzc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "إنت تقول و تمشي (عيون القلب)",
-          "channel": "Africa Cassette",
-          "category_id": "10",
-          "views": "223522",
-          "likes": "596",
-          "comments": "7",
-          "published_at": "2026-10-04T17:22:08Z",
-          "url": "https://www.youtube.com/watch?v=WgyBvu5sgQ0"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "سلسلة مواهب مدفونة 💀 #2 | ريكارد ",
-          "channel": "El 7areef - الحريف",
-          "category_id": "20",
-          "views": "66341",
-          "likes": "5644",
-          "comments": "477",
-          "published_at": "2026-10-16T12:21:55Z",
-          "url": "https://www.youtube.com/watch?v=9u61-qCr5Tg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Etneen Magnen",
-          "channel": "Tamer Hosny - Topic",
-          "category_id": "10",
-          "views": "19241",
-          "likes": "752",
-          "comments": "63",
-          "published_at": "2026-10-16T16:23:38Z",
-          "url": "https://www.youtube.com/watch?v=g-jVdCBjKLg"
         },
         {
           "source": "youtube_trending_eg",
           "title": "أنا واخويا في مهمة مستحيلة للوصول إلى الكنز فوق البرج! 😂🔥| Human Fall Flat",
           "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "18989",
-          "likes": "816",
-          "comments": "12",
+          "views": "23765",
+          "likes": "1170",
+          "comments": "14",
           "published_at": "2026-10-16T14:53:12Z",
           "url": "https://www.youtube.com/watch?v=YI7M0NOmvlw"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Farid - Allah Yehdek (Official Lyric Video) | فريد - الله يهديك",
-          "channel": "JP Productions چيمي",
+          "title": "اتنين مجانين تامر حسني و ياسمينا العبد/ Etneen Magneen - Tamer Hosny FT Yasmina El Abd",
+          "channel": "Tamer Hosny",
           "category_id": "10",
-          "views": "61150",
-          "likes": "2010",
-          "comments": "178",
-          "published_at": "2026-10-15T15:00:11Z",
-          "url": "https://www.youtube.com/watch?v=1P_xMIz8YrE"
+          "views": "58040",
+          "likes": "2189",
+          "comments": "184",
+          "published_at": "2026-10-16T21:29:38Z",
+          "url": "https://www.youtube.com/watch?v=AAY7ZVdpwLY"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "سلسلة مواهب مدفونة 💀 #2 | ريكارد ",
+          "channel": "El 7areef - الحريف",
+          "category_id": "20",
+          "views": "72569",
+          "likes": "6065",
+          "comments": "501",
+          "published_at": "2026-10-16T12:21:55Z",
+          "url": "https://www.youtube.com/watch?v=9u61-qCr5Tg"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Nancy Ajram - Bastafizzak (Official Music Video) / نانسي عجرم - بستفزك",
+          "channel": "Nancy Ajram",
+          "category_id": "10",
+          "views": "3262681",
+          "likes": "28095",
+          "comments": "3648",
+          "published_at": "2026-10-14T14:00:08Z",
+          "url": "https://www.youtube.com/watch?v=0WMpmbQyc0c"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "عبده ماندو دخل السجن وكان ضعيف جدا ولكنو بقي اقوي واحد في السجن 💪 | ‏prison pump roblox",
+          "channel": "يوميات عبده ماندو _ Abdo Mando",
+          "category_id": "20",
+          "views": "78468",
+          "likes": "3719",
+          "comments": "163",
+          "published_at": "2026-10-15T17:55:58Z",
+          "url": "https://www.youtube.com/watch?v=CnhyKuegFrU"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "عايش | ريد بُل مزيكا صالونات",
+          "channel": "Release - Topic",
+          "category_id": "10",
+          "views": "25386",
+          "likes": "862",
+          "comments": "0",
+          "published_at": "2026-10-15T18:05:06Z",
+          "url": "https://www.youtube.com/watch?v=s7FeIZvNOfs"
         },
         {
           "source": "youtube_trending_eg",
           "title": "لعبه مضحكه بتتحدي العاب الرعب وبتتريق عليها (بنتي وشها وش راجل)😱 | Scawy Game",
           "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "34982",
-          "likes": "2184",
-          "comments": "110",
+          "views": "40106",
+          "likes": "2549",
+          "comments": "124",
           "published_at": "2026-10-16T13:00:33Z",
           "url": "https://www.youtube.com/watch?v=uW_gdIBW0wA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video)",
-          "channel": "OliviaRodrigoVEVO",
+          "title": "إنت تقول و تمشي (عيون القلب)",
+          "channel": "Africa Cassette",
           "category_id": "10",
-          "views": "7022070",
-          "likes": "549044",
-          "comments": "19059",
-          "published_at": "2026-10-16T00:00:10Z",
-          "url": "https://www.youtube.com/watch?v=gsZauX8gwxo"
+          "views": "230323",
+          "likes": "619",
+          "comments": "7",
+          "published_at": "2026-10-04T17:22:08Z",
+          "url": "https://www.youtube.com/watch?v=WgyBvu5sgQ0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Save Hay Day from the Red Revenant!",
+          "channel": "Hay Day",
+          "category_id": "20",
+          "views": "2857041",
+          "likes": "42103",
+          "comments": "2075",
+          "published_at": "2026-10-16T08:05:31Z",
+          "url": "https://www.youtube.com/watch?v=ikznGAyMjJk"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Farid - Allah Yehdek (Official Lyric Video) | فريد - الله يهديك",
+          "channel": "JP Productions چيمي",
+          "category_id": "10",
+          "views": "64756",
+          "likes": "2107",
+          "comments": "185",
+          "published_at": "2026-10-15T15:00:11Z",
+          "url": "https://www.youtube.com/watch?v=1P_xMIz8YrE"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "خليت ميسي ورونالدو ونيمار يلعبوا مع بعض لمدة 15 سنة",
+          "channel": "Abdo 2xd",
+          "category_id": "20",
+          "views": "1111013",
+          "likes": "44711",
+          "comments": "995",
+          "published_at": "2026-10-14T14:53:02Z",
+          "url": "https://www.youtube.com/watch?v=oSp8rpcInzc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "ريمكس شايف اخصام بيحاربوني - عصام صاصا ـ امين خطاب - توزيع فيفتي يانو",
+          "channel": "فيفتي يانو",
+          "category_id": "10",
+          "views": "58223",
+          "likes": "450",
+          "comments": "10",
+          "published_at": "2026-10-13T18:19:37Z",
+          "url": "https://www.youtube.com/watch?v=P3qJooXQDsM"
         },
         {
           "source": "youtube_trending_eg",
           "title": "رسمت أغرب رسمة وبعتها بـ 1,000,000 دولار في روبلوكس! 😂💰",
           "channel": "Aslano",
           "category_id": "20",
-          "views": "63304",
-          "likes": "2255",
-          "comments": "31",
+          "views": "66764",
+          "likes": "2435",
+          "comments": "33",
           "published_at": "2026-10-15T15:07:44Z",
           "url": "https://www.youtube.com/watch?v=Wp2njDxFLRg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اغنية \" الدنيا غابة \" الخال | Eldonya Ghaba EL KHAL (Virtual Artist) - (Official Music Video)",
-          "channel": "MARWAN ZIDAN SALEM",
+          "title": "Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video)",
+          "channel": "OliviaRodrigoVEVO",
           "category_id": "10",
-          "views": "27464",
-          "likes": "322",
-          "comments": "13",
-          "published_at": "2026-10-15T17:00:07Z",
-          "url": "https://www.youtube.com/watch?v=EvgHk5VWE0o"
+          "views": "7943798",
+          "likes": "575086",
+          "comments": "19594",
+          "published_at": "2026-10-16T00:00:10Z",
+          "url": "https://www.youtube.com/watch?v=gsZauX8gwxo"
         }
       ]
     },
     {
-      "collected_at": "2026-10-17T03:47:41.440628+00:00",
+      "collected_at": "2026-10-17T10:24:19.649103+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-17T03:47:41.855298+00:00",
+      "collected_at": "2026-10-17T10:24:19.959545+00:00",
       "platform": "tiktok",
       "items": []
     }
