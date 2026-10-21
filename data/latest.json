@@ -1,74 +1,107 @@
 {
-  "generated_at": "2026-10-21T16:56:07.886643+00:00",
+  "generated_at": "2026-10-21T21:27:12.179471+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-21T16:56:08.366665+00:00",
+      "collected_at": "2026-10-21T21:27:12.702586+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "موعد اذان العشاء",
-          "traffic": "10000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "losc vs galatasaray",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "como vs man utd",
+          "term": "real madrid vs rb leipzig standings",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الجيزة",
-          "traffic": "500+"
+          "term": "يان ديوماندي",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "المغرب",
+          "term": "ترتيب دوري ابطال اوروبا",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "يسرا",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ريال بيتيس",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "madrid vs leipzig",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ترتيبات دوري أبطال أوروبا",
           "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "زلزال",
+          "term": "ليلى أحمد زاهر",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سبورتينغ ضد لاسك لينز",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "كريم الشناوي",
+          "term": "ترتيب دوري ابطال اوروبا للرجال",
           "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سرطان",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مباريات اليوم في الدوري المصري",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "currently",
-          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-21T16:56:08.565558+00:00",
+      "collected_at": "2026-10-21T21:27:12.867273+00:00",
       "platform": "youtube",
       "items": [
+        {
+          "source": "youtube_trending_eg",
+          "title": "انا حذرتك وانت وراحتك ( فتح عينك ) عصام صاصا الكروان - توزيع كيمو الديب Official Video",
+          "channel": "عصام صاصا - Essam Saasa",
+          "category_id": "10",
+          "views": "53418",
+          "likes": "4121",
+          "comments": "719",
+          "published_at": "2026-10-21T15:00:11Z",
+          "url": "https://www.youtube.com/watch?v=R5hnHua2erQ"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Cyberpunk 2077 - Official Edgerunners 2 Update Overview Trailer",
+          "channel": "IGN",
+          "category_id": "20",
+          "views": "1327428",
+          "likes": "46481",
+          "comments": "2979",
+          "published_at": "2026-10-21T15:51:00Z",
+          "url": "https://www.youtube.com/watch?v=7wPOA6a85S4"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "🔥 اشتريت سيارة تسلا الجديدة في GTA 5 😱🚀 وحولتها لسيارة طائرة وهربت من الشرطة! 🚔",
+          "channel": "Ahmed Aslan",
+          "category_id": "20",
+          "views": "48311",
+          "likes": "1975",
+          "comments": "37",
+          "published_at": "2026-10-21T09:30:27Z",
+          "url": "https://www.youtube.com/watch?v=FVrzkRb8M80"
+        },
         {
           "source": "youtube_trending_eg",
           "title": "Arsenik x Abyusif - Mvp | إم ڤى بى",
           "channel": "Arsenik - أرسينِك",
           "category_id": "10",
-          "views": "232882",
-          "likes": "14256",
-          "comments": "1441",
+          "views": "252699",
+          "likes": "14672",
+          "comments": "1464",
           "published_at": "2026-10-19T17:01:00Z",
           "url": "https://www.youtube.com/watch?v=1H5XgpDn5rc"
         },
@@ -77,31 +110,31 @@
           "title": "Path to Doomsday - Avengers: Endgame | New PvE Mode Trailer | Marvel Rivals",
           "channel": "Marvel Rivals",
           "category_id": "20",
-          "views": "797228",
-          "likes": "24415",
-          "comments": "1585",
+          "views": "863907",
+          "likes": "25084",
+          "comments": "1612",
           "published_at": "2026-10-20T15:00:34Z",
           "url": "https://www.youtube.com/watch?v=RUEk4Bak3Xk"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "🔥 اشتريت سيارة تسلا الجديدة في GTA 5 😱🚀 وحولتها لسيارة طائرة وهربت من الشرطة! 🚔",
-          "channel": "Ahmed Aslan",
+          "title": "اصلانو المغامر هرب من الشرطة 😱 روبلوكس",
+          "channel": "اصلانو المغامر - Aslano",
           "category_id": "20",
-          "views": "27724",
-          "likes": "1465",
-          "comments": "33",
-          "published_at": "2026-10-21T09:30:27Z",
-          "url": "https://www.youtube.com/watch?v=FVrzkRb8M80"
+          "views": "31024",
+          "likes": "1390",
+          "comments": "14",
+          "published_at": "2026-10-21T11:00:16Z",
+          "url": "https://www.youtube.com/watch?v=_IoUsdBSZq8"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Wegz - Shata Matta (Official Audio) | ويجز - شاطا ماطا",
           "channel": "Wegz ويجز",
           "category_id": "10",
-          "views": "195451",
-          "likes": "6267",
-          "comments": "1098",
+          "views": "204999",
+          "likes": "6403",
+          "comments": "1108",
           "published_at": "2026-10-19T15:00:10Z",
           "url": "https://www.youtube.com/watch?v=sQAXTprRGkg"
         },
@@ -110,30 +143,30 @@
           "title": "الإعلان الرسمي \"فيلم نصيب\" 28 أكتوبر في السينمات",
           "channel": "Albatros Production",
           "category_id": "24",
-          "views": "2223226",
-          "likes": "613",
-          "comments": "37",
+          "views": "2267098",
+          "likes": "626",
+          "comments": "39",
           "published_at": "2026-10-19T11:00:15Z",
           "url": "https://www.youtube.com/watch?v=K5AJHNrkNpA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "العودة من الموت | الطريق الي الكرة الذهبية",
-          "channel": "3li Boltx",
-          "category_id": "20",
-          "views": "412657",
-          "likes": "21350",
-          "comments": "947",
-          "published_at": "2026-10-19T14:00:01Z",
-          "url": "https://www.youtube.com/watch?v=Wl-5DEAPcHU"
+          "title": "مفاجأت رهيبة واساطير للتجربة مجانا 🔥🤯 حملة هدايا قوية قادمة وخميس ممتاز !!😱|efootball 2027",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "106724",
+          "likes": "8792",
+          "comments": "318",
+          "published_at": "2026-10-21T11:50:00Z",
+          "url": "https://www.youtube.com/watch?v=XGsYNSQRogI"
         },
         {
           "source": "youtube_trending_eg",
           "title": "رساله للمية وعشرين مليون ( صاحب الاسطبل انا يا وحوش ) مصطفي الجن و هادي الصغير - توزيع دولسي برودكشن",
           "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
           "category_id": "10",
-          "views": "27251",
-          "likes": "734",
+          "views": "33886",
+          "likes": "804",
           "comments": "22",
           "published_at": "2026-10-20T15:00:08Z",
           "url": "https://www.youtube.com/watch?v=34IAI0u4gl8"
@@ -143,107 +176,107 @@
           "title": "RISE AND FALL // Hush Agent Trailer - VALORANT",
           "channel": "VALORANT",
           "category_id": "20",
-          "views": "2850646",
-          "likes": "87663",
-          "comments": "3320",
+          "views": "2882867",
+          "likes": "88167",
+          "comments": "3329",
           "published_at": "2026-10-18T06:00:01Z",
           "url": "https://www.youtube.com/watch?v=AfcCyTsh4ag"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "مفاجأت رهيبة واساطير للتجربة مجانا 🔥🤯 حملة هدايا قوية قادمة وخميس ممتاز !!😱|efootball 2027",
-          "channel": "من بره التمنتاشر",
-          "category_id": "26",
-          "views": "57719",
-          "likes": "6751",
-          "comments": "254",
-          "published_at": "2026-10-21T11:50:00Z",
-          "url": "https://www.youtube.com/watch?v=XGsYNSQRogI"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "متحصن",
-          "channel": "HAMO ELGALAD - Topic",
-          "category_id": "10",
-          "views": "57756",
-          "likes": "731",
-          "comments": "7",
-          "published_at": "2026-10-19T13:08:24Z",
-          "url": "https://www.youtube.com/watch?v=1tCF1Ou3Ibk"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Grand Theft Auto VI Launch Trailer",
-          "channel": "Rockstar Games",
+          "title": "من الصفر #8 أخيراً عملت اكبر تطوير في الفريق !! 🤯🔥 بدأنا سلسلة الانتصارات 😍☠️ || eFootball 27",
+          "channel": "OKATO GO",
           "category_id": "20",
-          "views": "57153365",
-          "likes": "1747549",
-          "comments": "124446",
-          "published_at": "2026-10-15T13:00:26Z",
-          "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "جربت لعبة مغامرات مروان ريحان 3 💃🔥 3 العاب مصرية مسخرة",
-          "channel": "LeOniDeS - مروان ريحان",
-          "category_id": "20",
-          "views": "265143",
-          "likes": "13911",
-          "comments": "649",
-          "published_at": "2026-10-19T14:15:14Z",
-          "url": "https://www.youtube.com/watch?v=abCAPKT5moQ"
+          "views": "90990",
+          "likes": "10082",
+          "comments": "241",
+          "published_at": "2026-10-21T10:39:45Z",
+          "url": "https://www.youtube.com/watch?v=KoFoAfQQU6A"
         },
         {
           "source": "youtube_trending_eg",
           "title": "ضاع عمرنا في الحبسه ( نخلص سته نخش في خمسة ) اسلام كابونجا - نور التوت 2026 Official Music",
           "channel": "Nour Eltot - نور التوت",
           "category_id": "10",
-          "views": "30672",
-          "likes": "674",
-          "comments": "34",
+          "views": "39232",
+          "likes": "747",
+          "comments": "36",
           "published_at": "2026-10-20T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=S9VIRKWsDFw"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اتحولت الي هامستر وخروف في لعبتين من الضيب ويب (بتحدي الفضائين)😱 | You Are Hamster",
-          "channel": "Abdo Mando - عبده ماندو",
+          "title": "Grand Theft Auto VI Launch Trailer",
+          "channel": "Rockstar Games",
           "category_id": "20",
-          "views": "61103",
-          "likes": "3712",
-          "comments": "134",
-          "published_at": "2026-10-20T13:35:30Z",
-          "url": "https://www.youtube.com/watch?v=oHwE7htJHYw"
+          "views": "58507032",
+          "likes": "1750734",
+          "comments": "124573",
+          "published_at": "2026-10-15T13:00:26Z",
+          "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "هذا الرجل يحوّل البنات إلى آيس كريم في ماين كرافت! 🍦😨",
+          "channel": "Mkamel GG",
+          "category_id": "20",
+          "views": "27438",
+          "likes": "1343",
+          "comments": "42",
+          "published_at": "2026-10-21T15:30:18Z",
+          "url": "https://www.youtube.com/watch?v=6lLTsauQV9M"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "متحصن",
+          "channel": "HAMO ELGALAD - Topic",
+          "category_id": "10",
+          "views": "67973",
+          "likes": "846",
+          "comments": "9",
+          "published_at": "2026-10-19T13:08:24Z",
+          "url": "https://www.youtube.com/watch?v=1tCF1Ou3Ibk"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "العودة من الموت | الطريق الي الكرة الذهبية",
+          "channel": "3li Boltx",
+          "category_id": "20",
+          "views": "438397",
+          "likes": "21944",
+          "comments": "960",
+          "published_at": "2026-10-19T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=Wl-5DEAPcHU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "خدت الكاس ( حمو يسوقها باي جدون _ غداره بتقوليلي بحبك اي الاماره ) حمو المرشدي _ توزيع احمد النص",
           "channel": "Karizma Production",
           "category_id": "22",
-          "views": "148210",
-          "likes": "2978",
-          "comments": "233",
+          "views": "165273",
+          "likes": "3150",
+          "comments": "236",
           "published_at": "2026-10-19T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=JDqnN4o4-vg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اصلانو المغامر هرب من الشرطة 😱 روبلوكس",
-          "channel": "اصلانو المغامر - Aslano",
+          "title": "اتحولت الي هامستر وخروف في لعبتين من الضيب ويب (بتحدي الفضائين)😱 | You Are Hamster",
+          "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "19798",
-          "likes": "1066",
-          "comments": "11",
-          "published_at": "2026-10-21T11:00:16Z",
-          "url": "https://www.youtube.com/watch?v=_IoUsdBSZq8"
+          "views": "69685",
+          "likes": "3949",
+          "comments": "136",
+          "published_at": "2026-10-20T13:35:30Z",
+          "url": "https://www.youtube.com/watch?v=oHwE7htJHYw"
         },
         {
           "source": "youtube_trending_eg",
           "title": "MVP",
-          "channel": "Release - Topic",
+          "channel": "Arsenik - Topic",
           "category_id": "10",
-          "views": "44421",
-          "likes": "2073",
+          "views": "47474",
+          "likes": "2151",
           "comments": "76",
           "published_at": "2026-10-19T17:03:43Z",
           "url": "https://www.youtube.com/watch?v=AYs2YW3LYR4"
@@ -253,98 +286,65 @@
           "title": "أصلانو اشتغل حارس أمن على الطريق 🚔 قبضت على مجرمين ! 😂",
           "channel": "Aslano",
           "category_id": "20",
-          "views": "35402",
-          "likes": "414",
+          "views": "40181",
+          "likes": "440",
           "comments": "4",
           "published_at": "2026-10-20T15:54:21Z",
           "url": "https://www.youtube.com/watch?v=sUyyX-mPdFA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "يا شماتين ( الاسم ديب والموت نصيب ) ريشا كوستا - سماره ناو - مجدي الزهار - توزيع موحه برودكشن 2026",
-          "channel": "ريشا كوستا و سماره - Resha wi SamaRa",
-          "category_id": "10",
-          "views": "91121",
-          "likes": "2083",
-          "comments": "137",
-          "published_at": "2026-10-19T13:52:36Z",
-          "url": "https://www.youtube.com/watch?v=PDVoApRgly0"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "ام كامل اكتشف خيانة حبيبة الدب الخارق * مؤثر جدا *| Super Bear Adventure 😭💔!!",
-          "channel": "Mkamel GG",
-          "category_id": "20",
-          "views": "91098",
-          "likes": "5698",
-          "comments": "90",
-          "published_at": "2026-10-20T15:15:12Z",
-          "url": "https://www.youtube.com/watch?v=XUxzYk2Is1g"
-        },
-        {
-          "source": "youtube_trending_eg",
           "title": "أغنية \"كفاية تمثيل\" - عتاب طربي حزين عن الخداع والفراق 💔 | SoundSurge",
           "channel": "SoundSurge",
           "category_id": "10",
-          "views": "67853",
-          "likes": "457",
-          "comments": "8",
+          "views": "72270",
+          "likes": "473",
+          "comments": "9",
           "published_at": "2026-10-06T21:03:06Z",
           "url": "https://www.youtube.com/watch?v=Qpanr1foZrA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "من الصفر #8 أخيراً عملت اكبر تطوير في الفريق !! 🤯🔥 بدأنا سلسلة الانتصارات 😍☠️ || eFootball 27",
-          "channel": "OKATO GO",
+          "title": "جربت لعبة مغامرات مروان ريحان 3 💃🔥 3 العاب مصرية مسخرة",
+          "channel": "LeOniDeS - مروان ريحان",
           "category_id": "20",
-          "views": "55706",
-          "likes": "7881",
-          "comments": "213",
-          "published_at": "2026-10-21T10:39:45Z",
-          "url": "https://www.youtube.com/watch?v=KoFoAfQQU6A"
+          "views": "283092",
+          "likes": "14503",
+          "comments": "667",
+          "published_at": "2026-10-19T14:15:14Z",
+          "url": "https://www.youtube.com/watch?v=abCAPKT5moQ"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "مخونتش مخوفتش مغدرتش ( راكب علي الطاره مكتسح كل المجال ) - حمو المرشدي 2026",
-          "channel": "Hamo ELMorshdy - حمو المرشدي",
+          "title": "يا شماتين ( الاسم ديب والموت نصيب ) ريشا كوستا - سماره ناو - مجدي الزهار - توزيع موحه برودكشن 2026",
+          "channel": "ريشا كوستا و سماره - Resha wi SamaRa",
           "category_id": "10",
-          "views": "311258",
-          "likes": "6483",
-          "comments": "521",
-          "published_at": "2026-10-18T12:00:11Z",
-          "url": "https://www.youtube.com/watch?v=Hed_4F_cQiw"
+          "views": "102591",
+          "likes": "2241",
+          "comments": "138",
+          "published_at": "2026-10-19T13:52:36Z",
+          "url": "https://www.youtube.com/watch?v=PDVoApRgly0"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اشتريت حساب عشوائي ب 1000$ ، اتصدمت !! 🔥😱 ",
-          "channel": "BEPO FF",
-          "category_id": "20",
-          "views": "205094",
-          "likes": "13856",
-          "comments": "482",
-          "published_at": "2026-10-20T12:34:33Z",
-          "url": "https://www.youtube.com/watch?v=Yqd8AjdHYCA"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "LNGSHOT - 'Masterpiece' Official Music Video",
-          "channel": "MORE VISION",
-          "category_id": "10",
-          "views": "995480",
-          "likes": "163970",
-          "comments": "15786",
-          "published_at": "2026-10-21T09:00:05Z",
-          "url": "https://www.youtube.com/watch?v=Cu6JU-kNmOU"
+          "title": "مستر بيست تحدنا 🫡 لو اكلنا كل السوبر ماركت بيعطينيا 999.523.214$ 😱🔥هل نقدر ؟َ!",
+          "channel": "Migo9 Roblox",
+          "category_id": "22",
+          "views": "21864",
+          "likes": "696",
+          "comments": "80",
+          "published_at": "2026-10-21T13:09:56Z",
+          "url": "https://www.youtube.com/watch?v=H--WY2i9ZLI"
         }
       ]
     },
     {
-      "collected_at": "2026-10-21T16:56:08.566678+00:00",
+      "collected_at": "2026-10-21T21:27:12.868108+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-21T16:56:08.936504+00:00",
+      "collected_at": "2026-10-21T21:27:13.153920+00:00",
       "platform": "tiktok",
       "items": []
     }
