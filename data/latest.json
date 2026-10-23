@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-23T11:18:52.298221+00:00",
+  "generated_at": "2026-10-23T16:47:28.319062+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-23T11:18:52.491492+00:00",
+      "collected_at": "2026-10-23T16:47:28.910828+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "وفاة ابن محمد صبحي",
-          "traffic": "100+"
+          "term": "موعد اذان العشاء",
+          "traffic": "10000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "protest",
+          "term": "فائدة",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "عاصفة",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سيارة",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "المملكة المتحدة",
-          "traffic": "100+"
+          "term": "إطلاق نار",
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "south africa",
+          "term": "شيرين رضا",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "سعر الصرف",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "وقود",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "شرطة",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "القرآن الكريم",
+          "term": "دار الإفتاء المصرية",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "شات",
+          "term": "avengers doomsday",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ارجنتين",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "аэропорт",
-          "traffic": "100+"
+          "term": "الاتحاد ضد الدرعية",
+          "traffic": "1000+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-23T11:18:52.632369+00:00",
+      "collected_at": "2026-10-23T16:47:29.100476+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "ادم كينج و اياد كينج مصر - خدناها جري Adam King & King Misr & Eyad King - Khadnaha Gary [ 2026 ]",
           "channel": "دوما كينج - Doma Music",
           "category_id": "10",
-          "views": "207898",
-          "likes": "4284",
-          "comments": "1770",
+          "views": "283286",
+          "likes": "4981",
+          "comments": "1823",
           "published_at": "2026-10-22T14:00:08Z",
           "url": "https://www.youtube.com/watch?v=20MisM1wEQM"
         },
@@ -77,9 +77,9 @@
           "title": "The official Trailer for Crypto Film - الإعلان الرسمي لفيلم كريبتو ",
           "channel": "Telfaz",
           "category_id": "22",
-          "views": "19395",
-          "likes": "171",
-          "comments": "17",
+          "views": "26914",
+          "likes": "229",
+          "comments": "20",
           "published_at": "2026-10-22T14:28:19Z",
           "url": "https://www.youtube.com/watch?v=KqPKZJ_9KFc"
         },
@@ -88,9 +88,9 @@
           "title": "وصلت 131 في بداية حدث الكرة الذهبية",
           "channel": "Abdo 2xd",
           "category_id": "20",
-          "views": "538863",
-          "likes": "34714",
-          "comments": "953",
+          "views": "633681",
+          "likes": "37763",
+          "comments": "1006",
           "published_at": "2026-10-22T13:56:43Z",
           "url": "https://www.youtube.com/watch?v=rJrojYpY9UE"
         },
@@ -99,9 +99,9 @@
           "title": "حوده \" اغنيه هل هيلا \" من فيلم نصيب \" بطوله ياسمين صبري | 2026",
           "channel": "Houda",
           "category_id": "10",
-          "views": "94803",
-          "likes": "2667",
-          "comments": "123",
+          "views": "126417",
+          "likes": "3203",
+          "comments": "128",
           "published_at": "2026-10-22T15:00:09Z",
           "url": "https://www.youtube.com/watch?v=ET6-gNOW86E"
         },
@@ -110,9 +110,9 @@
           "title": "Cyberpunk 2077 - Official Edgerunners 2 Update Overview Trailer",
           "channel": "IGN",
           "category_id": "20",
-          "views": "3350489",
-          "likes": "72186",
-          "comments": "4487",
+          "views": "3444850",
+          "likes": "73160",
+          "comments": "4540",
           "published_at": "2026-10-21T15:51:00Z",
           "url": "https://www.youtube.com/watch?v=7wPOA6a85S4"
         },
@@ -121,9 +121,9 @@
           "title": "استخدمت شعري للهروب من الشرطة في روبلوكس! 😱🚨",
           "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "74517",
-          "likes": "4391",
-          "comments": "120",
+          "views": "93767",
+          "likes": "5156",
+          "comments": "134",
           "published_at": "2026-10-22T14:15:09Z",
           "url": "https://www.youtube.com/watch?v=nD2HTAUPyEA"
         },
@@ -132,9 +132,9 @@
           "title": "LISA - Tarantino (Official Music Video)",
           "channel": "LISAOfficialVEVO",
           "category_id": "10",
-          "views": "10601905",
-          "likes": "458829",
-          "comments": "38013",
+          "views": "21650052",
+          "likes": "614517",
+          "comments": "47097",
           "published_at": "2026-10-23T04:00:07Z",
           "url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
         },
@@ -143,9 +143,9 @@
           "title": "Path to Doomsday - Avengers: Endgame | New PvE Mode Trailer | Marvel Rivals",
           "channel": "Marvel Rivals",
           "category_id": "20",
-          "views": "1092872",
-          "likes": "27254",
-          "comments": "1696",
+          "views": "1115090",
+          "likes": "27477",
+          "comments": "1697",
           "published_at": "2026-10-20T15:00:34Z",
           "url": "https://www.youtube.com/watch?v=RUEk4Bak3Xk"
         },
@@ -154,9 +154,9 @@
           "title": "اخيرا عودة الاسطوره رافينيا🔥انتهى زمن الديفجن الجميل🤯 |efootbal 2027",
           "channel": "TONY GAMING",
           "category_id": "20",
-          "views": "168566",
-          "likes": "14307",
-          "comments": "464",
+          "views": "195713",
+          "likes": "15434",
+          "comments": "487",
           "published_at": "2026-10-22T16:18:02Z",
           "url": "https://www.youtube.com/watch?v=QoS-kGaqwW4"
         },
@@ -165,9 +165,9 @@
           "title": "Abo El Anwar - 007 (Official Music Video) ابو الانوار - فيديو كليب دابل او سيڤن",
           "channel": "Abo El Anwar",
           "category_id": "10",
-          "views": "59154",
-          "likes": "4728",
-          "comments": "603",
+          "views": "69887",
+          "likes": "5192",
+          "comments": "652",
           "published_at": "2026-10-22T17:00:23Z",
           "url": "https://www.youtube.com/watch?v=eq2ZzNGTO84"
         },
@@ -176,8 +176,8 @@
           "title": "الإعلان الرسمي \"فيلم نصيب\" 28 أكتوبر في السينمات",
           "channel": "Albatros Production",
           "category_id": "24",
-          "views": "2681741",
-          "likes": "688",
+          "views": "2743779",
+          "likes": "699",
           "comments": "51",
           "published_at": "2026-10-19T11:00:15Z",
           "url": "https://www.youtube.com/watch?v=K5AJHNrkNpA"
@@ -187,9 +187,9 @@
           "title": "البحث عن امهر مهاجم في اللعبة 🤯🚀 تفجير بكج رافينيا ودوكو  وتجربة المدرب الجديد 🔥 eFootball 27",
           "channel": "HERO GAMING",
           "category_id": "20",
-          "views": "91456",
-          "likes": "8835",
-          "comments": "301",
+          "views": "109573",
+          "likes": "9739",
+          "comments": "321",
           "published_at": "2026-10-22T16:46:31Z",
           "url": "https://www.youtube.com/watch?v=jWZ6dGaEU7k"
         },
@@ -198,9 +198,9 @@
           "title": "BABYMONSTER - 'DESERVE' M/V",
           "channel": "BABYMONSTER",
           "category_id": "10",
-          "views": "4971392",
-          "likes": "425298",
-          "comments": "34792",
+          "views": "7964056",
+          "likes": "539397",
+          "comments": "41305",
           "published_at": "2026-10-23T04:00:09Z",
           "url": "https://www.youtube.com/watch?v=oC6brLXQe4I"
         },
@@ -209,9 +209,9 @@
           "title": "تحدي 3 هاكات في دقيقة و 46 ثانية !؟ 😮 منشنات التيك توك #98 | ببجي موبايل",
           "channel": "3lilio",
           "category_id": "20",
-          "views": "46794",
-          "likes": "4024",
-          "comments": "140",
+          "views": "59153",
+          "likes": "4688",
+          "comments": "149",
           "published_at": "2026-10-22T18:30:30Z",
           "url": "https://www.youtube.com/watch?v=5v5wlIG8KnE"
         },
@@ -220,9 +220,9 @@
           "title": "انا حذرتك وانت وراحتك ( فتح عينك ) عصام صاصا الكروان - توزيع كيمو الديب Official Video",
           "channel": "عصام صاصا - Essam Saasa",
           "category_id": "10",
-          "views": "192943",
-          "likes": "6879",
-          "comments": "911",
+          "views": "212419",
+          "likes": "7198",
+          "comments": "921",
           "published_at": "2026-10-21T15:00:11Z",
           "url": "https://www.youtube.com/watch?v=R5hnHua2erQ"
         },
@@ -231,9 +231,9 @@
           "title": "تفجير بكج الثلاثي اللذي لم يرعب احد 😂🔥 رافينيا و دوكو و ديزيري دوي ملوك المراوغة 🤯🔥 |eFootball 2027",
           "channel": "JIGGSo_ar",
           "category_id": "20",
-          "views": "75293",
-          "likes": "6419",
-          "comments": "707",
+          "views": "81298",
+          "likes": "6718",
+          "comments": "766",
           "published_at": "2026-10-22T11:40:15Z",
           "url": "https://www.youtube.com/watch?v=21W7Ijpi-Ak"
         },
@@ -242,9 +242,9 @@
           "title": "اغنية \" بحبه ياليلي \" الزين (بحبه ياليلي ومن نن عيني - مسك الختام) | Audio \"Ba7ebo Yalile\" -  ELzayn",
           "channel": "ELZAYN | الزين ",
           "category_id": "10",
-          "views": "29914",
-          "likes": "1129",
-          "comments": "153",
+          "views": "37553",
+          "likes": "1269",
+          "comments": "164",
           "published_at": "2026-10-22T15:00:07Z",
           "url": "https://www.youtube.com/watch?v=NL59gIJNA9A"
         },
@@ -253,9 +253,9 @@
           "title": "سرقة الزومبى 😱!! Steal and Cure a Zombie",
           "channel": "اصلانو المغامر - Aslano",
           "category_id": "20",
-          "views": "29529",
-          "likes": "1353",
-          "comments": "7",
+          "views": "33301",
+          "likes": "1474",
+          "comments": "9",
           "published_at": "2026-10-22T11:00:37Z",
           "url": "https://www.youtube.com/watch?v=60BN4oGpgdk"
         },
@@ -264,9 +264,9 @@
           "title": "يعيوني متدمعيش تاني علي اللي باعوني ( بب جيلي _ شد جيست ) حمو المرشدي _ مش فاكرك",
           "channel": "Karizma Production",
           "category_id": "22",
-          "views": "67191",
-          "likes": "1660",
-          "comments": "172",
+          "views": "85407",
+          "likes": "1815",
+          "comments": "176",
           "published_at": "2026-10-22T12:23:01Z",
           "url": "https://www.youtube.com/watch?v=x_ne-vhH3OA"
         },
@@ -275,9 +275,9 @@
           "title": "اوقف هذا القطار اربح سياره لمبرجيني | Stop The Train !! 🚆🚗",
           "channel": "Solom",
           "category_id": "20",
-          "views": "30238",
-          "likes": "955",
-          "comments": "33",
+          "views": "35961",
+          "likes": "1053",
+          "comments": "35",
           "published_at": "2026-10-22T12:31:59Z",
           "url": "https://www.youtube.com/watch?v=zgcJYZWWdlQ"
         },
@@ -286,9 +286,9 @@
           "title": "Mohamed Ramadan - Haboba / محمد رمضان - الحب طلع اكذوبة",
           "channel": "Mohamed Ramadan I محمد رمضان",
           "category_id": "10",
-          "views": "30838",
-          "likes": "1558",
-          "comments": "195",
+          "views": "96811",
+          "likes": "2048",
+          "comments": "230",
           "published_at": "2026-10-22T21:00:04Z",
           "url": "https://www.youtube.com/watch?v=doEjOOLctj4"
         },
@@ -297,9 +297,9 @@
           "title": "تحدي الهروب من منزل اليوتيوبر المجنون😱 | Escape from Vlogger Runaway",
           "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "33056",
-          "likes": "1615",
-          "comments": "111",
+          "views": "39522",
+          "likes": "1761",
+          "comments": "118",
           "published_at": "2026-10-22T13:45:11Z",
           "url": "https://www.youtube.com/watch?v=B8kNEhY0tyo"
         },
@@ -308,9 +308,9 @@
           "title": "كنت هربان من البشر ( غلبتني ياهيبه كنت فين ) حوريه - ترند التيـك توك | ترند حـظ شعبـي جديد 2027",
           "channel": "شعبي مصر - Sh2aby Masr",
           "category_id": "10",
-          "views": "13367",
-          "likes": "204",
-          "comments": "1",
+          "views": "22505",
+          "likes": "306",
+          "comments": "4",
           "published_at": "2026-10-22T13:49:48Z",
           "url": "https://www.youtube.com/watch?v=_g8AZNF4Ckw"
         },
@@ -319,9 +319,9 @@
           "title": "🔥 اشتريت سيارة تسلا الجديدة في GTA 5 😱🚀 وحولتها لسيارة طائرة وهربت من الشرطة! 🚔",
           "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "105469",
-          "likes": "3972",
-          "comments": "61",
+          "views": "114207",
+          "likes": "4213",
+          "comments": "69",
           "published_at": "2026-10-21T09:30:27Z",
           "url": "https://www.youtube.com/watch?v=FVrzkRb8M80"
         },
@@ -330,21 +330,21 @@
           "title": "المجال لم | سامر المدني - محمد البصيلي / Samer Elmedany - Mohamed Elbosely Elmagal Lam",
           "channel": "سامر المدني Samer Elmedany",
           "category_id": "10",
-          "views": "24960",
-          "likes": "1964",
-          "comments": "379",
+          "views": "30505",
+          "likes": "2194",
+          "comments": "397",
           "published_at": "2026-10-22T15:00:10Z",
           "url": "https://www.youtube.com/watch?v=-PAMVLoUjpo"
         }
       ]
     },
     {
-      "collected_at": "2026-10-23T11:18:52.633006+00:00",
+      "collected_at": "2026-10-23T16:47:29.101142+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-23T11:18:53.110793+00:00",
+      "collected_at": "2026-10-23T16:47:29.544694+00:00",
       "platform": "tiktok",
       "items": []
     }
