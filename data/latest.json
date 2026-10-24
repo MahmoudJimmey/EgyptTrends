@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-24T15:40:33.876122+00:00",
+  "generated_at": "2026-10-24T20:30:39.971992+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-24T15:40:34.121582+00:00",
+      "collected_at": "2026-10-24T20:30:40.184663+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "نابولي ضد روما",
+          "term": "لاتسيو ضد بارما",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "napoli vs roma",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "المغرب",
+          "term": "كهرباء",
           "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "موعد مباراة الزمالك",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "real madrid vs cd tenerife",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "قرار",
+          "term": "عائشة الكيلاني",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "west ham vs southampton",
+          "term": "الترجى",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "سرقة",
+          "term": "الرياض ضد التعاون",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "arsenal",
+          "term": "مكة المكرمة",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "تشلسي",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ssc napoli vs as roma standings",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ار بي ليبزيج ضد إلفيرسبيرج",
-          "traffic": "200+"
+          "term": "barcelona vs granada",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الاتحاد التوركي ضد الوداد الرياضي",
+          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-24T15:40:34.280238+00:00",
+      "collected_at": "2026-10-24T20:30:40.299737+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "طب دا كلام يطيري ( انا في خيالي برسمك _  كان عندي طير حزين ) هديه عيد ميلادي انا اللي جايبها ليا",
           "channel": "Karizma Production",
           "category_id": "22",
-          "views": "202512",
-          "likes": "4674",
-          "comments": "310",
+          "views": "266173",
+          "likes": "5534",
+          "comments": "325",
           "published_at": "2026-10-23T15:51:34Z",
           "url": "https://www.youtube.com/watch?v=HIjRqiPxddE"
         },
@@ -77,9 +77,9 @@
           "title": "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
           "channel": "MLB",
           "category_id": "17",
-          "views": "1734853",
-          "likes": "40557",
-          "comments": "1582",
+          "views": "2099024",
+          "likes": "44923",
+          "comments": "1703",
           "published_at": "2026-10-24T00:52:55Z",
           "url": "https://www.youtube.com/watch?v=oLJFJSNFklU"
         },
@@ -88,31 +88,31 @@
           "title": "أكتر لعبة صدمتني !! 🤯 | Poppy playtime Chapter 2",
           "channel": "Esraa Gaming ",
           "category_id": "22",
-          "views": "454906",
-          "likes": "15069",
-          "comments": "4906",
+          "views": "516994",
+          "likes": "16046",
+          "comments": "5250",
           "published_at": "2026-10-23T11:10:49Z",
           "url": "https://www.youtube.com/watch?v=uTmM8tI3b88"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "ادم كينج و اياد كينج مصر - خدناها جري Adam King & King Misr & Eyad King - Khadnaha Gary [ 2026 ]",
-          "channel": "دوما كينج - Doma Music",
+          "title": "Sharnouby & Yasmina El Abd - Seedi | GFF 2026 | شرنوبي و ياسمينا العبد - سيدي",
+          "channel": "Mazzika - مزيكا",
           "category_id": "10",
-          "views": "451511",
-          "likes": "6347",
-          "comments": "1918",
-          "published_at": "2026-10-22T14:00:08Z",
-          "url": "https://www.youtube.com/watch?v=20MisM1wEQM"
+          "views": "157459",
+          "likes": "2111",
+          "comments": "100",
+          "published_at": "2026-10-23T19:46:01Z",
+          "url": "https://www.youtube.com/watch?v=bjvTqTG-xEY"
         },
         {
           "source": "youtube_trending_eg",
           "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
           "channel": "KinoCheck.com",
           "category_id": "24",
-          "views": "1866292",
-          "likes": "18103",
-          "comments": "1164",
+          "views": "2277133",
+          "likes": "20828",
+          "comments": "1334",
           "published_at": "2026-10-24T01:07:13Z",
           "url": "https://www.youtube.com/watch?v=6H-_VHitfAA"
         },
@@ -121,42 +121,42 @@
           "title": "أسوأ رحلة طيران في حياتنا! 😂✈️ أنا وأخويا في روبلوكس Dear Passengers Chaos",
           "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "27940",
-          "likes": "922",
-          "comments": "38",
+          "views": "47698",
+          "likes": "1229",
+          "comments": "43",
           "published_at": "2026-10-24T09:00:29Z",
           "url": "https://www.youtube.com/watch?v=DJv2DavDL1c"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Sharnouby & Yasmina El Abd - Seedi | GFF 2026 | شرنوبي و ياسمينا العبد - سيدي",
-          "channel": "Mazzika - مزيكا",
+          "title": "ادم كينج و اياد كينج مصر - خدناها جري Adam King & King Misr & Eyad King - Khadnaha Gary [ 2026 ]",
+          "channel": "دوما كينج - Doma Music",
           "category_id": "10",
-          "views": "120886",
-          "likes": "1780",
-          "comments": "81",
-          "published_at": "2026-10-23T19:46:01Z",
-          "url": "https://www.youtube.com/watch?v=bjvTqTG-xEY"
+          "views": "509914",
+          "likes": "6827",
+          "comments": "1959",
+          "published_at": "2026-10-22T14:00:08Z",
+          "url": "https://www.youtube.com/watch?v=20MisM1wEQM"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "The official Trailer for Crypto Film - الإعلان الرسمي لفيلم كريبتو ",
-          "channel": "Telfaz",
-          "category_id": "22",
-          "views": "48950",
-          "likes": "313",
-          "comments": "32",
-          "published_at": "2026-10-22T14:28:19Z",
-          "url": "https://www.youtube.com/watch?v=KqPKZJ_9KFc"
+          "title": "Calling All Villains - Official Trailer",
+          "channel": "ZAMination",
+          "category_id": "1",
+          "views": "614362",
+          "likes": "52496",
+          "comments": "4314",
+          "published_at": "2026-10-24T15:00:08Z",
+          "url": "https://www.youtube.com/watch?v=3lEUqM5ondI"
         },
         {
           "source": "youtube_trending_eg",
           "title": "عوده شحن المتابعين في حدث البالون دور🇧🇷🤯",
           "channel": "HikaSIU",
           "category_id": "20",
-          "views": "225553",
-          "likes": "22936",
-          "comments": "1263",
+          "views": "247173",
+          "likes": "24180",
+          "comments": "1319",
           "published_at": "2026-10-23T12:23:51Z",
           "url": "https://www.youtube.com/watch?v=dIySSBh7HI0"
         },
@@ -165,173 +165,173 @@
           "title": "Donia Samir Ghanem - El dalal |  2026 |  دنيا سمير غانم - الدلال من ألبوم الدلال",
           "channel": "Donia Samir Ghanem",
           "category_id": "10",
-          "views": "91399",
-          "likes": "3005",
-          "comments": "293",
+          "views": "105733",
+          "likes": "3237",
+          "comments": "312",
           "published_at": "2026-10-23T13:59:11Z",
           "url": "https://www.youtube.com/watch?v=Aj80F_hofls"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Cyberpunk 2077 - Official Edgerunners 2 Update Overview Trailer",
-          "channel": "IGN",
-          "category_id": "20",
-          "views": "3736351",
-          "likes": "74975",
-          "comments": "4648",
-          "published_at": "2026-10-21T15:51:00Z",
-          "url": "https://www.youtube.com/watch?v=7wPOA6a85S4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "وصلت 131 في بداية حدث الكرة الذهبية",
-          "channel": "Abdo 2xd",
-          "category_id": "20",
-          "views": "811714",
-          "likes": "43432",
-          "comments": "1131",
-          "published_at": "2026-10-22T13:56:43Z",
-          "url": "https://www.youtube.com/watch?v=rJrojYpY9UE"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "طلعو علي ايدي - حمو المرشدي 2027 -  TEL3o 3la 2idy - Hamo Elmorshedy",
-          "channel": "Hamo ELMorshdy - حمو المرشدي",
-          "category_id": "10",
-          "views": "67374",
-          "likes": "2073",
-          "comments": "338",
-          "published_at": "2026-10-23T20:17:28Z",
-          "url": "https://www.youtube.com/watch?v=0DqXwj7-QtY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "من عامل دليفري فقير إلى مليونير واشتريت أغلى سيارة! 🤑🚗 في روبلوكس Roblox Delivery Rush",
-          "channel": "Aslano",
-          "category_id": "20",
-          "views": "17960",
-          "likes": "822",
-          "comments": "11",
-          "published_at": "2026-10-24T09:30:25Z",
-          "url": "https://www.youtube.com/watch?v=QKXsL_wI1Vg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "محتل الملاعب ( اللي انت معديه انا اللي بعديه ) محمد البصيلي و عمر الكروان - توزيع احمد لوزه",
-          "channel": "محمد البصيلي - Mohamed Elbosely",
-          "category_id": "10",
-          "views": "39739",
-          "likes": "1375",
-          "comments": "98",
-          "published_at": "2026-10-23T15:00:10Z",
-          "url": "https://www.youtube.com/watch?v=9ELYXUBSqOw"
+          "title": "The official Trailer for Crypto Film - الإعلان الرسمي لفيلم كريبتو ",
+          "channel": "Telfaz",
+          "category_id": "22",
+          "views": "52705",
+          "likes": "332",
+          "comments": "34",
+          "published_at": "2026-10-22T14:28:19Z",
+          "url": "https://www.youtube.com/watch?v=KqPKZJ_9KFc"
         },
         {
           "source": "youtube_trending_eg",
           "title": "🔥 اصلانو المغامر لازم ياكل كل اللي في السوبر ماركت عشان يكسب 1,000,000 دولار! 😱🍔 | Roblox",
           "channel": "اصلانو المغامر - Aslano",
           "category_id": "20",
-          "views": "13610",
-          "likes": "1122",
-          "comments": "40",
+          "views": "25190",
+          "likes": "1619",
+          "comments": "52",
           "published_at": "2026-10-24T10:30:16Z",
           "url": "https://www.youtube.com/watch?v=o4y_8D7o0i4"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "عمر كمال - بلد الجدعنة | Omar Kamal - Balad El Gadaana (Official Music Video)",
+          "channel": "Omar Kamal",
+          "category_id": "10",
+          "views": "20687",
+          "likes": "1856",
+          "comments": "215",
+          "published_at": "2026-10-24T14:00:08Z",
+          "url": "https://www.youtube.com/watch?v=1H74UyfsO-g"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "من عامل دليفري فقير إلى مليونير واشتريت أغلى سيارة! 🤑🚗 في روبلوكس Roblox Delivery Rush",
+          "channel": "Aslano",
+          "category_id": "20",
+          "views": "29038",
+          "likes": "1144",
+          "comments": "11",
+          "published_at": "2026-10-24T09:30:25Z",
+          "url": "https://www.youtube.com/watch?v=QKXsL_wI1Vg"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "طلعو علي ايدي - حمو المرشدي 2027 -  TEL3o 3la 2idy - Hamo Elmorshedy",
+          "channel": "Hamo ELMorshdy - حمو المرشدي",
+          "category_id": "10",
+          "views": "95506",
+          "likes": "2432",
+          "comments": "358",
+          "published_at": "2026-10-23T20:17:28Z",
+          "url": "https://www.youtube.com/watch?v=0DqXwj7-QtY"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "وصلت 131 في بداية حدث الكرة الذهبية",
+          "channel": "Abdo 2xd",
+          "category_id": "20",
+          "views": "853679",
+          "likes": "44508",
+          "comments": "1160",
+          "published_at": "2026-10-22T13:56:43Z",
+          "url": "https://www.youtube.com/watch?v=rJrojYpY9UE"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "محتل الملاعب ( اللي انت معديه انا اللي بعديه ) محمد البصيلي و عمر الكروان - توزيع احمد لوزه",
+          "channel": "محمد البصيلي - Mohamed Elbosely",
+          "category_id": "10",
+          "views": "54199",
+          "likes": "1541",
+          "comments": "99",
+          "published_at": "2026-10-23T15:00:10Z",
+          "url": "https://www.youtube.com/watch?v=9ELYXUBSqOw"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "فريق زحلقني رجع | EA FC 27",
+          "channel": "Karim Yl3b",
+          "category_id": "20",
+          "views": "58268",
+          "likes": "3784",
+          "comments": "154",
+          "published_at": "2026-10-24T14:00:12Z",
+          "url": "https://www.youtube.com/watch?v=elEcGdJEnlU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "حوده \" اغنيه هل هيلا \" من فيلم نصيب \" بطوله ياسمين صبري | 2026",
           "channel": "Houda",
           "category_id": "10",
-          "views": "222183",
-          "likes": "4411",
-          "comments": "151",
+          "views": "252651",
+          "likes": "4684",
+          "comments": "156",
           "published_at": "2026-10-22T15:00:09Z",
           "url": "https://www.youtube.com/watch?v=ET6-gNOW86E"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "مستحيل !! سيارة تسلا تطير | GTA V !! 😱🔥",
-          "channel": "EstubeGaming",
+          "title": "اعسل عيله عسوله",
+          "channel": "Assoulla - عسوله",
           "category_id": "20",
-          "views": "59153",
-          "likes": "2373",
-          "comments": "107",
-          "published_at": "2026-10-23T16:04:57Z",
-          "url": "https://www.youtube.com/watch?v=pbFJXYl0ahg"
+          "views": "376661",
+          "likes": "1835",
+          "comments": "5",
+          "published_at": "2026-10-24T10:17:11Z",
+          "url": "https://www.youtube.com/watch?v=LrU3pAMqcNo"
         },
         {
           "source": "youtube_trending_eg",
           "title": "LISA - Tarantino (Official Music Video)",
           "channel": "LISAOfficialVEVO",
           "category_id": "10",
-          "views": "48995927",
-          "likes": "844062",
-          "comments": "60656",
+          "views": "50699076",
+          "likes": "872917",
+          "comments": "61881",
           "published_at": "2026-10-23T04:00:07Z",
           "url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "عبده ماندو عايش في منزل مقفول مع قطه ملبوسه لعبه من الضيب ويب😱 | Minnow's Den",
-          "channel": "Abdo Mando - عبده ماندو",
+          "title": "تحدي نفوز مباراه انا و 9al🔥على منتخب مصر وصيف افريقيا وتالت العالم🤯 |efootbal 2027",
+          "channel": "TONY GAMING",
           "category_id": "20",
-          "views": "50441",
-          "likes": "2725",
-          "comments": "167",
-          "published_at": "2026-10-23T13:46:53Z",
-          "url": "https://www.youtube.com/watch?v=QJeUlHblWLo"
+          "views": "66129",
+          "likes": "9591",
+          "comments": "425",
+          "published_at": "2026-10-24T14:39:30Z",
+          "url": "https://www.youtube.com/watch?v=z3orwE3fTSA"
         },
         {
           "source": "youtube_trending_eg",
           "title": "BABYMONSTER - 'DESERVE' M/V",
           "channel": "BABYMONSTER",
           "category_id": "10",
-          "views": "18971205",
-          "likes": "655952",
-          "comments": "47376",
+          "views": "20796255",
+          "likes": "667941",
+          "comments": "47941",
           "published_at": "2026-10-23T04:00:09Z",
           "url": "https://www.youtube.com/watch?v=oC6brLXQe4I"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "جربت أسرع طرق التنقل في ماين كرافت",
-          "channel": "Ury 2",
-          "category_id": "20",
-          "views": "216992",
-          "likes": "15788",
-          "comments": "2980",
-          "published_at": "2026-10-23T17:23:32Z",
-          "url": "https://www.youtube.com/watch?v=B-sRZlvLyOM"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Abo El Anwar - 007 (Official Music Video) ابو الانوار - فيديو كليب دابل او سيڤن",
-          "channel": "Abo El Anwar",
-          "category_id": "10",
-          "views": "92665",
-          "likes": "5865",
-          "comments": "715",
-          "published_at": "2026-10-22T17:00:23Z",
-          "url": "https://www.youtube.com/watch?v=eq2ZzNGTO84"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "استخدمت شعري للهروب من الشرطة في روبلوكس! 😱🚨",
-          "channel": "Mkamel GG",
-          "category_id": "20",
-          "views": "129274",
-          "likes": "6540",
-          "comments": "176",
-          "published_at": "2026-10-22T14:15:09Z",
-          "url": "https://www.youtube.com/watch?v=nD2HTAUPyEA"
+          "title": "استعد لبكج الكرة الذهبية وافضل لاعب ف العالم 🔥🤯 احداث يوم الاثنين واهم الاخبار😱|efootball 2027",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "70672",
+          "likes": "5856",
+          "comments": "326",
+          "published_at": "2026-10-24T13:01:54Z",
+          "url": "https://www.youtube.com/watch?v=4t8KT5vOwCU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "خلي ولي مدير2",
           "channel": "Mohamed Moneam - Topic",
           "category_id": "10",
-          "views": "30289",
-          "likes": "336",
+          "views": "35095",
+          "likes": "366",
           "comments": "4",
           "published_at": "2026-10-19T21:54:38Z",
           "url": "https://www.youtube.com/watch?v=w2O8eZnX8BI"
@@ -339,12 +339,12 @@
       ]
     },
     {
-      "collected_at": "2026-10-24T15:40:34.281135+00:00",
+      "collected_at": "2026-10-24T20:30:40.300420+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-24T15:40:34.704544+00:00",
+      "collected_at": "2026-10-24T20:30:40.589352+00:00",
       "platform": "tiktok",
       "items": []
     }
