@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-26T04:06:42.270061+00:00",
+  "generated_at": "2026-10-26T12:35:12.208665+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-26T04:06:42.592505+00:00",
+      "collected_at": "2026-10-26T12:35:12.840255+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "المعاشات اليوم",
+          "term": "عمرو يوسف",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "درجات الحرارة",
+          "term": "بسمة بوسيل",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سعر الدرهم",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "وليد سليمان",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "flávio bolsonaro",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "عقوبة",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مشاجرة",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سيجارة",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "lula",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "jazz vs lakers",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "تل ابيب",
+          "term": "سامي عبد الحليم",
           "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "كريم أديمي",
+          "term": "اسعار باقات الانترنت الارضي",
           "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "صابرين",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "كأس الخليج العربي",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سعر الريال السعودي",
+          "traffic": "20000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سعر الدولار اليوم",
+          "traffic": "50000+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-26T04:06:42.710504+00:00",
+      "collected_at": "2026-10-26T12:35:12.986477+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "اسلام كابونجا و عصام صاصا - سوبر ستار [ باقه الخيابه ] ولكم بيكم - Eslam Kabonga F.t Essam Sasa ",
           "channel": "اسلام كابونجا - الدبابه",
           "category_id": "10",
-          "views": "75154",
-          "likes": "3325",
-          "comments": "230",
+          "views": "95131",
+          "likes": "3874",
+          "comments": "260",
           "published_at": "2026-10-25T14:51:03Z",
           "url": "https://www.youtube.com/watch?v=pBYML_SQEEE"
         },
@@ -77,9 +77,9 @@
           "title": "Avengers: Doomsday | In Theaters December 18",
           "channel": "Marvel Entertainment",
           "category_id": "24",
-          "views": "11467792",
-          "likes": "234825",
-          "comments": "7123",
+          "views": "12197963",
+          "likes": "243060",
+          "comments": "7328",
           "published_at": "2026-10-25T00:00:00Z",
           "url": "https://www.youtube.com/watch?v=UfNu7pcR0e8"
         },
@@ -88,9 +88,9 @@
           "title": "اوعى تكسر البيضة 🐥🥚 مع بولتكس",
           "channel": "LeOniDeS - مروان ريحان",
           "category_id": "20",
-          "views": "146586",
-          "likes": "9330",
-          "comments": "381",
+          "views": "175206",
+          "likes": "10878",
+          "comments": "421",
           "published_at": "2026-10-25T14:15:32Z",
           "url": "https://www.youtube.com/watch?v=aRV9dD3Zlm4"
         },
@@ -99,9 +99,9 @@
           "title": "Ba7es Eny Bleyl - بحس اني بليل",
           "channel": "Abyusif I أبيوسف",
           "category_id": "10",
-          "views": "169086",
-          "likes": "13195",
-          "comments": "2118",
+          "views": "180119",
+          "likes": "13528",
+          "comments": "2147",
           "published_at": "2026-10-24T22:50:32Z",
           "url": "https://www.youtube.com/watch?v=6zXn2bJoGRo"
         },
@@ -110,9 +110,9 @@
           "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
           "channel": "KinoCheck.com",
           "category_id": "24",
-          "views": "2857700",
-          "likes": "23100",
-          "comments": "1570",
+          "views": "2950508",
+          "likes": "23396",
+          "comments": "1590",
           "published_at": "2026-10-24T01:07:13Z",
           "url": "https://www.youtube.com/watch?v=6H-_VHitfAA"
         },
@@ -121,9 +121,9 @@
           "title": "شرطي فقير يتحول إلى شرطي غني في لعبة GTA 5",
           "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "48147",
-          "likes": "1277",
-          "comments": "37",
+          "views": "53750",
+          "likes": "1438",
+          "comments": "44",
           "published_at": "2026-10-25T09:10:09Z",
           "url": "https://www.youtube.com/watch?v=yOTAqvqBQYM"
         },
@@ -132,9 +132,9 @@
           "title": "خاينين مالكمش امان ( انا جيت وانتو مجتوش ) احمد موزه السلطان - توزيع يوسف اوشا Official Video",
           "channel": "احمد موزه - Ahmed Moza",
           "category_id": "10",
-          "views": "17699",
-          "likes": "835",
-          "comments": "57",
+          "views": "23354",
+          "likes": "1018",
+          "comments": "64",
           "published_at": "2026-10-25T15:00:11Z",
           "url": "https://www.youtube.com/watch?v=O1-DgyaSBNg"
         },
@@ -143,9 +143,9 @@
           "title": "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
           "channel": "MLB",
           "category_id": "17",
-          "views": "2650935",
-          "likes": "49797",
-          "comments": "1806",
+          "views": "2703251",
+          "likes": "50197",
+          "comments": "1810",
           "published_at": "2026-10-24T00:52:55Z",
           "url": "https://www.youtube.com/watch?v=oLJFJSNFklU"
         },
@@ -154,9 +154,9 @@
           "title": "أكتر لعبة صدمتني !! 🤯 | Poppy playtime Chapter 2",
           "channel": "Esraa Gaming ",
           "category_id": "22",
-          "views": "665338",
-          "likes": "18049",
-          "comments": "6074",
+          "views": "682877",
+          "likes": "18402",
+          "comments": "6216",
           "published_at": "2026-10-23T11:10:49Z",
           "url": "https://www.youtube.com/watch?v=uTmM8tI3b88"
         },
@@ -165,9 +165,9 @@
           "title": "Sharnouby & Yasmina El Abd - Seedi | GFF 2026 | شرنوبي و ياسمينا العبد - سيدي",
           "channel": "Mazzika - مزيكا",
           "category_id": "10",
-          "views": "308708",
-          "likes": "3040",
-          "comments": "157",
+          "views": "334932",
+          "likes": "3234",
+          "comments": "161",
           "published_at": "2026-10-23T19:46:01Z",
           "url": "https://www.youtube.com/watch?v=bjvTqTG-xEY"
         },
@@ -176,31 +176,31 @@
           "title": "اعلان جديد Avengers Doomsday | هل Loki انتحل شخصية Steve Rogers ؟",
           "channel": "Emad Aboesaoud",
           "category_id": "22",
-          "views": "8011",
-          "likes": "173",
-          "comments": "12",
+          "views": "9836",
+          "likes": "193",
+          "comments": "13",
           "published_at": "2026-10-25T15:04:56Z",
           "url": "https://www.youtube.com/watch?v=PgmDFS85O64"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Barcelona vs Real Madrid La Liga 26/27 Full Match - Video Game Simulation Pes 2021",
-          "channel": "TIEMPO Gameplay",
+          "title": "دخلت عالم BLOOP المرعب في SUPER BEAR ADVENTURE! 😨🚪",
+          "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "1347254",
-          "likes": "3979",
-          "comments": "0",
-          "published_at": "2026-10-25T23:31:46Z",
-          "url": "https://www.youtube.com/watch?v=x2iD3RLEYCk"
+          "views": "72723",
+          "likes": "3024",
+          "comments": "68",
+          "published_at": "2026-10-25T15:00:34Z",
+          "url": "https://www.youtube.com/watch?v=TUuU_g-nwJ0"
         },
         {
           "source": "youtube_trending_eg",
           "title": "عمر كمال - بلد الجدعنة | Omar Kamal - Balad El Gadaana (Official Music Video)",
           "channel": "Omar Kamal",
           "category_id": "10",
-          "views": "54737",
-          "likes": "3155",
-          "comments": "358",
+          "views": "58729",
+          "likes": "3250",
+          "comments": "362",
           "published_at": "2026-10-24T14:00:08Z",
           "url": "https://www.youtube.com/watch?v=1H74UyfsO-g"
         },
@@ -209,31 +209,31 @@
           "title": "Calling All Villains - Official Trailer",
           "channel": "ZAMination",
           "category_id": "1",
-          "views": "1567731",
-          "likes": "83150",
-          "comments": "6195",
+          "views": "1679682",
+          "likes": "86247",
+          "comments": "6371",
           "published_at": "2026-10-24T15:00:08Z",
           "url": "https://www.youtube.com/watch?v=3lEUqM5ondI"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اشتريت سيارة تسلا الطائرة 🚀 والشرطة طاردتني بـ 5 نجوم !! 😱 GTA 5",
-          "channel": "Abdo Aslan",
+          "title": "Barcelona vs Real Madrid La Liga 26/27 Full Match - Video Game Simulation Pes 2021",
+          "channel": "TIEMPO Gameplay",
           "category_id": "20",
-          "views": "20896",
-          "likes": "1779",
-          "comments": "13",
-          "published_at": "2026-10-25T12:21:12Z",
-          "url": "https://www.youtube.com/watch?v=urJ044V2Qhs"
+          "views": "1348918",
+          "likes": "3902",
+          "comments": "0",
+          "published_at": "2026-10-25T23:31:46Z",
+          "url": "https://www.youtube.com/watch?v=x2iD3RLEYCk"
         },
         {
           "source": "youtube_trending_eg",
           "title": "طلعو علي ايدي - حمو المرشدي 2027 -  TEL3o 3la 2idy - Hamo Elmorshedy",
           "channel": "Hamo ELMorshdy - حمو المرشدي",
           "category_id": "10",
-          "views": "200098",
-          "likes": "3367",
-          "comments": "416",
+          "views": "212823",
+          "likes": "3543",
+          "comments": "429",
           "published_at": "2026-10-23T20:17:28Z",
           "url": "https://www.youtube.com/watch?v=0DqXwj7-QtY"
         },
@@ -242,31 +242,31 @@
           "title": "The official Trailer for Crypto Film - الإعلان الرسمي لفيلم كريبتو ",
           "channel": "Telfaz",
           "category_id": "22",
-          "views": "64204",
-          "likes": "382",
-          "comments": "36",
+          "views": "66051",
+          "likes": "388",
+          "comments": "37",
           "published_at": "2026-10-22T14:28:19Z",
           "url": "https://www.youtube.com/watch?v=KqPKZJ_9KFc"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "دخلت عالم BLOOP المرعب في SUPER BEAR ADVENTURE! 😨🚪",
-          "channel": "Mkamel GG",
+          "title": "اشتريت سيارة تسلا الطائرة 🚀 والشرطة طاردتني بـ 5 نجوم !! 😱 GTA 5",
+          "channel": "Abdo Aslan",
           "category_id": "20",
-          "views": "57853",
-          "likes": "2304",
-          "comments": "63",
-          "published_at": "2026-10-25T15:00:34Z",
-          "url": "https://www.youtube.com/watch?v=TUuU_g-nwJ0"
+          "views": "23976",
+          "likes": "2161",
+          "comments": "15",
+          "published_at": "2026-10-25T12:21:12Z",
+          "url": "https://www.youtube.com/watch?v=urJ044V2Qhs"
         },
         {
           "source": "youtube_trending_eg",
           "title": "محتل الملاعب ( اللي انت معديه انا اللي بعديه ) محمد البصيلي و عمر الكروان - توزيع احمد لوزه",
           "channel": "محمد البصيلي - Mohamed Elbosely",
           "category_id": "10",
-          "views": "103306",
-          "likes": "2012",
-          "comments": "110",
+          "views": "110921",
+          "likes": "2092",
+          "comments": "113",
           "published_at": "2026-10-23T15:00:10Z",
           "url": "https://www.youtube.com/watch?v=9ELYXUBSqOw"
         },
@@ -275,76 +275,76 @@
           "title": "فريق زحلقني رجع | EA FC 27",
           "channel": "Karim Yl3b",
           "category_id": "20",
-          "views": "154618",
-          "likes": "6478",
-          "comments": "204",
+          "views": "163210",
+          "likes": "6734",
+          "comments": "205",
           "published_at": "2026-10-24T14:00:12Z",
           "url": "https://www.youtube.com/watch?v=elEcGdJEnlU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "باقه الخيانه - سوبر ستار (feat. Eslam Kabonga)",
-          "channel": "عصام صاصا - Topic",
+          "channel": "Release - Topic",
           "category_id": "10",
-          "views": "8957",
-          "likes": "301",
-          "comments": "27",
+          "views": "13731",
+          "likes": "429",
+          "comments": "31",
           "published_at": "2026-10-25T16:03:41Z",
           "url": "https://www.youtube.com/watch?v=77Ir0SoTkY8"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اعسل عيله عسوله",
-          "channel": "Assoulla - عسوله",
-          "category_id": "20",
-          "views": "504054",
-          "likes": "3252",
-          "comments": "12",
-          "published_at": "2026-10-25T20:39:32Z",
-          "url": "https://www.youtube.com/watch?v=4F5Yf7Lqi08"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "ادم كينج و اياد كينج مصر - خدناها جري Adam King & King Misr & Eyad King - Khadnaha Gary [ 2026 ]",
-          "channel": "دوما كينج - Doma Music",
-          "category_id": "10",
-          "views": "694193",
-          "likes": "7859",
-          "comments": "2037",
-          "published_at": "2026-10-22T14:00:08Z",
-          "url": "https://www.youtube.com/watch?v=20MisM1wEQM"
         },
         {
           "source": "youtube_trending_eg",
           "title": "اقوى مطاردة فى السماء | Catch a Plane !! ✈️☁️",
           "channel": "Solom",
           "category_id": "20",
-          "views": "21616",
-          "likes": "734",
-          "comments": "23",
+          "views": "28598",
+          "likes": "917",
+          "comments": "27",
           "published_at": "2026-10-25T15:38:32Z",
           "url": "https://www.youtube.com/watch?v=dQkINAezsHU"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "ادم كينج و اياد كينج مصر - خدناها جري Adam King & King Misr & Eyad King - Khadnaha Gary [ 2026 ]",
+          "channel": "دوما كينج - Doma Music",
+          "category_id": "10",
+          "views": "724293",
+          "likes": "8086",
+          "comments": "2055",
+          "published_at": "2026-10-22T14:00:08Z",
+          "url": "https://www.youtube.com/watch?v=20MisM1wEQM"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اعسل عيله عسوله",
+          "channel": "Assoulla - عسوله",
+          "category_id": "20",
+          "views": "504153",
+          "likes": "3241",
+          "comments": "12",
+          "published_at": "2026-10-25T20:39:32Z",
+          "url": "https://www.youtube.com/watch?v=4F5Yf7Lqi08"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Donia Samir Ghanem - El dalal |  2026 |  دنيا سمير غانم - الدلال من ألبوم الدلال",
           "channel": "Donia Samir Ghanem",
           "category_id": "10",
-          "views": "166494",
-          "likes": "4063",
-          "comments": "357",
+          "views": "174220",
+          "likes": "4185",
+          "comments": "364",
           "published_at": "2026-10-23T13:59:11Z",
           "url": "https://www.youtube.com/watch?v=Aj80F_hofls"
         }
       ]
     },
     {
-      "collected_at": "2026-10-26T04:06:42.711535+00:00",
+      "collected_at": "2026-10-26T12:35:12.987309+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-26T04:06:43.099488+00:00",
+      "collected_at": "2026-10-26T12:35:13.353342+00:00",
       "platform": "tiktok",
       "items": []
     }
