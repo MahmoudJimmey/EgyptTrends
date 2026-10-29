@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-29T05:08:59.276533+00:00",
+  "generated_at": "2026-10-29T12:38:47.163723+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-29T05:08:59.519733+00:00",
+      "collected_at": "2026-10-29T12:38:47.423007+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "تمساح",
-          "traffic": "100+"
+          "term": "قطار",
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الإيجار",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "خريطة الطقس",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "أسوان",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "inter miami vs fc cincinnati standings",
+          "term": "سعر الدولار اليوم مقابل الجنيه المصري",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "أجر",
+          "term": "vincent kompany",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "شيماء سيف",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "فائدة",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "طرابزون",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "دندي يونايتد",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ايمان الطوخي",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "nba",
+          "term": "هيثم طلعت",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الذهب",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "محمد عبدالناصر",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "إنتر ميامي ضد سينسيناتي",
-          "traffic": "2000+"
+          "term": "جينيفر لورانس",
+          "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-29T05:08:59.646731+00:00",
+      "collected_at": "2026-10-29T12:38:47.599584+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "Ahmed Saad - Wallah Zaman | Official Music Video - 2026 | احمد سعد - والله زمان",
           "channel": "Ahmed Saad",
           "category_id": "10",
-          "views": "112292",
-          "likes": "3568",
-          "comments": "356",
+          "views": "151250",
+          "likes": "4663",
+          "comments": "417",
           "published_at": "2026-10-28T17:00:11Z",
           "url": "https://www.youtube.com/watch?v=0UvH9sGIaw0"
         },
@@ -77,9 +77,9 @@
           "title": "Dune: Part Three | Final Trailer",
           "channel": "Warner Bros.",
           "category_id": "1",
-          "views": "15582533",
-          "likes": "149480",
-          "comments": "8630",
+          "views": "16870188",
+          "likes": "154703",
+          "comments": "8842",
           "published_at": "2026-10-27T16:00:34Z",
           "url": "https://www.youtube.com/watch?v=uJqaGLmZpGo"
         },
@@ -88,9 +88,9 @@
           "title": "لا تفتح الباب 🚪 | أكتر لعبة رعبتني !! 😰",
           "channel": "Esraa Gaming ",
           "category_id": "22",
-          "views": "341247",
-          "likes": "12107",
-          "comments": "2896",
+          "views": "398569",
+          "likes": "14013",
+          "comments": "3380",
           "published_at": "2026-10-28T12:30:38Z",
           "url": "https://www.youtube.com/watch?v=1MfCAyqwZE8"
         },
@@ -99,9 +99,9 @@
           "title": "L E S A  -   لسة",
           "channel": "Abyusif I أبيوسف",
           "category_id": "10",
-          "views": "74373",
-          "likes": "7906",
-          "comments": "1511",
+          "views": "92572",
+          "likes": "8823",
+          "comments": "1576",
           "published_at": "2026-10-28T19:18:55Z",
           "url": "https://www.youtube.com/watch?v=8nKslaeXnj4"
         },
@@ -110,9 +110,9 @@
           "title": "Elissa - Official Album Trailer",
           "channel": "Elissa",
           "category_id": "10",
-          "views": "107692",
-          "likes": "4702",
-          "comments": "749",
+          "views": "113569",
+          "likes": "4816",
+          "comments": "759",
           "published_at": "2026-10-27T15:00:02Z",
           "url": "https://www.youtube.com/watch?v=SfVYGnTGlb8"
         },
@@ -121,9 +121,9 @@
           "title": "شربت كل مياه المحيط في Super Bear Adventure…😱🌊",
           "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "96669",
-          "likes": "3692",
-          "comments": "104",
+          "views": "119647",
+          "likes": "4774",
+          "comments": "136",
           "published_at": "2026-10-28T13:00:22Z",
           "url": "https://www.youtube.com/watch?v=NX75yPJKTyE"
         },
@@ -132,9 +132,9 @@
           "title": "صاحب الباور ( باشا علي اي باشا - الساده المنفسنين ) حمو المرشدي - توزيع : احمد النص ",
           "channel": "Hamo ELMorshdy - حمو المرشدي",
           "category_id": "10",
-          "views": "55868",
-          "likes": "1790",
-          "comments": "296",
+          "views": "73609",
+          "likes": "2127",
+          "comments": "317",
           "published_at": "2026-10-28T15:47:41Z",
           "url": "https://www.youtube.com/watch?v=TkcUZ76js68"
         },
@@ -143,42 +143,42 @@
           "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
           "channel": "Sony Pictures Entertainment",
           "category_id": "24",
-          "views": "5500772",
-          "likes": "50891",
-          "comments": "1963",
+          "views": "6519050",
+          "likes": "56964",
+          "comments": "2110",
           "published_at": "2026-10-28T13:00:39Z",
           "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اصلانو المغامر وأخوه حاولوا الهروب من السجن المستحيل! 😱",
-          "channel": "اصلانو المغامر - Aslano",
+          "title": "تحولت الي فينوم  🔥😳 | venom Roblox ",
+          "channel": "يوميات عبده ماندو _ Abdo Mando",
           "category_id": "20",
-          "views": "42831",
-          "likes": "2098",
-          "comments": "17",
-          "published_at": "2026-10-28T09:30:25Z",
-          "url": "https://www.youtube.com/watch?v=Ga6vrvIQW6c"
+          "views": "45065",
+          "likes": "5063",
+          "comments": "154",
+          "published_at": "2026-10-28T16:45:43Z",
+          "url": "https://www.youtube.com/watch?v=pzYdRyQ1_rU"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "انتا جاي في ايه يا شيخنا (انا مش عامل فيها مولانا 2)",
-          "channel": "Yassin Mohsen - Topic",
+          "title": "SHAHYN - BRIMO | شاهين - بريمو (Prod. by Coolpix)",
+          "channel": "Shahyn",
           "category_id": "10",
-          "views": "13088",
-          "likes": "193",
-          "comments": "0",
-          "published_at": "2026-10-19T14:38:27Z",
-          "url": "https://www.youtube.com/watch?v=fE7S9j83mEI"
+          "views": "31108",
+          "likes": "1560",
+          "comments": "97",
+          "published_at": "2026-10-28T15:02:59Z",
+          "url": "https://www.youtube.com/watch?v=uxtiFDuOqMQ"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Avengers: Doomsday | Special Look | In Cinemas December 17",
           "channel": "IndiaMarvel",
           "category_id": "1",
-          "views": "1367842",
-          "likes": "31627",
-          "comments": "1287",
+          "views": "1721213",
+          "likes": "36761",
+          "comments": "1383",
           "published_at": "2026-10-28T09:33:06Z",
           "url": "https://www.youtube.com/watch?v=x_MXZBmKJ4Y"
         },
@@ -187,53 +187,53 @@
           "title": "تحدي البناء في ماين كرافت ضد المتابعين💸🔥",
           "channel": "HikaGaming",
           "category_id": "20",
-          "views": "41109",
-          "likes": "2561",
-          "comments": "158",
+          "views": "51872",
+          "likes": "3094",
+          "comments": "173",
           "published_at": "2026-10-28T14:56:21Z",
           "url": "https://www.youtube.com/watch?v=yF33Tf9GbJ0"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "SHAHYN - BRIMO | شاهين - بريمو (Prod. by Coolpix)",
-          "channel": "Shahyn",
+          "title": "انتا جاي في ايه يا شيخنا (انا مش عامل فيها مولانا 2)",
+          "channel": "Yassin Mohsen - Topic",
           "category_id": "10",
-          "views": "25943",
-          "likes": "1400",
-          "comments": "91",
-          "published_at": "2026-10-28T15:02:59Z",
-          "url": "https://www.youtube.com/watch?v=uxtiFDuOqMQ"
+          "views": "15441",
+          "likes": "221",
+          "comments": "0",
+          "published_at": "2026-10-19T14:38:27Z",
+          "url": "https://www.youtube.com/watch?v=fE7S9j83mEI"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Fortnite Treasure Hunters | Live Action Trailer",
           "channel": "Fortnite",
           "category_id": "20",
-          "views": "1194467",
-          "likes": "36577",
-          "comments": "2635",
+          "views": "1217966",
+          "likes": "36893",
+          "comments": "2660",
           "published_at": "2026-10-27T13:00:29Z",
           "url": "https://www.youtube.com/watch?v=WKTOfvqL-bc"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "تحولت الي فينوم  🔥😳 | venom Roblox ",
-          "channel": "يوميات عبده ماندو _ Abdo Mando",
+          "title": "اصلانو المغامر وأخوه حاولوا الهروب من السجن المستحيل! 😱",
+          "channel": "اصلانو المغامر - Aslano",
           "category_id": "20",
-          "views": "31578",
-          "likes": "3473",
-          "comments": "117",
-          "published_at": "2026-10-28T16:45:43Z",
-          "url": "https://www.youtube.com/watch?v=pzYdRyQ1_rU"
+          "views": "48061",
+          "likes": "2396",
+          "comments": "17",
+          "published_at": "2026-10-28T09:30:25Z",
+          "url": "https://www.youtube.com/watch?v=Ga6vrvIQW6c"
         },
         {
           "source": "youtube_trending_eg",
           "title": "كليب دنيا فانية ( ليه يادنيا قلبو حالك )  محمد سلطان 2026 - Mohamed Soltan - Donia Fanya",
           "channel": "Muhamed Sultan - محمد سلطان",
           "category_id": "10",
-          "views": "13050",
-          "likes": "438",
-          "comments": "29",
+          "views": "16812",
+          "likes": "522",
+          "comments": "32",
           "published_at": "2026-10-28T15:00:11Z",
           "url": "https://www.youtube.com/watch?v=e15fkNwHw7o"
         },
@@ -242,31 +242,31 @@
           "title": "Avengers: Doomsday | In Theaters December 18",
           "channel": "Marvel Entertainment",
           "category_id": "24",
-          "views": "16777058",
-          "likes": "282907",
-          "comments": "8189",
+          "views": "16876482",
+          "likes": "284281",
+          "comments": "8226",
           "published_at": "2026-10-25T00:00:00Z",
           "url": "https://www.youtube.com/watch?v=UfNu7pcR0e8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "خميس اسطوري منتظر من كونامي 🔥🤯 بكجات اساطير وكوينز وحزم جديدة قادمة الخميس  😱|efootball 2027",
-          "channel": "من بره التمنتاشر",
-          "category_id": "26",
-          "views": "168761",
-          "likes": "10702",
-          "comments": "426",
-          "published_at": "2026-10-28T11:36:16Z",
-          "url": "https://www.youtube.com/watch?v=SZK3f0EymS4"
+          "title": "انا واخويا استغلنا فى نقل العفش من المنازل !!",
+          "channel": "Ahmed Aslan",
+          "category_id": "20",
+          "views": "9990",
+          "likes": "256",
+          "comments": "12",
+          "published_at": "2026-10-29T09:30:01Z",
+          "url": "https://www.youtube.com/watch?v=bijAKkA92RQ"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Rahma Mohsen - Malosh Tani | Official Music Video - 2026 | رحمه محسن - مالوش تاني",
           "channel": "Rahma Mohsen - رحمه محسن",
           "category_id": "10",
-          "views": "197387",
-          "likes": "2399",
-          "comments": "134",
+          "views": "206613",
+          "likes": "2520",
+          "comments": "135",
           "published_at": "2026-10-26T15:00:09Z",
           "url": "https://www.youtube.com/watch?v=mSJHjRWpIxI"
         },
@@ -275,9 +275,9 @@
           "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
           "channel": "KinoCheck.com",
           "category_id": "24",
-          "views": "3151813",
-          "likes": "23953",
-          "comments": "1622",
+          "views": "3154697",
+          "likes": "23957",
+          "comments": "1625",
           "published_at": "2026-10-24T01:07:13Z",
           "url": "https://www.youtube.com/watch?v=6H-_VHitfAA"
         },
@@ -286,8 +286,8 @@
           "title": "اصلانو سرق الموتسيكل وهرب من الشرطة",
           "channel": "Mr Aslano",
           "category_id": "20",
-          "views": "32413",
-          "likes": "1545",
+          "views": "36473",
+          "likes": "1815",
           "comments": "7",
           "published_at": "2026-10-28T10:00:27Z",
           "url": "https://www.youtube.com/watch?v=OKOzX4V-JXA"
@@ -297,8 +297,8 @@
           "title": "الخال حجاج - لو شيطانك سوحك (ازاي نلعب سوا) Official Music Video 2026",
           "channel": "EL KHAL HAGGAG - الخال حجاج",
           "category_id": "10",
-          "views": "18430",
-          "likes": "246",
+          "views": "20242",
+          "likes": "270",
           "comments": "22",
           "published_at": "2026-10-27T20:00:06Z",
           "url": "https://www.youtube.com/watch?v=K5OBhpGUEiM"
@@ -308,30 +308,30 @@
           "title": "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
           "channel": "MLB",
           "category_id": "17",
-          "views": "2880940",
-          "likes": "51692",
-          "comments": "1825",
+          "views": "2883786",
+          "likes": "51775",
+          "comments": "1828",
           "published_at": "2026-10-24T00:52:55Z",
           "url": "https://www.youtube.com/watch?v=oLJFJSNFklU"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "صرفت 60,000💲  على أصعب  بكدجين نزلو اللعبة 😱🔥 #1 | PUBG MOBILE",
-          "channel": "LiveSa3dola ",
-          "category_id": "20",
-          "views": "35599",
-          "likes": "1334",
-          "comments": "41",
-          "published_at": "2026-10-28T15:00:19Z",
-          "url": "https://www.youtube.com/watch?v=zs6nbZw7SNY"
+          "title": "خميس اسطوري منتظر من كونامي 🔥🤯 بكجات اساطير وكوينز وحزم جديدة قادمة الخميس  😱|efootball 2027",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "184548",
+          "likes": "10901",
+          "comments": "430",
+          "published_at": "2026-10-28T11:36:16Z",
+          "url": "https://www.youtube.com/watch?v=SZK3f0EymS4"
         },
         {
           "source": "youtube_trending_eg",
           "title": "عايز تحاربني حارب ( ياحتة بونبوناية ) مصطفي الجن و هادي الصغير - توزيع امجد الجوكر",
           "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
           "category_id": "10",
-          "views": "25740",
-          "likes": "548",
+          "views": "28118",
+          "likes": "568",
           "comments": "24",
           "published_at": "2026-10-27T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=wsFI6b0xNEk"
@@ -339,12 +339,12 @@
       ]
     },
     {
-      "collected_at": "2026-10-29T05:08:59.647494+00:00",
+      "collected_at": "2026-10-29T12:38:47.600406+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-29T05:09:00.000716+00:00",
+      "collected_at": "2026-10-29T12:38:48.049824+00:00",
       "platform": "tiktok",
       "items": []
     }
