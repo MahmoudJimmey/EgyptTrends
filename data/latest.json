@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-30T05:08:40.732402+00:00",
+  "generated_at": "2026-10-30T12:29:20.131356+00:00",
   "platforms": [
     {
-      "collected_at": "2026-10-30T05:08:40.932675+00:00",
+      "collected_at": "2026-10-30T12:29:20.395335+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "حالة الطقس اليوم",
-          "traffic": "1000+"
+          "term": "موعد اذان العصر",
+          "traffic": "20000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "binance hacked",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "باتريك ستيوارت",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "shahid",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مريم الخشت",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مدير المدرسة",
+          "term": "جنيه",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "بانيت",
-          "traffic": "200+"
+          "term": "أبها ضد الاتحاد",
+          "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الاسماعيلي",
+          "term": "موعد اذان العصر اليوم",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "دبي",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "القصة الكاملة جريمة في الزمالك",
+          "term": "الصين",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "central bank",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "عماد متعب",
           "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "بنفيكا",
+          "term": "شهادات البنك الأهلي المصري",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "رباب ممتاز",
           "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-10-30T05:08:41.025028+00:00",
+      "collected_at": "2026-10-30T12:29:20.558270+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "أيسل خالد - الصحاب [2026] | Aysel Khaled - Elso7ab",
           "channel": "Aysel Khaled",
           "category_id": "10",
-          "views": "246464",
-          "likes": "7445",
-          "comments": "690",
+          "views": "330141",
+          "likes": "8944",
+          "comments": "777",
           "published_at": "2026-10-29T13:16:32Z",
           "url": "https://www.youtube.com/watch?v=RKCLgRS7s0k"
         },
@@ -77,9 +77,9 @@
           "title": "الإعلان الرسمي لفيلم «حدوتة» 🎬🔥 يوم 11 نوفمبر بجميع دور العرض 🍿",
           "channel": "Ahmed Helmy",
           "category_id": "24",
-          "views": "81846",
-          "likes": "949",
-          "comments": "87",
+          "views": "98114",
+          "likes": "1116",
+          "comments": "103",
           "published_at": "2026-10-29T16:35:55Z",
           "url": "https://www.youtube.com/watch?v=A2EVIJ4D-V4"
         },
@@ -88,31 +88,31 @@
           "title": "وصلت إجمالي 132 الأقوى في اللعبه",
           "channel": "Abdo 2xd",
           "category_id": "20",
-          "views": "446764",
-          "likes": "37634",
-          "comments": "962",
+          "views": "527709",
+          "likes": "42524",
+          "comments": "1031",
           "published_at": "2026-10-29T10:54:54Z",
           "url": "https://www.youtube.com/watch?v=AXM1vt3Q-S8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Ahmed Saad - Wallah Zaman | Official Music Video - 2026 | احمد سعد - والله زمان",
-          "channel": "Ahmed Saad",
+          "title": "اغنيه \" النصيب \" من فيلم نصيب \" حوده & جنات | Naseeb - Jannat & Houda ( From Naseeb Movie )",
+          "channel": "Houda",
           "category_id": "10",
-          "views": "278368",
-          "likes": "6787",
-          "comments": "577",
-          "published_at": "2026-10-28T17:00:11Z",
-          "url": "https://www.youtube.com/watch?v=0UvH9sGIaw0"
+          "views": "197712",
+          "likes": "5526",
+          "comments": "310",
+          "published_at": "2026-10-29T15:00:11Z",
+          "url": "https://www.youtube.com/watch?v=ZaOZLVJBlKs"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Dune: Part Three | Final Trailer",
           "channel": "Warner Bros.",
           "category_id": "1",
-          "views": "20828998",
-          "likes": "165822",
-          "comments": "9395",
+          "views": "21975265",
+          "likes": "167837",
+          "comments": "9476",
           "published_at": "2026-10-27T16:00:34Z",
           "url": "https://www.youtube.com/watch?v=uJqaGLmZpGo"
         },
@@ -121,31 +121,31 @@
           "title": "لا تفتح الباب 🚪 | أكتر لعبة رعبتني !! 😰",
           "channel": "Esraa Gaming ",
           "category_id": "22",
-          "views": "599687",
-          "likes": "17040",
-          "comments": "4101",
+          "views": "667587",
+          "likes": "18516",
+          "comments": "4509",
           "published_at": "2026-10-28T12:30:38Z",
           "url": "https://www.youtube.com/watch?v=1MfCAyqwZE8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اغنيه \" النصيب \" من فيلم نصيب \" حوده & جنات | Naseeb - Jannat & Houda ( From Naseeb Movie )",
-          "channel": "Houda",
+          "title": "Ahmed Saad - Wallah Zaman | Official Music Video - 2026 | احمد سعد - والله زمان",
+          "channel": "Ahmed Saad",
           "category_id": "10",
-          "views": "158387",
-          "likes": "4451",
-          "comments": "281",
-          "published_at": "2026-10-29T15:00:11Z",
-          "url": "https://www.youtube.com/watch?v=ZaOZLVJBlKs"
+          "views": "300674",
+          "likes": "7396",
+          "comments": "615",
+          "published_at": "2026-10-28T17:00:11Z",
+          "url": "https://www.youtube.com/watch?v=0UvH9sGIaw0"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Elissa - Official Album Trailer",
           "channel": "Elissa",
           "category_id": "10",
-          "views": "134881",
-          "likes": "5114",
-          "comments": "819",
+          "views": "137752",
+          "likes": "5162",
+          "comments": "823",
           "published_at": "2026-10-27T15:00:02Z",
           "url": "https://www.youtube.com/watch?v=SfVYGnTGlb8"
         },
@@ -154,9 +154,9 @@
           "title": "رحلة البحث عن صاحب الكره الذهبيه كين🔥عودة النينجا امبابي🤯 |efootbal 2027",
           "channel": "TONY GAMING",
           "category_id": "20",
-          "views": "141593",
-          "likes": "13351",
-          "comments": "397",
+          "views": "177616",
+          "likes": "15949",
+          "comments": "443",
           "published_at": "2026-10-29T18:25:33Z",
           "url": "https://www.youtube.com/watch?v=SiZ3z-jHa_o"
         },
@@ -165,9 +165,9 @@
           "title": "JISOO - ADDICTED (Official MV)",
           "channel": "JISOO",
           "category_id": "10",
-          "views": "2107140",
-          "likes": "438370",
-          "comments": "54325",
+          "views": "5044581",
+          "likes": "684706",
+          "comments": "78668",
           "published_at": "2026-10-29T23:00:09Z",
           "url": "https://www.youtube.com/watch?v=Pksr9T8m_aA"
         },
@@ -176,9 +176,9 @@
           "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
           "channel": "Sony Pictures Entertainment",
           "category_id": "24",
-          "views": "9179374",
-          "likes": "62600",
-          "comments": "2225",
+          "views": "9635173",
+          "likes": "65511",
+          "comments": "2302",
           "published_at": "2026-10-28T13:00:39Z",
           "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE"
         },
@@ -187,9 +187,9 @@
           "title": "واخيرا بكج البالون دور 🤯🚀 تفجير بكج هاري كين امبابي ولامين يامال 🔥 eFootball 27",
           "channel": "HERO GAMING",
           "category_id": "20",
-          "views": "97866",
-          "likes": "10960",
-          "comments": "658",
+          "views": "114148",
+          "likes": "12378",
+          "comments": "732",
           "published_at": "2026-10-29T16:19:10Z",
           "url": "https://www.youtube.com/watch?v=hGQ7-TtD-fA"
         },
@@ -198,9 +198,9 @@
           "title": "L E S A  -   لسة",
           "channel": "Abyusif I أبيوسف",
           "category_id": "10",
-          "views": "123723",
-          "likes": "9845",
-          "comments": "1640",
+          "views": "126783",
+          "likes": "9953",
+          "comments": "1649",
           "published_at": "2026-10-28T19:18:55Z",
           "url": "https://www.youtube.com/watch?v=8nKslaeXnj4"
         },
@@ -209,9 +209,9 @@
           "title": "Avengers: Doomsday | Special Look | In Cinemas December 17",
           "channel": "IndiaMarvel",
           "category_id": "1",
-          "views": "2234793",
-          "likes": "43403",
-          "comments": "1543",
+          "views": "2445039",
+          "likes": "46075",
+          "comments": "1618",
           "published_at": "2026-10-28T09:33:06Z",
           "url": "https://www.youtube.com/watch?v=x_MXZBmKJ4Y"
         },
@@ -220,86 +220,86 @@
           "title": "فجرت بكدجات الفائز بالكره الذهبيه ٢٠٢٧🤯🔥",
           "channel": "HikaSIU",
           "category_id": "20",
-          "views": "103741",
-          "likes": "10491",
-          "comments": "396",
+          "views": "128223",
+          "likes": "12511",
+          "comments": "442",
           "published_at": "2026-10-29T13:16:41Z",
           "url": "https://www.youtube.com/watch?v=lGUO0XA6_Gg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "مهرجان قانوني ونظامي | حمو بيكا و سادات العالمي وعلاء فيفتي | توزيع فيجو الدخلاوي  | مهرجانات 2026",
-          "channel": "Hamo Bika - حمو بيكا",
-          "category_id": "10",
-          "views": "22451",
-          "likes": "1078",
-          "comments": "135",
-          "published_at": "2026-10-29T15:00:10Z",
-          "url": "https://www.youtube.com/watch?v=JX9pcZO-e_8"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Fortnite Treasure Hunters | Live Action Trailer",
-          "channel": "Fortnite",
-          "category_id": "20",
-          "views": "1292674",
-          "likes": "37714",
-          "comments": "2727",
-          "published_at": "2026-10-27T13:00:29Z",
-          "url": "https://www.youtube.com/watch?v=WKTOfvqL-bc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "تفجير بكج البالون دور كامل 🤯🔥 كارت خارق لهاري كين وتجربة الثلاثي المرعب 🥶🔥 |eFootball 2027",
-          "channel": "JIGGSo_ar",
-          "category_id": "20",
-          "views": "107556",
-          "likes": "9661",
-          "comments": "3062",
-          "published_at": "2026-10-29T11:26:26Z",
-          "url": "https://www.youtube.com/watch?v=xZYIKZ-kmg0"
         },
         {
           "source": "youtube_trending_eg",
           "title": "هفضل عمها لحد ما يبنلها ( حاسبو جالكو الاسد ) عصام صاصا الكروان - توزيع خالد لولو Official Video",
           "channel": "خالد لولو - Khaled LoLo",
           "category_id": "10",
-          "views": "21646",
-          "likes": "811",
-          "comments": "39",
+          "views": "26258",
+          "likes": "984",
+          "comments": "47",
           "published_at": "2026-10-29T15:00:10Z",
           "url": "https://www.youtube.com/watch?v=fIh5RrgOSow"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Avengers: Doomsday | In Theaters December 18",
-          "channel": "Marvel Entertainment",
-          "category_id": "24",
-          "views": "17314553",
-          "likes": "287336",
-          "comments": "8382",
-          "published_at": "2026-10-25T00:00:00Z",
-          "url": "https://www.youtube.com/watch?v=UfNu7pcR0e8"
+          "title": "Fortnite Treasure Hunters | Live Action Trailer",
+          "channel": "Fortnite",
+          "category_id": "20",
+          "views": "1306429",
+          "likes": "37857",
+          "comments": "2748",
+          "published_at": "2026-10-27T13:00:29Z",
+          "url": "https://www.youtube.com/watch?v=WKTOfvqL-bc"
         },
         {
           "source": "youtube_trending_eg",
           "title": "دخلت عالم ماشا والدب في ماينكرافت.. واكتشفت الحقيقة المرعبة!😱🐻",
           "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "61191",
-          "likes": "2420",
-          "comments": "68",
+          "views": "79853",
+          "likes": "3129",
+          "comments": "84",
           "published_at": "2026-10-29T13:00:16Z",
           "url": "https://www.youtube.com/watch?v=w6iJafNIh48"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "مهرجان قانوني ونظامي | حمو بيكا و سادات العالمي وعلاء فيفتي | توزيع فيجو الدخلاوي  | مهرجانات 2026",
+          "channel": "Hamo Bika - حمو بيكا",
+          "category_id": "10",
+          "views": "26591",
+          "likes": "1215",
+          "comments": "146",
+          "published_at": "2026-10-29T15:00:10Z",
+          "url": "https://www.youtube.com/watch?v=JX9pcZO-e_8"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Avengers: Doomsday | In Theaters December 18",
+          "channel": "Marvel Entertainment",
+          "category_id": "24",
+          "views": "17425765",
+          "likes": "288138",
+          "comments": "8418",
+          "published_at": "2026-10-25T00:00:00Z",
+          "url": "https://www.youtube.com/watch?v=UfNu7pcR0e8"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "تفجير بكج البالون دور كامل 🤯🔥 كارت خارق لهاري كين وتجربة الثلاثي المرعب 🥶🔥 |eFootball 2027",
+          "channel": "JIGGSo_ar",
+          "category_id": "20",
+          "views": "116975",
+          "likes": "10223",
+          "comments": "3272",
+          "published_at": "2026-10-29T11:26:26Z",
+          "url": "https://www.youtube.com/watch?v=xZYIKZ-kmg0"
         },
         {
           "source": "youtube_trending_eg",
           "title": "صاحب الباور ( باشا علي اي باشا - الساده المنفسنين ) حمو المرشدي - توزيع : احمد النص ",
           "channel": "Hamo ELMorshdy - حمو المرشدي",
           "category_id": "10",
-          "views": "141617",
-          "likes": "2731",
-          "comments": "351",
+          "views": "151363",
+          "likes": "2888",
+          "comments": "359",
           "published_at": "2026-10-28T15:47:41Z",
           "url": "https://www.youtube.com/watch?v=TkcUZ76js68"
         },
@@ -308,43 +308,43 @@
           "title": "انا واخويا استغلنا فى نقل العفش من المنازل !!",
           "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "45051",
-          "likes": "654",
-          "comments": "15",
+          "views": "53683",
+          "likes": "788",
+          "comments": "18",
           "published_at": "2026-10-29T09:30:01Z",
           "url": "https://www.youtube.com/watch?v=bijAKkA92RQ"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كليب دنيا فانية ( ليه يادنيا قلبو حالك )  محمد سلطان 2026 - Mohamed Soltan - Donia Fanya",
-          "channel": "Muhamed Sultan - محمد سلطان",
+          "title": "قولو ما شاءالله",
+          "channel": "Ahmed Hasan Eluxory - Topic",
           "category_id": "10",
-          "views": "34574",
-          "likes": "734",
-          "comments": "41",
-          "published_at": "2026-10-28T15:00:11Z",
-          "url": "https://www.youtube.com/watch?v=e15fkNwHw7o"
+          "views": "9323",
+          "likes": "492",
+          "comments": "114",
+          "published_at": "2026-10-29T10:03:18Z",
+          "url": "https://www.youtube.com/watch?v=kyR1jLcY1F8"
         },
         {
           "source": "youtube_trending_eg",
           "title": "أخيراً عودة الحظ الأسطوري من جديد !! 🤯🔥 بكج الكرة الذهبية 🟡هاري كين 110 مش طبيعي 😍☠️ || eFootball 27",
           "channel": "OKATO GO",
           "category_id": "20",
-          "views": "110397",
-          "likes": "8598",
-          "comments": "340",
+          "views": "121463",
+          "likes": "9260",
+          "comments": "354",
           "published_at": "2026-10-29T14:41:55Z",
           "url": "https://www.youtube.com/watch?v=4rDrwcm9qsI"
         }
       ]
     },
     {
-      "collected_at": "2026-10-30T05:08:41.025841+00:00",
+      "collected_at": "2026-10-30T12:29:20.559039+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-10-30T05:08:41.330116+00:00",
+      "collected_at": "2026-10-30T12:29:20.982682+00:00",
       "platform": "tiktok",
       "items": []
     }
