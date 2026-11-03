@@ -1,118 +1,206 @@
 {
-  "generated_at": "2026-11-02T15:16:11.173507+00:00",
+  "generated_at": "2026-11-03T00:47:44.940246+00:00",
   "platforms": [
     {
-      "collected_at": "2026-11-02T15:16:11.541098+00:00",
+      "collected_at": "2026-11-03T00:47:45.404852+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "اذان المغرب",
-          "traffic": "10000+"
+          "term": "طرابزون سبور محمد صلاح",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "المغرب",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "المغرب اليوم",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "مباريات اليوم في مصر",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "الابراج",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "موعد مباراه الزمالك اليوم",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "موعد مباراه الاهلي اليوم",
+          "term": "newcastle united f.c. vs everton f.c. standings",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "نادر أبو الليف",
+          "term": "حسام حسن",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مصر للألومنيوم",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ايران",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "وفاء الكيلاني",
-          "traffic": "1000+"
+          "term": "إنترنت",
+          "traffic": "5000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "بولسونارو",
-          "traffic": "100+"
+          "term": "إلهام شاهين ومرتضى منصور",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "بنفيكا ضد ألفيركا",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "صبا مبارك",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "shabana mahmood",
+          "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-11-02T15:16:11.675959+00:00",
+      "collected_at": "2026-11-03T00:47:45.587584+00:00",
       "platform": "youtube",
       "items": [
+        {
+          "source": "youtube_trending_eg",
+          "title": "Ahmed Saad - Mertaheen | Official Music Video - 2026 | احمد سعد - مرتاحين",
+          "channel": "Ahmed Saad",
+          "category_id": "10",
+          "views": "55901",
+          "likes": "1440",
+          "comments": "117",
+          "published_at": "2026-11-02T16:00:11Z",
+          "url": "https://www.youtube.com/watch?v=LMesH-zlTF0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "الإعلان الرسمي لفيلم حدوتة | أحمد حلمي",
+          "channel": "Orient Films - أفلام أورينت",
+          "category_id": "1",
+          "views": "267702",
+          "likes": "1230",
+          "comments": "127",
+          "published_at": "2026-10-29T19:33:57Z",
+          "url": "https://www.youtube.com/watch?v=ISPqPzVa9go"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اليوتيوبرز ضد كرة القدم ! (آخر عالم صامد يفوز)",
+          "channel": "Abdo 2xd",
+          "category_id": "20",
+          "views": "246162",
+          "likes": "13982",
+          "comments": "303",
+          "published_at": "2026-11-02T13:44:01Z",
+          "url": "https://www.youtube.com/watch?v=1MOUMabLC_8"
+        },
         {
           "source": "youtube_trending_eg",
           "title": "استفدت ايه بكبريائك ( حصل صاحبي بعدوي اتصل ) عصام صاصا الكروان - توزيع كيمو الديب Official Video",
           "channel": "عصام صاصا - Essam Saasa",
           "category_id": "10",
-          "views": "405954",
-          "likes": "10154",
-          "comments": "952",
+          "views": "499144",
+          "likes": "10837",
+          "comments": "972",
           "published_at": "2026-10-31T16:00:07Z",
           "url": "https://www.youtube.com/watch?v=5ZNpn_7oHXA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "الإعلان الرسمي لفيلم «حدوتة» 🎬🔥 يوم 11 نوفمبر بجميع دور العرض 🍿",
-          "channel": "Ahmed Helmy",
-          "category_id": "24",
-          "views": "170888",
-          "likes": "1599",
-          "comments": "139",
-          "published_at": "2026-10-29T16:35:55Z",
-          "url": "https://www.youtube.com/watch?v=A2EVIJ4D-V4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "أنقذت وودي وباز من غرفة عملاقة بطائرة هليكوبتر في GTA 5! 😱🚁",
-          "channel": "Ahmed Aslan",
+          "title": "حليب الخير",
+          "channel": "HERO GAMING",
           "category_id": "20",
-          "views": "57485",
-          "likes": "2339",
-          "comments": "128",
-          "published_at": "2026-11-01T12:49:35Z",
-          "url": "https://www.youtube.com/watch?v=UbPX_ouGskE"
+          "views": "71752",
+          "likes": "6638",
+          "comments": "521",
+          "published_at": "2026-11-02T17:02:57Z",
+          "url": "https://www.youtube.com/watch?v=PKDbU90Ylxk"
         },
         {
           "source": "youtube_trending_eg",
           "title": "بتشبه عليا",
           "channel": "Release - Topic",
           "category_id": "10",
-          "views": "18627",
-          "likes": "154",
+          "views": "28905",
+          "likes": "207",
           "comments": "0",
           "published_at": "2026-11-01T10:20:04Z",
           "url": "https://www.youtube.com/watch?v=H9eONNXfbbA"
         },
         {
           "source": "youtube_trending_eg",
+          "title": "رحلة البحث عن الكسندر ايزاك🤯مع تشكيلة الدوري الانجليزي بين الماضي والحاضر🔥 |efootbal 2027",
+          "channel": "TONY GAMING",
+          "category_id": "20",
+          "views": "62430",
+          "likes": "6512",
+          "comments": "188",
+          "published_at": "2026-11-02T19:49:54Z",
+          "url": "https://www.youtube.com/watch?v=B8jpstDIO7I"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "قولو عاش علشان لسه مكمل(باي باي خلاص روحي بظروفك) مجدي الزهار - ريشا كوستا - سماره ناو - توزيع موحه",
+          "channel": "مجدي الزهار - Magdy ElZahar",
+          "category_id": "10",
+          "views": "31860",
+          "likes": "974",
+          "comments": "50",
+          "published_at": "2026-11-01T16:00:07Z",
+          "url": "https://www.youtube.com/watch?v=BAQ3mM3axj4"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "أنا وأخويا حاولنا ننقل عفش منزل قديم بس كل حاجة باظت 😂",
+          "channel": "Ahmed Aslan",
+          "category_id": "20",
+          "views": "36311",
+          "likes": "930",
+          "comments": "8",
+          "published_at": "2026-11-02T11:15:00Z",
+          "url": "https://www.youtube.com/watch?v=kgeeQEBzIhs"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "تليفوني رن فقولت مين ( جرب تبقي لوحدك علشان الوحدة احلي ) احمد موزه السلطان - توزيع دولسي برودكشن",
+          "channel": "سليم السلطان - Selim ElSultan",
+          "category_id": "10",
+          "views": "11089",
+          "likes": "465",
+          "comments": "20",
+          "published_at": "2026-11-02T16:00:07Z",
+          "url": "https://www.youtube.com/watch?v=SrkFfgDeSvw"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اصلانو سرق ابن سونيك الصغير وهرب 😱",
+          "channel": "Mr Aslano",
+          "category_id": "20",
+          "views": "28835",
+          "likes": "939",
+          "comments": "4",
+          "published_at": "2026-11-02T10:00:22Z",
+          "url": "https://www.youtube.com/watch?v=DE1qoA7nC7s"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "KING: Tu Mil Jaaye | Shah Rukh Khan, Deepika | Sachin-Jigar, Arijit, Ed Sheeran, Madhubanti, Kumaar",
+          "channel": "T-Series",
+          "category_id": "10",
+          "views": "38389218",
+          "likes": "446482",
+          "comments": "32648",
+          "published_at": "2026-11-01T18:39:02Z",
+          "url": "https://www.youtube.com/watch?v=BPZkZpGMpXA"
+        },
+        {
+          "source": "youtube_trending_eg",
           "title": "Gus's Origin Story! (Brawl Stars Animation)",
           "channel": "Brawl Stars",
           "category_id": "20",
-          "views": "2887561",
-          "likes": "213367",
-          "comments": "8028",
+          "views": "6257335",
+          "likes": "308066",
+          "comments": "10042",
           "published_at": "2026-11-02T08:00:26Z",
           "url": "https://www.youtube.com/watch?v=t6ySEQzL1yE"
         },
@@ -121,230 +209,142 @@
           "title": "🔥 حلوة الليلة (عريس مستعجل) ❤️💍 | الكليب الرسمي | المنشد رضوان محمود | فرح المنشد أحمد حسن الأقصري",
           "channel": "المنشد رضوان محمود || Radwan Mahmoud",
           "category_id": "10",
-          "views": "154422",
-          "likes": "2576",
-          "comments": "338",
+          "views": "182749",
+          "likes": "2842",
+          "comments": "357",
           "published_at": "2026-10-31T14:00:09Z",
           "url": "https://www.youtube.com/watch?v=fmdfBj8V_rc"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "المدرسة الشريرة خطفتني أنا والدببة! | Super Bear Adventure ...🚨😱",
+          "title": "نظفت القمر بفرشاة الأسنان في لعبة Moon Sweepers! 😂🌕",
           "channel": "Mkamel GG",
           "category_id": "20",
-          "views": "80959",
-          "likes": "3078",
-          "comments": "54",
-          "published_at": "2026-11-01T14:00:14Z",
-          "url": "https://www.youtube.com/watch?v=09B9vWgZzgI"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "قولو عاش علشان لسه مكمل(باي باي خلاص روحي بظروفك) مجدي الزهار - ريشا كوستا - سماره ناو - توزيع موحه",
-          "channel": "مجدي الزهار - Magdy ElZahar",
-          "category_id": "10",
-          "views": "19542",
-          "likes": "783",
-          "comments": "48",
-          "published_at": "2026-11-01T16:00:07Z",
-          "url": "https://www.youtube.com/watch?v=BAQ3mM3axj4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اصلانو سرق ابن سونيك الصغير وهرب 😱",
-          "channel": "Mr Aslano",
-          "category_id": "20",
-          "views": "9378",
-          "likes": "498",
-          "comments": "2",
-          "published_at": "2026-11-02T10:00:22Z",
-          "url": "https://www.youtube.com/watch?v=DE1qoA7nC7s"
+          "views": "40973",
+          "likes": "1801",
+          "comments": "98",
+          "published_at": "2026-11-02T14:00:38Z",
+          "url": "https://www.youtube.com/watch?v=WU0qHajXWKk"
         },
         {
           "source": "youtube_trending_eg",
           "title": "قولوا ما شاء الله - فرح المنشد احمد حسن الاقصري - الليلة كتبو كتابي",
           "channel": "المنشد احمد حسن الاقصري",
           "category_id": "10",
-          "views": "765924",
-          "likes": "12796",
-          "comments": "1905",
+          "views": "842454",
+          "likes": "13431",
+          "comments": "1997",
           "published_at": "2026-10-30T17:00:35Z",
           "url": "https://www.youtube.com/watch?v=GWHJJN-atnI"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كونت تشكيلة كاملة من اللاعبين المجانيين !!🤯🔥فورلان صدمني⚡هل لازم تدفع عشان تكسب ؟!🤔☠️|| eFootball 27",
-          "channel": "OKATO GO",
+          "title": "اشتريت سياره تيسلا الجديدة الطائره عشان اسرق بيها بيض التنانين 🔥 | roblox",
+          "channel": "يوميات عبده ماندو _ Abdo Mando",
           "category_id": "20",
-          "views": "101851",
-          "likes": "7619",
-          "comments": "156",
-          "published_at": "2026-11-01T15:32:35Z",
-          "url": "https://www.youtube.com/watch?v=tTfUnbE5Vdo"
+          "views": "19828",
+          "likes": "1249",
+          "comments": "46",
+          "published_at": "2026-11-02T17:00:35Z",
+          "url": "https://www.youtube.com/watch?v=ToWFS2riqc8"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Mond - Shoghla شُغله",
           "channel": "Mond",
           "category_id": "10",
-          "views": "88435",
-          "likes": "6520",
-          "comments": "880",
+          "views": "97600",
+          "likes": "6712",
+          "comments": "887",
           "published_at": "2026-10-31T16:00:09Z",
           "url": "https://www.youtube.com/watch?v=WVjiwsZf_Js"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "الشرطي الزومبي بيدور على أصلانو عشان يقبض عليه! 🧟‍♂️🚔 | Gas N Cars VR",
-          "channel": "Aslano",
+          "title": "نفق سري تحت منزل الجدة الشريرة جراني | Granny !! 😱🪏",
+          "channel": "EstubeGaming",
           "category_id": "20",
-          "views": "30876",
-          "likes": "668",
-          "comments": "5",
-          "published_at": "2026-11-01T12:02:21Z",
-          "url": "https://www.youtube.com/watch?v=7ERxMcfCKEY"
+          "views": "31124",
+          "likes": "1657",
+          "comments": "96",
+          "published_at": "2026-11-02T14:50:08Z",
+          "url": "https://www.youtube.com/watch?v=CJ5ZBO251gc"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "KING: Tu Mil Jaaye | Shah Rukh Khan, Deepika | Sachin-Jigar, Arijit, Ed Sheeran, Madhubanti, Kumaar",
-          "channel": "T-Series",
+          "title": "من غير مقارنة",
+          "channel": "مصطفي الجن وهادي الصغير - تيم الابداع - Topic",
           "category_id": "10",
-          "views": "27476145",
-          "likes": "384773",
-          "comments": "29166",
-          "published_at": "2026-11-01T18:39:02Z",
-          "url": "https://www.youtube.com/watch?v=BPZkZpGMpXA"
+          "views": "9927",
+          "likes": "130",
+          "comments": "3",
+          "published_at": "2026-11-01T15:00:30Z",
+          "url": "https://www.youtube.com/watch?v=eF5hApkKCXw"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "تحدي اخلص بحيره المياه كلها وانا معايه جردل مياه واحد من اجل الكنو المدفين😱 | Empty The Lake!",
-          "channel": "Abdo Mando - عبده ماندو",
+          "title": "فضيحة اشباح التقيم قلتش ولا هاك !؟ 😮 منشنات التيك توك #99 | ببجي موبايل",
+          "channel": "3lilio",
           "category_id": "20",
-          "views": "48643",
-          "likes": "2754",
-          "comments": "123",
-          "published_at": "2026-11-01T14:45:27Z",
-          "url": "https://www.youtube.com/watch?v=Z0_ihCSeUJY"
+          "views": "21956",
+          "likes": "3178",
+          "comments": "138",
+          "published_at": "2026-11-02T19:30:33Z",
+          "url": "https://www.youtube.com/watch?v=MF1Hwjm8Hk8"
         },
         {
           "source": "youtube_trending_eg",
           "title": "اسلام كابونجا - عالم أشرار (Official Music Video) | مهرجانات 2026",
           "channel": "الشبح برودكشن - Elshab7 Production",
           "category_id": "10",
-          "views": "15575",
-          "likes": "271",
-          "comments": "14",
+          "views": "26605",
+          "likes": "352",
+          "comments": "24",
           "published_at": "2026-11-01T16:00:07Z",
           "url": "https://www.youtube.com/watch?v=S9JmkSrzOxA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "تحدي أفضل ٥ أهداف لرونالدو في بيس ضد فيفا🇵🇹🔥",
-          "channel": "HikaSIU",
-          "category_id": "20",
-          "views": "215549",
-          "likes": "15712",
-          "comments": "728",
-          "published_at": "2026-10-31T13:01:27Z",
-          "url": "https://www.youtube.com/watch?v=JmHeHhKKMW4"
+          "title": "تحدى من 0 ساعة الى 24 ساعة تطوير فينوم الى فينوم التنين المجنح..!🔥 مش هتصدق يوم كامل خلانى ازى😱",
+          "channel": "Migo9 Roblox",
+          "category_id": "22",
+          "views": "28211",
+          "likes": "1138",
+          "comments": "93",
+          "published_at": "2026-11-02T11:00:28Z",
+          "url": "https://www.youtube.com/watch?v=cc8SmMDKcSM"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "أيسل خالد - الصحاب [2026] | Aysel Khaled - Elso7ab",
-          "channel": "Aysel Khaled",
+          "title": "أنت حبيبي أنت | صلوا على نبينا | فارس سلامه | فرح المنشد احمد حسن الأقصري",
+          "channel": "فارس سلامه - Fares Salama",
           "category_id": "10",
-          "views": "831082",
-          "likes": "13274",
-          "comments": "929",
-          "published_at": "2026-10-29T13:16:32Z",
-          "url": "https://www.youtube.com/watch?v=RKCLgRS7s0k"
+          "views": "15192",
+          "likes": "278",
+          "comments": "98",
+          "published_at": "2026-11-02T14:00:10Z",
+          "url": "https://www.youtube.com/watch?v=6tovnDcl5Qo"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "الطريق الى القمه #7 | راجعين نعوض اللي فات 🔥 | eFootball 2027",
-          "channel": "Ahmed Assasa",
-          "category_id": "20",
-          "views": "61152",
-          "likes": "5165",
-          "comments": "167",
-          "published_at": "2026-11-01T11:00:15Z",
-          "url": "https://www.youtube.com/watch?v=hh76lBlgS0o"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اغنية حياتنا مقلوبه (مش عارفين نأمن مين) محمود السوهاجي انتاج شركه مواويل 2026",
-          "channel": "مواويل للانتاج الفني",
-          "category_id": "10",
-          "views": "10031",
-          "likes": "417",
-          "comments": "60",
-          "published_at": "2026-11-01T16:00:07Z",
-          "url": "https://www.youtube.com/watch?v=ZZ12kulv40o"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "فاجأت ابراهيم وشحنت في حسابه🔥تفتيح بكج البلون دور🤩 صرفنا 11500 كوينز🤯efootball2027",
-          "channel": "Gamer_الفيلسوف",
-          "category_id": "20",
-          "views": "41834",
-          "likes": "4940",
-          "comments": "310",
-          "published_at": "2026-11-01T18:35:10Z",
-          "url": "https://www.youtube.com/watch?v=lHctwsD0OAw"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "بموت والدنيا خنقاني ( بقول موجوع ومش مسموع ) امين خطاب - توزيع يوسف اوشا انتاج فيصل العبد",
-          "channel": "Ameen Khattab - امين خطاب",
-          "category_id": "10",
-          "views": "38840",
-          "likes": "1566",
-          "comments": "120",
-          "published_at": "2026-10-31T16:00:09Z",
-          "url": "https://www.youtube.com/watch?v=JhG_GIHZ164"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "دربت أغني فريق في العالم لمدة موسم كامل !",
-          "channel": "B3shr - بشر",
-          "category_id": "20",
-          "views": "174862",
-          "likes": "6922",
-          "comments": "239",
-          "published_at": "2026-10-31T15:58:27Z",
-          "url": "https://www.youtube.com/watch?v=USZmR2QK0Cs"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "طقمايه جوتشي وكاب علي كوتشي ( بابا ليا سلطه - متربي علي النجاح ) - حمو المرشدي - توزيع : احند النص",
-          "channel": "Hamo ELMorshdy - حمو المرشدي",
-          "category_id": "10",
-          "views": "213130",
-          "likes": "3904",
-          "comments": "413",
-          "published_at": "2026-10-30T13:13:55Z",
-          "url": "https://www.youtube.com/watch?v=5IT2BxN7r3M"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اصلانو المغامر ركب سيارة تيسلا الجديدة !!",
-          "channel": "اصلانو المغامر - Aslano",
-          "category_id": "20",
-          "views": "27004",
-          "likes": "1115",
-          "comments": "10",
-          "published_at": "2026-11-01T10:11:08Z",
-          "url": "https://www.youtube.com/watch?v=PULu-ru-0DU"
+          "title": "جمعت فورلان الجديد مع زملائه القدامى في مانشستر يونايتد 🔥🤯 تجربة دييجو فورلان |efootball 2027",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "69798",
+          "likes": "8352",
+          "comments": "1066",
+          "published_at": "2026-11-02T15:03:22Z",
+          "url": "https://www.youtube.com/watch?v=KDBxWs3OjgQ"
         }
       ]
     },
     {
-      "collected_at": "2026-11-02T15:16:11.676783+00:00",
+      "collected_at": "2026-11-03T00:47:45.588370+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-11-02T15:16:12.042628+00:00",
+      "collected_at": "2026-11-03T00:47:45.887243+00:00",
       "platform": "tiktok",
       "items": []
     }
