@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-11-06T05:54:19.073155+00:00",
+  "generated_at": "2026-11-06T13:59:47.265231+00:00",
   "platforms": [
     {
-      "collected_at": "2026-11-06T05:54:19.354104+00:00",
+      "collected_at": "2026-11-06T13:59:47.463375+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "wetter",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "الطقس",
-          "traffic": "20000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "погода",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "weather",
-          "traffic": "10000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "météo",
+          "term": "كاس مصر",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ماء الشرب",
+          "term": "يسرا",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الشروق",
+          "term": "مطار",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "قانون التصالح",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "تسعير",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "egypt cup",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "عبير صبري",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "اذكار الصباح",
+          "term": "شهادات البنك الأهلي المصري",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "يوروفايتر تايفون",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "عاصفة رعدية",
           "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "النادي الأهلي",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "غاز",
-          "traffic": "2000+"
         }
       ]
     },
     {
-      "collected_at": "2026-11-06T05:54:21.770556+00:00",
+      "collected_at": "2026-11-06T13:59:47.599398+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,31 +66,31 @@
           "title": "محمد رمضان و عصام صاصا - أخوك واجهة / Mohamed Ramadan & Essam Sasa - Akhok Wagha",
           "channel": "Mohamed Ramadan I محمد رمضان",
           "category_id": "10",
-          "views": "759374",
-          "likes": "25706",
-          "comments": "1786",
+          "views": "819832",
+          "likes": "29848",
+          "comments": "1945",
           "published_at": "2026-11-05T15:00:02Z",
           "url": "https://www.youtube.com/watch?v=VDSlFP6pZVc"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "BTS WORLD TOUR 'ARIRANG' LIVE VIEWING FROM KAOHSIUNG & JAKARTA - Official Trailer",
-          "channel": "BANGTANTV",
-          "category_id": "10",
-          "views": "373606",
-          "likes": "45134",
-          "comments": "2281",
-          "published_at": "2026-11-05T13:00:01Z",
-          "url": "https://www.youtube.com/watch?v=xzTFYPnoum8"
+          "title": "إعلان Gambit يكشف أسرار خطيرة عن Avengers Doomsday!",
+          "channel": "Emad Aboesaoud",
+          "category_id": "22",
+          "views": "14510",
+          "likes": "205",
+          "comments": "8",
+          "published_at": "2026-11-05T14:30:15Z",
+          "url": "https://www.youtube.com/watch?v=F9ORfWRShKY"
         },
         {
           "source": "youtube_trending_eg",
           "title": "ختمت شارة الكرة الذهبية وجبت أقوى مدافع في اللعبة",
           "channel": "Abdo 2xd",
           "category_id": "20",
-          "views": "302794",
-          "likes": "22957",
-          "comments": "660",
+          "views": "365261",
+          "likes": "27741",
+          "comments": "743",
           "published_at": "2026-11-05T15:07:34Z",
           "url": "https://www.youtube.com/watch?v=J9xERSA4uJM"
         },
@@ -99,64 +99,31 @@
           "title": "Elissa - Habbatal Aheb (Official Lyric Video) / اليسا - هبطل أحب",
           "channel": "Elissa",
           "category_id": "10",
-          "views": "216960",
-          "likes": "10142",
-          "comments": "979",
+          "views": "247355",
+          "likes": "11959",
+          "comments": "1102",
           "published_at": "2026-11-05T16:04:08Z",
           "url": "https://www.youtube.com/watch?v=7JwXjbTgzss"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "إعلان Gambit يكشف أسرار خطيرة عن Avengers Doomsday!",
-          "channel": "Emad Aboesaoud",
-          "category_id": "22",
-          "views": "13518",
-          "likes": "173",
-          "comments": "7",
-          "published_at": "2026-11-05T14:30:15Z",
-          "url": "https://www.youtube.com/watch?v=F9ORfWRShKY"
         },
         {
           "source": "youtube_trending_eg",
           "title": "فتحت بكج صواريخ الدفاع الجديد🔥عودة الدبابة اداما تراوري🤯 |efootbal 2027",
           "channel": "TONY GAMING",
           "category_id": "20",
-          "views": "103192",
-          "likes": "10698",
-          "comments": "347",
+          "views": "126872",
+          "likes": "13700",
+          "comments": "394",
           "published_at": "2026-11-05T20:01:32Z",
           "url": "https://www.youtube.com/watch?v=HVq2EPb0xfI"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اسلام كابونجا - خسارة تعبي في المجال [ فيديو كليب ]  [ 2026 ] ESLAM KABONGA - KHOSARA TA3BY FELMAGAl",
-          "channel": "اسلام كابونجا - الدبابه",
-          "category_id": "10",
-          "views": "128475",
-          "likes": "3703",
-          "comments": "357",
-          "published_at": "2026-11-04T14:00:06Z",
-          "url": "https://www.youtube.com/watch?v=Kh-p9kF3CqU"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "المدرسةاصلانو المغامر داخل منزل المدرسة الشريرة 😱 Scary Teacher 3D",
-          "channel": "اصلانو المغامر - Aslano",
-          "category_id": "20",
-          "views": "31552",
-          "likes": "284",
-          "comments": "9",
-          "published_at": "2026-11-05T11:49:17Z",
-          "url": "https://www.youtube.com/watch?v=-yAgdPTuPNo"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Khadija Amr - Al Asnan (Official Music Video) | خديجة عمرو -الاسنان",
           "channel": "Khadija Amr",
           "category_id": "10",
-          "views": "88555",
-          "likes": "2285",
-          "comments": "369",
+          "views": "110389",
+          "likes": "2783",
+          "comments": "401",
           "published_at": "2026-11-05T14:00:06Z",
           "url": "https://www.youtube.com/watch?v=JXhGRDnr2dg"
         },
@@ -165,20 +132,42 @@
           "title": "تفجير بكدجات الاسبوع الثالث من حدث البالون دور🔥🤯",
           "channel": "HikaSIU",
           "category_id": "20",
-          "views": "65905",
-          "likes": "5571",
-          "comments": "295",
+          "views": "82421",
+          "likes": "7011",
+          "comments": "348",
           "published_at": "2026-11-05T15:41:24Z",
           "url": "https://www.youtube.com/watch?v=UBJXuCskNaw"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اسلام كابونجا - خسارة تعبي في المجال [ فيديو كليب ]  [ 2026 ] ESLAM KABONGA - KHOSARA TA3BY FELMAGAl",
+          "channel": "اسلام كابونجا - الدبابه",
+          "category_id": "10",
+          "views": "134481",
+          "likes": "3971",
+          "comments": "432",
+          "published_at": "2026-11-04T14:00:06Z",
+          "url": "https://www.youtube.com/watch?v=Kh-p9kF3CqU"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "المدرسةاصلانو المغامر داخل منزل المدرسة الشريرة 😱 Scary Teacher 3D",
+          "channel": "اصلانو المغامر - Aslano",
+          "category_id": "20",
+          "views": "36855",
+          "likes": "345",
+          "comments": "9",
+          "published_at": "2026-11-05T11:49:17Z",
+          "url": "https://www.youtube.com/watch?v=-yAgdPTuPNo"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Al Shami - Taa [Official Music Video] (2026) / الشامي - تعا",
           "channel": "Al Shami - الشامي",
           "category_id": "10",
-          "views": "3426638",
-          "likes": "125442",
-          "comments": "33209",
+          "views": "3561542",
+          "likes": "129460",
+          "comments": "34528",
           "published_at": "2026-11-03T15:00:10Z",
           "url": "https://www.youtube.com/watch?v=XXSNzN8wMTM"
         },
@@ -187,164 +176,175 @@
           "title": "جبت الدبابة أداما تراوري وصدمني !! 🤯🔥اشرف حكيمي نسخة الهاتريك 😍☠️  || eFootball 27",
           "channel": "OKATO GO",
           "category_id": "20",
-          "views": "100760",
-          "likes": "6771",
-          "comments": "186",
+          "views": "109706",
+          "likes": "7550",
+          "comments": "200",
           "published_at": "2026-11-05T15:39:59Z",
           "url": "https://www.youtube.com/watch?v=In4k4eFcpxo"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Mal'oun (Ya Habibi) - Hassan El Shafei x Hamaki | ملعون (يا حبيبى) - حسن الشافعى ومحمد حماقى",
-          "channel": "Hassan El Shafei | حسن الشافعي",
-          "category_id": "10",
-          "views": "685081",
-          "likes": "2714",
-          "comments": "322",
-          "published_at": "2026-11-04T17:00:07Z",
-          "url": "https://www.youtube.com/watch?v=U6GhaxVI7bo"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "هاجي واجي من لعبه بوبي بلاي تايم احتل منزل الجار النفسيه ومهمتي اني انقذو😳😱 | Poppy Playtime",
-          "channel": "Abdo Mando - عبده ماندو",
-          "category_id": "20",
-          "views": "112201",
-          "likes": "4633",
-          "comments": "222",
-          "published_at": "2026-11-04T14:45:39Z",
-          "url": "https://www.youtube.com/watch?v=R3Ae7ALv6gk"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "مهرجان انا الطيب و انا الجاحد ( سالت شات جيبيتي ) حمو بيكا واسلام كابونجا 2026 | توزيع فيجو الدخلاوي",
-          "channel": "Hamo Bika - حمو بيكا",
-          "category_id": "10",
-          "views": "24057",
-          "likes": "713",
-          "comments": "48",
-          "published_at": "2026-11-05T15:00:10Z",
-          "url": "https://www.youtube.com/watch?v=ez6-EJUPZ2w"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "حملة مؤقتة استعداد للقادم وهدايا الموسم الجديد 🔥🤯 شرح اضافات يوم الخميس !!😱|efootball 2027",
-          "channel": "من بره التمنتاشر",
-          "category_id": "26",
-          "views": "100298",
-          "likes": "6745",
-          "comments": "273",
-          "published_at": "2026-11-05T11:29:03Z",
-          "url": "https://www.youtube.com/watch?v=C87uQX9AOGQ"
         },
         {
           "source": "youtube_trending_eg",
           "title": "JISOO - ‘ADDICTED’ DANCE PERFORMANCE VIDEO",
           "channel": "JISOO",
           "category_id": "10",
-          "views": "3167671",
-          "likes": "352136",
-          "comments": "25039",
+          "views": "3698742",
+          "likes": "393522",
+          "comments": "26766",
           "published_at": "2026-11-05T12:00:20Z",
           "url": "https://www.youtube.com/watch?v=dND8ysuZqlA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اصلانو ينقذ جيسي من العصابة بمساعدة باظ يطير وودى فى قراند 5 !!",
-          "channel": "Ahmed Aslan",
+          "title": "اشتغلت مربي اطفال الي بنت ملبوسه بعفريته اسمها نورا 😱 |  Something Strange Tonight - The Lurker",
+          "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "80768",
-          "likes": "4644",
-          "comments": "28",
-          "published_at": "2026-11-04T10:30:09Z",
-          "url": "https://www.youtube.com/watch?v=Uw492EggiPY"
+          "views": "30496",
+          "likes": "2313",
+          "comments": "134",
+          "published_at": "2026-11-05T16:00:35Z",
+          "url": "https://www.youtube.com/watch?v=Kg1vv_GIRy4"
         },
         {
           "source": "youtube_trending_eg",
           "title": "احمد عادل - اسمع القصه || Ahmed Adel Asmae Alqasah",
           "channel": "احمد عادل - كروان الصعيد",
           "category_id": "10",
-          "views": "21875",
-          "likes": "425",
-          "comments": "20",
+          "views": "24132",
+          "likes": "500",
+          "comments": "21",
           "published_at": "2026-11-04T16:00:12Z",
           "url": "https://www.youtube.com/watch?v=Kr72v-6YHUs"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "فلم قراند : اول يوم مدرسة مع  فله وفريدة رحلة مدرسية - عائلة عمر - جنه ورؤي - عائلة فله - العاب بنات",
-          "channel": "العاب فله - Fulla Games",
+          "title": "هربنا من سجن تحت الماء قبل ما القرش يمسكنا! 😱🦈 | Human Fall Flat",
+          "channel": "Ahmed Aslan",
           "category_id": "20",
-          "views": "29010",
-          "likes": "161",
-          "comments": "8",
-          "published_at": "2026-11-04T18:36:39Z",
-          "url": "https://www.youtube.com/watch?v=QJwWHGJA8oc"
+          "views": "4233",
+          "likes": "475",
+          "comments": "4",
+          "published_at": "2026-11-06T09:52:44Z",
+          "url": "https://www.youtube.com/watch?v=eoJSYjD96ZE"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كليب سيلفي ايه ( انا جيت فلا داعي تاني للدكن ) كريم كرستيانو و مصطفي الجن و هادي الصغير توزيع دولسي",
-          "channel": "كريم كرستيانو - karim Cristiano",
+          "title": "Mal'oun (Ya Habibi) - Hassan El Shafei x Hamaki | ملعون (يا حبيبى) - حسن الشافعى ومحمد حماقى",
+          "channel": "Hassan El Shafei | حسن الشافعي",
           "category_id": "10",
-          "views": "200702",
-          "likes": "4595",
-          "comments": "219",
-          "published_at": "2026-11-03T16:00:07Z",
-          "url": "https://www.youtube.com/watch?v=RYomsJmW1m0"
+          "views": "705882",
+          "likes": "2889",
+          "comments": "334",
+          "published_at": "2026-11-04T17:00:07Z",
+          "url": "https://www.youtube.com/watch?v=U6GhaxVI7bo"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "المتابعين راهنوا أفشل في تحدي الـ 40 كيل.. لكن اللي حصل صدمهم! 😂🔥 | PUBG MOBILE",
-          "channel": "LiveSa3dola ",
+          "title": "وأخيراً تجربه الدبابه أداما تراوري 105 .. عملت له تطويره خاصه جعلتو خاارق 🔥!",
+          "channel": "MessiGaming10",
           "category_id": "20",
-          "views": "22300",
-          "likes": "1040",
-          "comments": "34",
-          "published_at": "2026-11-05T16:00:14Z",
-          "url": "https://www.youtube.com/watch?v=9zxEg4nKWLE"
+          "views": "78930",
+          "likes": "10070",
+          "comments": "1694",
+          "published_at": "2026-11-05T21:22:16Z",
+          "url": "https://www.youtube.com/watch?v=05m2hBMInBQ"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "مهرجان انا الطيب و انا الجاحد ( سالت شات جيبيتي ) حمو بيكا واسلام كابونجا 2026 | توزيع فيجو الدخلاوي",
+          "channel": "Hamo Bika - حمو بيكا",
+          "category_id": "10",
+          "views": "27598",
+          "likes": "833",
+          "comments": "56",
+          "published_at": "2026-11-05T15:00:10Z",
+          "url": "https://www.youtube.com/watch?v=ez6-EJUPZ2w"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "هامستري كسر الجدار ببذرة وحدة في روبلوكس! 🐹💥",
+          "channel": "El Husamo X",
+          "category_id": "20",
+          "views": "539316",
+          "likes": "17135",
+          "comments": "709",
+          "published_at": "2026-11-05T14:55:03Z",
+          "url": "https://www.youtube.com/watch?v=m_-WUWXI03U"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Abo El Anwar X Ayvo - El Darb Bada2 | ابو الانوار و ايڤو اغنية الضرب بدء",
           "channel": "Abo El Anwar",
           "category_id": "10",
-          "views": "23881",
-          "likes": "1927",
-          "comments": "387",
+          "views": "27360",
+          "likes": "2199",
+          "comments": "432",
           "published_at": "2026-11-05T18:00:05Z",
           "url": "https://www.youtube.com/watch?v=_8IYE-orlpA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "معركة سبايدرمان ضد فينوم مواجهة مرعبة... مين الأقوى؟! 🔥😱 | Super Bear Adventure",
-          "channel": "Mkamel GG",
+          "title": "World Finals | Day 1 | Clash Royale League 2026",
+          "channel": "Clash Royale Esports",
           "category_id": "20",
-          "views": "122779",
-          "likes": "3875",
-          "comments": "69",
-          "published_at": "2026-11-04T14:00:39Z",
-          "url": "https://www.youtube.com/watch?v=s1RCyCi7N5c"
+          "views": "780372",
+          "likes": "6703",
+          "comments": "121",
+          "published_at": "2026-11-05T09:24:17Z",
+          "url": "https://www.youtube.com/watch?v=uwmR9g60Lp4"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "كليب سيلفي ايه ( انا جيت فلا داعي تاني للدكن ) كريم كرستيانو و مصطفي الجن و هادي الصغير توزيع دولسي",
+          "channel": "كريم كرستيانو - karim Cristiano",
+          "category_id": "10",
+          "views": "206921",
+          "likes": "4764",
+          "comments": "218",
+          "published_at": "2026-11-03T16:00:07Z",
+          "url": "https://www.youtube.com/watch?v=RYomsJmW1m0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "هيكا محبوس في بيت لواحدة مع أبوة المجنون👨🏻😱",
+          "channel": "HikaGaming",
+          "category_id": "20",
+          "views": "21850",
+          "likes": "1252",
+          "comments": "85",
+          "published_at": "2026-11-05T15:00:36Z",
+          "url": "https://www.youtube.com/watch?v=stKHKKixhMs"
         },
         {
           "source": "youtube_trending_eg",
           "title": "رحمة محسن - الشيلة وقعت (Cover Tarab Shaabi) | Rahma Mohsen - El Shela Weaet | WoodsArt 2026 💔🖤",
           "channel": "WoodsArt ",
           "category_id": "10",
-          "views": "44113",
-          "likes": "358",
+          "views": "45087",
+          "likes": "366",
           "comments": "12",
           "published_at": "2026-10-24T19:19:50Z",
           "url": "https://www.youtube.com/watch?v=K_-BVTNR1ws"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اكتشفت إن عالم ماين كرافت كله عايش… وبيحس بكل حاجة بعملها! 😱",
+          "channel": "Mkamel GG",
+          "category_id": "20",
+          "views": "89011",
+          "likes": "2652",
+          "comments": "79",
+          "published_at": "2026-11-05T17:59:44Z",
+          "url": "https://www.youtube.com/watch?v=p36VszTmgG0"
         }
       ]
     },
     {
-      "collected_at": "2026-11-06T05:54:21.771356+00:00",
+      "collected_at": "2026-11-06T13:59:47.600191+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-11-06T05:54:22.085794+00:00",
+      "collected_at": "2026-11-06T13:59:47.954308+00:00",
       "platform": "tiktok",
       "items": []
     }
