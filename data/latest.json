@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-11-11T05:33:03.508341+00:00",
+  "generated_at": "2026-11-11T13:53:17.604761+00:00",
   "platforms": [
     {
-      "collected_at": "2026-11-11T05:33:03.849991+00:00",
+      "collected_at": "2026-11-11T13:53:17.795804+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "درجة الحرارة في القاهرة",
+          "term": "إيلات",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "كامل الوزير وزير النقل",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "wetter",
+          "term": "infinity",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "2027",
+          "term": "هاني رمزي",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "زلزال",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "مباريات كأس مصر",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "قانون الجنسية الكويتية",
-          "traffic": "100+"
+          "term": "جامعة أسيوط",
+          "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "يورغن كلوب",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "شهادات البنك الأهلي المصري",
+          "term": "خالد بيومي",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "دواء",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "النادي الإسماعيلي",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سكر",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "و",
+          "term": "كسوف الشمس",
           "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "أوبو",
+          "traffic": "100+"
         }
       ]
     },
     {
-      "collected_at": "2026-11-11T05:33:04.005707+00:00",
+      "collected_at": "2026-11-11T13:53:17.935403+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "Mohamed Ramadan & Busy Signal - Make Banger / محمد رمضان و بيسي سيجنال - لو انت",
           "channel": "Mohamed Ramadan I محمد رمضان",
           "category_id": "10",
-          "views": "33504",
-          "likes": "1807",
-          "comments": "270",
+          "views": "56982",
+          "likes": "2644",
+          "comments": "353",
           "published_at": "2026-11-10T22:10:35Z",
           "url": "https://www.youtube.com/watch?v=gwb06giGm7Y"
         },
@@ -77,9 +77,9 @@
           "title": "Grand Theft Auto VI - Features Trailer | PS5 Games",
           "channel": "PlayStation",
           "category_id": "20",
-          "views": "3606656",
-          "likes": "106712",
-          "comments": "6278",
+          "views": "4186195",
+          "likes": "116590",
+          "comments": "6829",
           "published_at": "2026-11-10T15:40:22Z",
           "url": "https://www.youtube.com/watch?v=8L0CzL2V72c"
         },
@@ -88,263 +88,263 @@
           "title": "Grand Theft Auto VI: Pre-Load Now",
           "channel": "Rockstar Games",
           "category_id": "20",
-          "views": "6682540",
-          "likes": "385265",
-          "comments": "20999",
+          "views": "7769137",
+          "likes": "413635",
+          "comments": "21979",
           "published_at": "2026-11-10T13:55:06Z",
           "url": "https://www.youtube.com/watch?v=_yl5ELcmugI"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Attar - Nakar El Khier | Official Lyric Video - 2026 | عطار - نكار الخير",
-          "channel": "Attar - عطار",
-          "category_id": "10",
-          "views": "71838",
-          "likes": "2386",
-          "comments": "129",
-          "published_at": "2026-11-09T16:00:08Z",
-          "url": "https://www.youtube.com/watch?v=58lyZn6DeJ8"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Nightcrawler: Hope and Brimstone | Character Reveal Trailer | Marvel Rivals",
-          "channel": "Marvel Rivals",
-          "category_id": "20",
-          "views": "1384055",
-          "likes": "51160",
-          "comments": "3517",
-          "published_at": "2026-11-10T17:00:16Z",
-          "url": "https://www.youtube.com/watch?v=YJ9Ndcv-ZFE"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "بن تن محبوس فى اصغر قفص 😱 gta 5",
-          "channel": "Ahmed Aslan",
-          "category_id": "20",
-          "views": "33250",
-          "likes": "900",
-          "comments": "6",
-          "published_at": "2026-11-10T10:30:08Z",
-          "url": "https://www.youtube.com/watch?v=i23lDKu4eNc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "فوقت ( سايقها ومش بكلكس - صالح بقا طالح - نميرو ف البريمو ) - حمو المرشدي - M9",
-          "channel": "Hamo ELMorshdy - حمو المرشدي",
-          "category_id": "10",
-          "views": "138704",
-          "likes": "2809",
-          "comments": "300",
-          "published_at": "2026-11-09T15:30:06Z",
-          "url": "https://www.youtube.com/watch?v=UhiqDS-4KMI"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "BerleeN_ Official Teaser | برلين - الإعلان التشويقي الرسمي",
-          "channel": "Film Clinic",
-          "category_id": "24",
-          "views": "27040",
-          "likes": "262",
-          "comments": "12",
-          "published_at": "2026-11-09T20:54:15Z",
-          "url": "https://www.youtube.com/watch?v=4ty2G7O7Vz8"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "بكل وقاحة : العلاقة التوكسيك بين GTA VI و بلايستيشن",
-          "channel": "The Kareka",
-          "category_id": "20",
-          "views": "60855",
-          "likes": "4887",
-          "comments": "338",
-          "published_at": "2026-11-10T17:00:03Z",
-          "url": "https://www.youtube.com/watch?v=qwJUMfCxyY0"
         },
         {
           "source": "youtube_trending_eg",
           "title": "شوفت ياقلبي اختياراتنا (اوعى تمد ايديك لجعان)",
           "channel": "Yassin Mohsen - Topic",
           "category_id": "10",
-          "views": "32589",
-          "likes": "478",
+          "views": "44197",
+          "likes": "660",
           "comments": "0",
           "published_at": "2026-11-10T00:47:57Z",
           "url": "https://www.youtube.com/watch?v=n5dcFHTY_xg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "GTA 6 NEW TRAILER REACTION!!!",
-          "channel": "TGG",
+          "title": "Nightcrawler: Hope and Brimstone | Character Reveal Trailer | Marvel Rivals",
+          "channel": "Marvel Rivals",
           "category_id": "20",
-          "views": "431724",
-          "likes": "8889",
-          "comments": "424",
-          "published_at": "2026-11-10T14:44:00Z",
-          "url": "https://www.youtube.com/watch?v=V2VER-Scn7w"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "من الصفر #10 خليت أداما تراوري هكر في الملعب !! 🤯🔥 وجبت لاعب صدمني ادائه 😍☠️ || eFootball 27",
-          "channel": "OKATO GO",
-          "category_id": "20",
-          "views": "79110",
-          "likes": "7367",
-          "comments": "221",
-          "published_at": "2026-11-10T17:17:45Z",
-          "url": "https://www.youtube.com/watch?v=wGK59L__6cY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "شطبت الاسامي (  ومين هيغيب وهيجبها في بند نصيب - شغلت الخلايا وممن غير دعايا  ) حمو المرشدي",
-          "channel": "Karizma Production",
-          "category_id": "22",
-          "views": "48093",
-          "likes": "1656",
-          "comments": "165",
-          "published_at": "2026-11-10T14:08:37Z",
-          "url": "https://www.youtube.com/watch?v=noXfwCr4n7U"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Maatrubhumi - Trailer | Salman Khan, Chitrangda Singh | Apoorva Lakhia | 4th December 2026",
-          "channel": "Salman Khan Films",
-          "category_id": "24",
-          "views": "9473210",
-          "likes": "178161",
-          "comments": "18508",
-          "published_at": "2026-11-10T16:55:19Z",
-          "url": "https://www.youtube.com/watch?v=fA8-gXDoAk8"
+          "views": "1793616",
+          "likes": "54306",
+          "comments": "3700",
+          "published_at": "2026-11-10T17:00:16Z",
+          "url": "https://www.youtube.com/watch?v=YJ9Ndcv-ZFE"
         },
         {
           "source": "youtube_trending_eg",
           "title": "غرفة سرية تحت الارض فى منزل الجدة الشريرة جراني | Granny !! 😱",
           "channel": "EstubeGaming",
           "category_id": "20",
-          "views": "41339",
-          "likes": "1400",
-          "comments": "103",
+          "views": "53101",
+          "likes": "1693",
+          "comments": "111",
           "published_at": "2026-11-10T14:54:46Z",
           "url": "https://www.youtube.com/watch?v=dF4Hi4o4vDo"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "انا صقر في الصحاري (  وعد هردمك ورايا ) محمد البصيلي - توزيع احمد لوزه Official Video",
-          "channel": "محمد البصيلي - Mohamed Elbosely",
-          "category_id": "10",
-          "views": "78799",
-          "likes": "2410",
-          "comments": "226",
-          "published_at": "2026-11-09T16:00:08Z",
-          "url": "https://www.youtube.com/watch?v=nhvDM_hnp10"
+          "title": "شطبت الاسامي (  ومين هيغيب وهيجبها في بند نصيب - شغلت الخلايا وممن غير دعايا  ) حمو المرشدي",
+          "channel": "Karizma Production",
+          "category_id": "22",
+          "views": "63088",
+          "likes": "1950",
+          "comments": "174",
+          "published_at": "2026-11-10T14:08:37Z",
+          "url": "https://www.youtube.com/watch?v=noXfwCr4n7U"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Salish's 12 Games of Christmas | Official Trailer | Netflix",
-          "channel": "Netflix",
+          "title": "BerleeN_ Official Teaser | برلين - الإعلان التشويقي الرسمي",
+          "channel": "Film Clinic",
           "category_id": "24",
-          "views": "1220913",
-          "likes": "19348",
-          "comments": "710",
-          "published_at": "2026-11-07T15:30:10Z",
-          "url": "https://www.youtube.com/watch?v=ylYSnvZEH0Y"
+          "views": "33331",
+          "likes": "297",
+          "comments": "12",
+          "published_at": "2026-11-09T20:54:15Z",
+          "url": "https://www.youtube.com/watch?v=4ty2G7O7Vz8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "ممنوع تشرب الدواء ده في ماين كرافت... النهاية كانت مرعبة! 💊🚫",
-          "channel": "Mkamel GG",
+          "title": "من الصفر #10 خليت أداما تراوري هكر في الملعب !! 🤯🔥 وجبت لاعب صدمني ادائه 😍☠️ || eFootball 27",
+          "channel": "OKATO GO",
           "category_id": "20",
-          "views": "39645",
-          "likes": "1769",
-          "comments": "70",
-          "published_at": "2026-11-10T14:00:34Z",
-          "url": "https://www.youtube.com/watch?v=FPLKvyuce9E"
+          "views": "98239",
+          "likes": "8686",
+          "comments": "240",
+          "published_at": "2026-11-10T17:17:45Z",
+          "url": "https://www.youtube.com/watch?v=wGK59L__6cY"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "الدايرة كلها عارفة انا مين - مصطفي الجن و كريم كرستيانو و هادي الصغير - توزيع دولسي برودكشن",
-          "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
+          "title": "Attar - Nakar El Khier | Official Lyric Video - 2026 | عطار - نكار الخير",
+          "channel": "Attar - عطار",
           "category_id": "10",
-          "views": "15839",
-          "likes": "667",
-          "comments": "28",
-          "published_at": "2026-11-10T16:00:07Z",
-          "url": "https://www.youtube.com/watch?v=Pwdbz0-CGS8"
+          "views": "81800",
+          "likes": "2584",
+          "comments": "139",
+          "published_at": "2026-11-09T16:00:08Z",
+          "url": "https://www.youtube.com/watch?v=58lyZn6DeJ8"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "GTA 6 NEW TRAILER REACTION!!!",
+          "channel": "TGG",
+          "category_id": "20",
+          "views": "454019",
+          "likes": "9082",
+          "comments": "437",
+          "published_at": "2026-11-10T14:44:00Z",
+          "url": "https://www.youtube.com/watch?v=V2VER-Scn7w"
         },
         {
           "source": "youtube_trending_eg",
           "title": "قررت اسيب اليوتيوب وانصب علي الناس👨‍💻😂",
           "channel": "HikaGaming",
           "category_id": "20",
-          "views": "33542",
-          "likes": "1876",
-          "comments": "108",
+          "views": "43851",
+          "likes": "2350",
+          "comments": "122",
           "published_at": "2026-11-10T16:37:25Z",
           "url": "https://www.youtube.com/watch?v=Vu1sgEUyTwM"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "فوقت ( سايقها ومش بكلكس - صالح بقا طالح - نميرو ف البريمو ) - حمو المرشدي - M9",
+          "channel": "Hamo ELMorshdy - حمو المرشدي",
+          "category_id": "10",
+          "views": "150636",
+          "likes": "2974",
+          "comments": "304",
+          "published_at": "2026-11-09T15:30:06Z",
+          "url": "https://www.youtube.com/watch?v=UhiqDS-4KMI"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Maatrubhumi - Trailer | Salman Khan, Chitrangda Singh | Apoorva Lakhia | 4th December 2026",
+          "channel": "Salman Khan Films",
+          "category_id": "24",
+          "views": "25009874",
+          "likes": "265428",
+          "comments": "24691",
+          "published_at": "2026-11-10T16:55:19Z",
+          "url": "https://www.youtube.com/watch?v=fA8-gXDoAk8"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "بن تن محبوس فى اصغر قفص 😱 gta 5",
+          "channel": "Ahmed Aslan",
+          "category_id": "20",
+          "views": "38827",
+          "likes": "1115",
+          "comments": "6",
+          "published_at": "2026-11-10T10:30:08Z",
+          "url": "https://www.youtube.com/watch?v=i23lDKu4eNc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "انا صقر في الصحاري (  وعد هردمك ورايا ) محمد البصيلي - توزيع احمد لوزه Official Video",
+          "channel": "محمد البصيلي - Mohamed Elbosely",
+          "category_id": "10",
+          "views": "86749",
+          "likes": "2563",
+          "comments": "230",
+          "published_at": "2026-11-09T16:00:08Z",
+          "url": "https://www.youtube.com/watch?v=nhvDM_hnp10"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "بكل وقاحة : العلاقة التوكسيك بين GTA VI و بلايستيشن",
+          "channel": "The Kareka",
+          "category_id": "20",
+          "views": "76960",
+          "likes": "5886",
+          "comments": "369",
+          "published_at": "2026-11-10T17:00:03Z",
+          "url": "https://www.youtube.com/watch?v=qwJUMfCxyY0"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "الدايرة كلها عارفة انا مين - مصطفي الجن و كريم كرستيانو و هادي الصغير - توزيع دولسي برودكشن",
+          "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
+          "category_id": "10",
+          "views": "21079",
+          "likes": "789",
+          "comments": "32",
+          "published_at": "2026-11-10T16:00:07Z",
+          "url": "https://www.youtube.com/watch?v=Pwdbz0-CGS8"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "ممنوع تشرب الدواء ده في ماين كرافت... النهاية كانت مرعبة! 💊🚫",
+          "channel": "Mkamel GG",
+          "category_id": "20",
+          "views": "48823",
+          "likes": "2222",
+          "comments": "77",
+          "published_at": "2026-11-10T14:00:34Z",
+          "url": "https://www.youtube.com/watch?v=FPLKvyuce9E"
         },
         {
           "source": "youtube_trending_eg",
           "title": "لو تعرف",
           "channel": "Ramy Sabry - Topic",
           "category_id": "10",
-          "views": "23025",
-          "likes": "221",
-          "comments": "2",
+          "views": "31143",
+          "likes": "313",
+          "comments": "3",
           "published_at": "2026-11-08T10:24:04Z",
           "url": "https://www.youtube.com/watch?v=YsDtGXnOkss"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "رمي الطعام للحيوانات Throw Food For Animals",
-          "channel": "اصلانو المغامر - Aslano",
+          "title": "تحدي اقشر مليون حبه بطاطس بواسطه موس حلاقه 🥔 😱 | Potato Please",
+          "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "19989",
-          "likes": "877",
-          "comments": "10",
-          "published_at": "2026-11-10T10:35:37Z",
-          "url": "https://www.youtube.com/watch?v=ff-Ukz2sUis"
+          "views": "34282",
+          "likes": "2316",
+          "comments": "181",
+          "published_at": "2026-11-10T16:01:33Z",
+          "url": "https://www.youtube.com/watch?v=qNjWgHtQ9h0"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "بتاع دكن - اسمي مقطعو - اسلام كابونجا - Eslam Kabonga - Bt3 Dakn - Official Music 2036",
-          "channel": "Original Music",
+          "title": "جورجيوس  (مارجرجس) _ يوستينا سمير",
+          "channel": "Youstina samir يوستينا سمير",
           "category_id": "10",
-          "views": "29526",
-          "likes": "588",
-          "comments": "31",
-          "published_at": "2026-11-09T15:00:08Z",
-          "url": "https://www.youtube.com/watch?v=VXNOvRhHUCw"
+          "views": "6365",
+          "likes": "461",
+          "comments": "86",
+          "published_at": "2026-11-10T19:02:49Z",
+          "url": "https://www.youtube.com/watch?v=l7cNTU13_vI"
         },
         {
           "source": "youtube_trending_eg",
           "title": "من الصفر #13 موسم جديد بتحدي جديد🤯اخيرا حليت مشكلة الدفاع🔥|efootball 2027",
           "channel": "كابتن ماجد Gaming",
           "category_id": "20",
-          "views": "54248",
-          "likes": "8307",
-          "comments": "368",
+          "views": "62385",
+          "likes": "9347",
+          "comments": "408",
           "published_at": "2026-11-10T15:14:55Z",
           "url": "https://www.youtube.com/watch?v=eaNJJthv_LY"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "الخال حجاج - انتوا ملايكة مبتغلطوش (ياهمي بحكيلك همي) Official Music Video 2026",
-          "channel": "EL KHAL HAGGAG - الخال حجاج",
+          "title": "صحبه حرام مفهمش جدع ( وسع يلا الباب جه ) خلود محمد - ميكس حظ شعبي",
+          "channel": "Ahmed Adel ",
           "category_id": "10",
-          "views": "62076",
-          "likes": "765",
-          "comments": "20",
-          "published_at": "2026-11-08T18:24:54Z",
-          "url": "https://www.youtube.com/watch?v=357CVSAtx3A"
+          "views": "9607",
+          "likes": "65",
+          "comments": "0",
+          "published_at": "2026-11-10T10:00:27Z",
+          "url": "https://www.youtube.com/watch?v=-Vo0h1dvFzQ"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "رمي الطعام للحيوانات Throw Food For Animals",
+          "channel": "اصلانو المغامر - Aslano",
+          "category_id": "20",
+          "views": "23144",
+          "likes": "1016",
+          "comments": "10",
+          "published_at": "2026-11-10T10:35:37Z",
+          "url": "https://www.youtube.com/watch?v=ff-Ukz2sUis"
         }
       ]
     },
     {
-      "collected_at": "2026-11-11T05:33:04.006601+00:00",
+      "collected_at": "2026-11-11T13:53:17.936167+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-11-11T05:33:04.372679+00:00",
+      "collected_at": "2026-11-11T13:53:18.261972+00:00",
       "platform": "tiktok",
       "items": []
     }
