@@ -1,195 +1,228 @@
 {
-  "generated_at": "2026-11-15T13:44:00.443620+00:00",
+  "generated_at": "2026-11-15T22:39:28.382101+00:00",
   "platforms": [
     {
-      "collected_at": "2026-11-15T13:44:00.883945+00:00",
+      "collected_at": "2026-11-15T22:39:28.865259+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "مصراوي",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "الشامي",
+          "term": "امم اوروبا",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "رينيه فايلر",
+          "term": "lamine yamal",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "عام دراسي",
-          "traffic": "2000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "رحمة حسن",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "حسام البدري",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "فولوديمير زيلينسكي",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "كرة اليد",
+          "term": "james trafford",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "ايران",
+          "term": "تعويض",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الوطن",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ماتش اسبانيا وانجلترا",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الشروق الجديد",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الحرس الثوري الإيراني",
-          "traffic": "2000+"
+          "term": "أنصار الله الحوثيون",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "uefa nations league",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "belgium vs italy",
+          "traffic": "5000+"
         }
       ]
     },
     {
-      "collected_at": "2026-11-15T13:44:00.975980+00:00",
+      "collected_at": "2026-11-15T22:39:29.080202+00:00",
       "platform": "youtube",
       "items": [
         {
           "source": "youtube_trending_eg",
-          "title": "Te Quiero on Repeat - Jack Hit (Official Music Video)",
-          "channel": "Jack Hit",
-          "category_id": "10",
-          "views": "1379025",
-          "likes": "3240",
-          "comments": "43",
-          "published_at": "2026-11-14T15:06:55Z",
-          "url": "https://www.youtube.com/watch?v=tKZJ-nTo0TI"
+          "title": "هيفرد جناحو هقصقصه ( لو خلص بنزين افولو _ لو سستمك هنج) حمو المرشدي _ حبيبي يا مستمع",
+          "channel": "Karizma ELMorshdy",
+          "category_id": "22",
+          "views": "48804",
+          "likes": "1531",
+          "comments": "86",
+          "published_at": "2026-11-15T09:42:55Z",
+          "url": "https://www.youtube.com/watch?v=sRhdD_ljG1w"
         },
         {
           "source": "youtube_trending_eg",
           "title": "الإعلان التشويقي لفيلم #فرقة_الموت .. صيف ٢٠٢٧ في جميع السينمات",
           "channel": "UVFGroup",
           "category_id": "1",
-          "views": "54333",
-          "likes": "706",
-          "comments": "76",
+          "views": "65232",
+          "likes": "810",
+          "comments": "82",
           "published_at": "2026-11-14T12:20:03Z",
           "url": "https://www.youtube.com/watch?v=SxfBrGMOwhU"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "حاولت أهرب من أختي المسكونة 😰 | Matilda 👻",
-          "channel": "Esraa Gaming ",
-          "category_id": "22",
-          "views": "644037",
-          "likes": "17027",
-          "comments": "3363",
-          "published_at": "2026-11-13T14:06:51Z",
-          "url": "https://www.youtube.com/watch?v=yeN-9ZnwoCE"
+          "title": "لما تلعب انت وعيلتك PUBG MOBILE FLASH🔥⚡️ | سيف عماد",
+          "channel": "SAIF EMAD",
+          "category_id": "23",
+          "views": "62117",
+          "likes": "2391",
+          "comments": "103",
+          "published_at": "2026-11-15T14:00:25Z",
+          "url": "https://www.youtube.com/watch?v=saI-5VW9NjY"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
-          "channel": "idk",
+          "title": "Samira Said - Kebert w Khebt | Official Music Video | 2026 | سميرة سعيد - كبرت وخبت",
+          "channel": "Samira Said",
           "category_id": "10",
-          "views": "1772933",
-          "likes": "90030",
-          "comments": "5089",
-          "published_at": "2026-11-13T05:00:03Z",
-          "url": "https://www.youtube.com/watch?v=zT104EktdOc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Grand Theft Auto VI - Features Trailer | PS5 Games",
-          "channel": "PlayStation",
-          "category_id": "20",
-          "views": "6218374",
-          "likes": "142613",
-          "comments": "8112",
-          "published_at": "2026-11-10T15:40:22Z",
-          "url": "https://www.youtube.com/watch?v=8L0CzL2V72c"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "جبت 5 لاعبين خارقين 129 في بداية حدث نجوم الشارع",
-          "channel": "Abdo 2xd",
-          "category_id": "20",
-          "views": "406984",
-          "likes": "32851",
-          "comments": "949",
-          "published_at": "2026-11-14T12:44:03Z",
-          "url": "https://www.youtube.com/watch?v=cuv8UHdlZco"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Aysel Khaled - Akhoya El She2 | أيسل خالد - أخويا الشق",
-          "channel": "Aysel Khaled",
-          "category_id": "10",
-          "views": "713621",
-          "likes": "10060",
-          "comments": "971",
-          "published_at": "2026-11-12T14:00:08Z",
-          "url": "https://www.youtube.com/watch?v=JXdv8sH8o_s"
+          "views": "58214",
+          "likes": "3773",
+          "comments": "683",
+          "published_at": "2026-11-15T15:25:51Z",
+          "url": "https://www.youtube.com/watch?v=7I0wy60bf4w"
         },
         {
           "source": "youtube_trending_eg",
           "title": "المستفز | كماين ستريم سنايب | ببجى موبايل",
           "channel": "مستفز / Mostafz",
           "category_id": "20",
-          "views": "117782",
-          "likes": "10265",
-          "comments": "730",
+          "views": "174656",
+          "likes": "13132",
+          "comments": "848",
           "published_at": "2026-11-14T20:20:18Z",
           "url": "https://www.youtube.com/watch?v=abApv0GbAZw"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Te Quiero on Repeat - Jack Hit (Official Music Video)",
+          "channel": "Jack Hit",
+          "category_id": "10",
+          "views": "2159221",
+          "likes": "4787",
+          "comments": "62",
+          "published_at": "2026-11-14T15:06:55Z",
+          "url": "https://www.youtube.com/watch?v=tKZJ-nTo0TI"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "جبت 5 لاعبين خارقين 129 في بداية حدث نجوم الشارع",
+          "channel": "Abdo 2xd",
+          "category_id": "20",
+          "views": "499161",
+          "likes": "36976",
+          "comments": "1014",
+          "published_at": "2026-11-14T12:44:03Z",
+          "url": "https://www.youtube.com/watch?v=cuv8UHdlZco"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
+          "channel": "idk",
+          "category_id": "10",
+          "views": "2195253",
+          "likes": "103878",
+          "comments": "5594",
+          "published_at": "2026-11-13T05:00:03Z",
+          "url": "https://www.youtube.com/watch?v=zT104EktdOc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اتجوزت ذئبة | Family Time",
+          "channel": "Moham OverKill",
+          "category_id": "20",
+          "views": "68494",
+          "likes": "6269",
+          "comments": "1118",
+          "published_at": "2026-11-15T15:00:17Z",
+          "url": "https://www.youtube.com/watch?v=Td-rFT36asQ"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "محكمه غربان ( الجدع محطوط هناك بيموت ) حمو بيكا و نور التوت 2026 | توزيع فيجو الدخلاوي 2026",
+          "channel": "Hamo Bika - حمو بيكا",
+          "category_id": "10",
+          "views": "10962",
+          "likes": "480",
+          "comments": "61",
+          "published_at": "2026-11-15T16:00:10Z",
+          "url": "https://www.youtube.com/watch?v=OtTWIptKOY8"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "حاولت أهرب من أختي المسكونة 😰 | Matilda 👻",
+          "channel": "Esraa Gaming ",
+          "category_id": "22",
+          "views": "744801",
+          "likes": "18085",
+          "comments": "3548",
+          "published_at": "2026-11-13T14:06:51Z",
+          "url": "https://www.youtube.com/watch?v=yeN-9ZnwoCE"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Ana Bahbak",
           "channel": "Assala Nasri - Topic",
           "category_id": "10",
-          "views": "100661",
-          "likes": "2506",
-          "comments": "172",
+          "views": "145679",
+          "likes": "3090",
+          "comments": "186",
           "published_at": "2026-11-13T21:36:54Z",
           "url": "https://www.youtube.com/watch?v=Lflj0opJY9Q"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "جربت ارسين فينجر🤯مع تشكيلة ارسنال بين الماضي والحاضر🔥 |efootbal 2027",
-          "channel": "TONY GAMING",
+          "title": "اصلانو فتح فندق تحت البحر !!",
+          "channel": "Aslano",
           "category_id": "20",
-          "views": "153044",
-          "likes": "12835",
-          "comments": "422",
-          "published_at": "2026-11-14T16:00:11Z",
-          "url": "https://www.youtube.com/watch?v=dlcr_CZ2R8w"
+          "views": "16745",
+          "likes": "518",
+          "comments": "4",
+          "published_at": "2026-11-15T14:44:36Z",
+          "url": "https://www.youtube.com/watch?v=VehLlDs1mJA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "هيفرد جناحو هقصقصه ( لو خلص بنزين افولو _ لو سستمك هنج) حمو المرشدي _ حبيبي يا مستمع",
-          "channel": "Karizma ELMorshdy",
-          "category_id": "22",
-          "views": "7551",
-          "likes": "479",
-          "comments": "37",
-          "published_at": "2026-11-15T09:42:55Z",
-          "url": "https://www.youtube.com/watch?v=sRhdD_ljG1w"
+          "title": "Aysel Khaled - Akhoya El She2 | أيسل خالد - أخويا الشق",
+          "channel": "Aysel Khaled",
+          "category_id": "10",
+          "views": "852133",
+          "likes": "10802",
+          "comments": "1001",
+          "published_at": "2026-11-12T14:00:08Z",
+          "url": "https://www.youtube.com/watch?v=JXdv8sH8o_s"
         },
         {
           "source": "youtube_trending_eg",
           "title": "29 سنة من GTA | رحلة في تاريخ السلسلة وجميع أجزائها (1997–2026)",
           "channel": "Omar Qany",
           "category_id": "24",
-          "views": "117581",
-          "likes": "6886",
-          "comments": "713",
+          "views": "155828",
+          "likes": "8256",
+          "comments": "794",
           "published_at": "2026-11-14T16:00:42Z",
           "url": "https://www.youtube.com/watch?v=qGLbz8jy_6A"
         },
@@ -198,20 +231,42 @@
           "title": "قلبي شايل ( اللي باعو وقعو مني خلاص وضاعو ) عصام صاصا و كيمو الديب - توزيع كيمو الديب Official Video",
           "channel": "كيمو الديب - kimo ElDeeb",
           "category_id": "10",
-          "views": "210563",
-          "likes": "4988",
-          "comments": "245",
+          "views": "243078",
+          "likes": "5260",
+          "comments": "248",
           "published_at": "2026-11-12T16:00:08Z",
           "url": "https://www.youtube.com/watch?v=mW9mtt09JzQ"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "جمعت 1,000,000 عملة عشان ألاقي المفتاح الهروب! 🔑😱",
+          "channel": "Mkamel GG",
+          "category_id": "20",
+          "views": "22819",
+          "likes": "1045",
+          "comments": "36",
+          "published_at": "2026-11-15T16:00:17Z",
+          "url": "https://www.youtube.com/watch?v=diye5lMJODc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "سوق الكلاب (الكل غاب) — VELXORA | فيديو كليب شعبي درامي 2026 (سوق الوشوش كله مغشوش)",
+          "channel": "VELXORA",
+          "category_id": "10",
+          "views": "24469",
+          "likes": "203",
+          "comments": "6",
+          "published_at": "2026-11-09T17:16:55Z",
+          "url": "https://www.youtube.com/watch?v=_jAN_eShRoo"
         },
         {
           "source": "youtube_trending_eg",
           "title": "بقيت المدرب الشخصي لمبابي لمدة ٣٦٥ يوم، و ده اللي حصل …",
           "channel": "B3shr - بشر",
           "category_id": "20",
-          "views": "88344",
-          "likes": "3457",
-          "comments": "86",
+          "views": "121138",
+          "likes": "4211",
+          "comments": "98",
           "published_at": "2026-11-14T14:00:09Z",
           "url": "https://www.youtube.com/watch?v=QSzfhELrw0M"
         },
@@ -220,131 +275,76 @@
           "title": "Odai Zagha ft. Mohammad Sultan - El Tayba Rahet Fein | الطيبة راحت فين (Official Lyric Video)",
           "channel": "Odai Zagha عدي زاغة",
           "category_id": "10",
-          "views": "103962",
-          "likes": "4613",
-          "comments": "386",
+          "views": "129262",
+          "likes": "5183",
+          "comments": "403",
           "published_at": "2026-11-13T16:00:24Z",
           "url": "https://www.youtube.com/watch?v=zwZCLaHqUHk"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اشتريت لعبة قراند | GTA 6 !! 😍😱",
+          "title": "النهاية ... 😭",
           "channel": "EstubeGaming",
           "category_id": "20",
-          "views": "66716",
-          "likes": "3867",
-          "comments": "243",
-          "published_at": "2026-11-14T18:30:04Z",
-          "url": "https://www.youtube.com/watch?v=uHJeWhL49rQ"
+          "views": "28272",
+          "likes": "2120",
+          "comments": "192",
+          "published_at": "2026-11-15T16:28:24Z",
+          "url": "https://www.youtube.com/watch?v=i5rG4JzGG14"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Wael Jassar🤍Ghariba El Nas🎧 وائل جسار❣غريبـــ💔ـــة النــــاس",
+          "channel": "Wael Jassar Fans l وائل جسار",
+          "category_id": "22",
+          "views": "44964",
+          "likes": "152",
+          "comments": "1",
+          "published_at": "2026-11-08T14:30:10Z",
+          "url": "https://www.youtube.com/watch?v=o4STqTpP8K8"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "جربت ارسين فينجر🤯مع تشكيلة ارسنال بين الماضي والحاضر🔥 |efootbal 2027",
+          "channel": "TONY GAMING",
+          "category_id": "20",
+          "views": "183694",
+          "likes": "14223",
+          "comments": "441",
+          "published_at": "2026-11-14T16:00:11Z",
+          "url": "https://www.youtube.com/watch?v=dlcr_CZ2R8w"
         },
         {
           "source": "youtube_trending_eg",
           "title": "كليب كداب ( احنا اللي لينا اسمنا ) ريشا كوستا - سماره ناو - احمد موزه - توزيع شيندي وخليل - 2026",
           "channel": "ريشا كوستا و سماره - Resha wi SamaRa",
           "category_id": "10",
-          "views": "64310",
-          "likes": "1478",
+          "views": "75471",
+          "likes": "1615",
           "comments": "62",
           "published_at": "2026-11-13T16:00:09Z",
           "url": "https://www.youtube.com/watch?v=cp23aLrslh8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "هل 854,740,1 طبق يقدر يوقف رصاصة في روبلوكس؟! 🔫🔥",
-          "channel": "Mkamel GG",
-          "category_id": "20",
-          "views": "33435",
-          "likes": "1718",
-          "comments": "69",
-          "published_at": "2026-11-14T15:45:15Z",
-          "url": "https://www.youtube.com/watch?v=NZ4hfLWc5Tg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "أنا ضهرك",
-          "channel": "Release - Topic",
-          "category_id": "10",
-          "views": "38304",
-          "likes": "329",
-          "comments": "0",
-          "published_at": "2026-11-11T13:00:56Z",
-          "url": "https://www.youtube.com/watch?v=Ac0Z5zHzFR4"
-        },
-        {
-          "source": "youtube_trending_eg",
           "title": "اشتريت سيارات واجهزه عملاقه علي سطح القمر في محاكي تنظيف القمر وصلت لمرحله متقدمه😱 | Moon Sweepers",
           "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "37596",
-          "likes": "2661",
-          "comments": "176",
+          "views": "56410",
+          "likes": "3261",
+          "comments": "201",
           "published_at": "2026-11-14T17:45:14Z",
           "url": "https://www.youtube.com/watch?v=xqBO3ehJgWo"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اللي كان من سنتين عيل ( اي كداب نفسو فيا ) مصطفي الجن و كريم كرستيانو - توزيع دولسي برودكشن",
-          "channel": "Mostafa Elgen - مصطفى الجن",
-          "category_id": "10",
-          "views": "35052",
-          "likes": "788",
-          "comments": "23",
-          "published_at": "2026-11-13T16:00:10Z",
-          "url": "https://www.youtube.com/watch?v=v3i7mDdB64c"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اصلانو ضحك على الابطال الخارقين !!",
-          "channel": "Mr Aslano",
-          "category_id": "20",
-          "views": "36844",
-          "likes": "342",
-          "comments": "7",
-          "published_at": "2026-11-14T09:48:12Z",
-          "url": "https://www.youtube.com/watch?v=gXA0y_zL4t0"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "سوق الكلاب (الكل غاب) — VELXORA | فيديو كليب شعبي درامي 2026 (سوق الوشوش كله مغشوش)",
-          "channel": "VELXORA",
-          "category_id": "10",
-          "views": "19260",
-          "likes": "177",
-          "comments": "6",
-          "published_at": "2026-11-09T17:16:55Z",
-          "url": "https://www.youtube.com/watch?v=_jAN_eShRoo"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اول تجربة لمود الشتاء.. لقيت MK !!💀🔥 | الدو الذهبي 😂🔥",
-          "channel": "LiveSa3dola ",
-          "category_id": "20",
-          "views": "38330",
-          "likes": "1660",
-          "comments": "24",
-          "published_at": "2026-11-14T16:00:12Z",
-          "url": "https://www.youtube.com/watch?v=N2exIdOnldY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Hamza Namira - Bakallem Nafsi [Official Lyrics Video] | حمزة نمرة - بكلم نفسي",
-          "channel": "Hamza Namira",
-          "category_id": "10",
-          "views": "230640",
-          "likes": "5796",
-          "comments": "456",
-          "published_at": "2026-11-12T17:00:11Z",
-          "url": "https://www.youtube.com/watch?v=iiA1XzjklDo"
         }
       ]
     },
     {
-      "collected_at": "2026-11-15T13:44:00.976856+00:00",
+      "collected_at": "2026-11-15T22:39:29.081003+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-11-15T13:44:01.253875+00:00",
+      "collected_at": "2026-11-15T22:39:29.545252+00:00",
       "platform": "tiktok",
       "items": []
     }
