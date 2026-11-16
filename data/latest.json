@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-11-16T05:44:39.062260+00:00",
+  "generated_at": "2026-11-16T15:19:38.000803+00:00",
   "platforms": [
     {
-      "collected_at": "2026-11-16T05:44:39.420221+00:00",
+      "collected_at": "2026-11-16T15:19:38.386878+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "مالاوي ضد مصر",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "إيران",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "نادي الزمالك",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سعر الذهب عالميا",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "أذكار الصباح",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "أخبار الزمالك",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "المجلس الأعلى لتنظيم الإعلام",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "محمد أبو تريكة",
+          "term": "اليوم السابع",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "دولار",
+          "term": "الصومال ضد غانا",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "carlos alcaraz",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "تصفيات كأس الأمم الإفريقية 2027",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "برج الثور",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "namibia vs cameroon",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ronaldinho ravenna",
           "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "حالة الطقس اليوم",
-          "traffic": "1000+"
+          "term": "سرطان",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "ناميبيا ضد الكاميرون",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "رون أراد",
+          "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-11-16T05:44:39.556706+00:00",
+      "collected_at": "2026-11-16T15:19:38.519186+00:00",
       "platform": "youtube",
       "items": [
         {
@@ -66,9 +66,9 @@
           "title": "Samira Said - Kebert w Khebt | Official Music Video | 2026 | سميرة سعيد - كبرت وخبت",
           "channel": "Samira Said",
           "category_id": "10",
-          "views": "96534",
-          "likes": "4619",
-          "comments": "802",
+          "views": "134816",
+          "likes": "5513",
+          "comments": "938",
           "published_at": "2026-11-15T15:25:51Z",
           "url": "https://www.youtube.com/watch?v=7I0wy60bf4w"
         },
@@ -77,9 +77,9 @@
           "title": "الإعلان التشويقي لفيلم #فرقة_الموت .. صيف ٢٠٢٧ في جميع السينمات",
           "channel": "UVFGroup",
           "category_id": "1",
-          "views": "73669",
-          "likes": "844",
-          "comments": "86",
+          "views": "79522",
+          "likes": "887",
+          "comments": "92",
           "published_at": "2026-11-14T12:20:03Z",
           "url": "https://www.youtube.com/watch?v=SxfBrGMOwhU"
         },
@@ -88,9 +88,9 @@
           "title": "لما تلعب انت وعيلتك PUBG MOBILE FLASH🔥⚡️ | سيف عماد",
           "channel": "SAIF EMAD",
           "category_id": "23",
-          "views": "72816",
-          "likes": "2596",
-          "comments": "111",
+          "views": "93516",
+          "likes": "3089",
+          "comments": "128",
           "published_at": "2026-11-15T14:00:25Z",
           "url": "https://www.youtube.com/watch?v=saI-5VW9NjY"
         },
@@ -99,9 +99,9 @@
           "title": "هيفرد جناحو هقصقصه ( لو خلص بنزين افولو _ لو سستمك هنج) حمو المرشدي _ حبيبي يا مستمع",
           "channel": "Karizma ELMorshdy",
           "category_id": "22",
-          "views": "65307",
-          "likes": "1850",
-          "comments": "94",
+          "views": "86106",
+          "likes": "2245",
+          "comments": "105",
           "published_at": "2026-11-15T09:42:55Z",
           "url": "https://www.youtube.com/watch?v=sRhdD_ljG1w"
         },
@@ -110,9 +110,9 @@
           "title": "اتجوزت ذئبة | Family Time",
           "channel": "Moham OverKill",
           "category_id": "20",
-          "views": "94974",
-          "likes": "7148",
-          "comments": "1234",
+          "views": "144484",
+          "likes": "9215",
+          "comments": "1461",
           "published_at": "2026-11-15T15:00:17Z",
           "url": "https://www.youtube.com/watch?v=Td-rFT36asQ"
         },
@@ -121,9 +121,9 @@
           "title": "Mohammed Saeed - Sa’at | محمد سعيد - ساعات",
           "channel": "Mohammed Saeed - محمد سعيد",
           "category_id": "10",
-          "views": "5887",
-          "likes": "618",
-          "comments": "75",
+          "views": "13916",
+          "likes": "968",
+          "comments": "95",
           "published_at": "2026-11-15T22:19:07Z",
           "url": "https://www.youtube.com/watch?v=CjjntbooFEc"
         },
@@ -132,9 +132,9 @@
           "title": "المستفز | كماين ستريم سنايب | ببجى موبايل",
           "channel": "مستفز / Mostafz",
           "category_id": "20",
-          "views": "202032",
-          "likes": "14011",
-          "comments": "874",
+          "views": "226397",
+          "likes": "14997",
+          "comments": "909",
           "published_at": "2026-11-14T20:20:18Z",
           "url": "https://www.youtube.com/watch?v=abApv0GbAZw"
         },
@@ -143,9 +143,9 @@
           "title": "محكمه غربان ( الجدع محطوط هناك بيموت ) حمو بيكا و نور التوت 2026 | توزيع فيجو الدخلاوي 2026",
           "channel": "Hamo Bika - حمو بيكا",
           "category_id": "10",
-          "views": "17478",
-          "likes": "627",
-          "comments": "74",
+          "views": "25462",
+          "likes": "773",
+          "comments": "92",
           "published_at": "2026-11-15T16:00:10Z",
           "url": "https://www.youtube.com/watch?v=OtTWIptKOY8"
         },
@@ -154,9 +154,9 @@
           "title": "جبت 5 لاعبين خارقين 129 في بداية حدث نجوم الشارع",
           "channel": "Abdo 2xd",
           "category_id": "20",
-          "views": "515419",
-          "likes": "37512",
-          "comments": "1022",
+          "views": "557486",
+          "likes": "39375",
+          "comments": "1061",
           "published_at": "2026-11-14T12:44:03Z",
           "url": "https://www.youtube.com/watch?v=cuv8UHdlZco"
         },
@@ -165,9 +165,9 @@
           "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
           "channel": "idk",
           "category_id": "10",
-          "views": "2404888",
-          "likes": "109457",
-          "comments": "5800",
+          "views": "2721676",
+          "likes": "117540",
+          "comments": "6055",
           "published_at": "2026-11-13T05:00:03Z",
           "url": "https://www.youtube.com/watch?v=zT104EktdOc"
         },
@@ -176,9 +176,9 @@
           "title": "حاولت أهرب من أختي المسكونة 😰 | Matilda 👻",
           "channel": "Esraa Gaming ",
           "category_id": "22",
-          "views": "760115",
-          "likes": "18218",
-          "comments": "3573",
+          "views": "806597",
+          "likes": "18805",
+          "comments": "3665",
           "published_at": "2026-11-13T14:06:51Z",
           "url": "https://www.youtube.com/watch?v=yeN-9ZnwoCE"
         },
@@ -187,20 +187,42 @@
           "title": "Ana Bahbak",
           "channel": "Assala Nasri - Topic",
           "category_id": "10",
-          "views": "159974",
-          "likes": "3291",
-          "comments": "189",
+          "views": "192342",
+          "likes": "3707",
+          "comments": "206",
           "published_at": "2026-11-13T21:36:54Z",
           "url": "https://www.youtube.com/watch?v=Lflj0opJY9Q"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "جمعت 1,000,000 عملة عشان ألاقي المفتاح الهروب! 🔑😱",
+          "channel": "Mkamel GG",
+          "category_id": "20",
+          "views": "40235",
+          "likes": "1548",
+          "comments": "44",
+          "published_at": "2026-11-15T16:00:17Z",
+          "url": "https://www.youtube.com/watch?v=diye5lMJODc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Wael Jassar🤍Ghariba El Nas🎧 وائل جسار❣غريبـــ💔ـــة النــــاس",
+          "channel": "Wael Jassar Fans l وائل جسار",
+          "category_id": "22",
+          "views": "66483",
+          "likes": "226",
+          "comments": "5",
+          "published_at": "2026-11-08T14:30:10Z",
+          "url": "https://www.youtube.com/watch?v=o4STqTpP8K8"
         },
         {
           "source": "youtube_trending_eg",
           "title": "النهاية ... 😭",
           "channel": "EstubeGaming",
           "category_id": "20",
-          "views": "44256",
-          "likes": "2571",
-          "comments": "215",
+          "views": "79152",
+          "likes": "3837",
+          "comments": "261",
           "published_at": "2026-11-15T16:28:24Z",
           "url": "https://www.youtube.com/watch?v=i5rG4JzGG14"
         },
@@ -209,142 +231,120 @@
           "title": "Aysel Khaled - Akhoya El She2 | أيسل خالد - أخويا الشق",
           "channel": "Aysel Khaled",
           "category_id": "10",
-          "views": "873084",
-          "likes": "10909",
-          "comments": "1006",
+          "views": "962922",
+          "likes": "11275",
+          "comments": "1016",
           "published_at": "2026-11-12T14:00:08Z",
           "url": "https://www.youtube.com/watch?v=JXdv8sH8o_s"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اصلانو فتح فندق تحت البحر !!",
-          "channel": "Aslano",
-          "category_id": "20",
-          "views": "20851",
-          "likes": "583",
-          "comments": "4",
-          "published_at": "2026-11-15T14:44:36Z",
-          "url": "https://www.youtube.com/watch?v=VehLlDs1mJA"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "قلبي شايل ( اللي باعو وقعو مني خلاص وضاعو ) عصام صاصا و كيمو الديب - توزيع كيمو الديب Official Video",
-          "channel": "كيمو الديب - kimo ElDeeb",
-          "category_id": "10",
-          "views": "254219",
-          "likes": "5342",
-          "comments": "248",
-          "published_at": "2026-11-12T16:00:08Z",
-          "url": "https://www.youtube.com/watch?v=mW9mtt09JzQ"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "29 سنة من GTA | رحلة في تاريخ السلسلة وجميع أجزائها (1997–2026)",
-          "channel": "Omar Qany",
-          "category_id": "24",
-          "views": "176409",
-          "likes": "8747",
-          "comments": "812",
-          "published_at": "2026-11-14T16:00:42Z",
-          "url": "https://www.youtube.com/watch?v=qGLbz8jy_6A"
+          "title": "كونامي هتخرب اللعبة بالمهارات الجديدة 🔥🤯 تسريبات خطيرة واستعد للقادم !!😱|efootball 2027",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "24008",
+          "likes": "3563",
+          "comments": "148",
+          "published_at": "2026-11-16T12:28:38Z",
+          "url": "https://www.youtube.com/watch?v=dUxhR-cLobI"
         },
         {
           "source": "youtube_trending_eg",
           "title": "سوق الكلاب (الكل غاب) — VELXORA | فيديو كليب شعبي درامي 2026 (سوق الوشوش كله مغشوش)",
           "channel": "VELXORA",
           "category_id": "10",
-          "views": "26456",
-          "likes": "208",
+          "views": "29956",
+          "likes": "222",
           "comments": "6",
           "published_at": "2026-11-09T17:16:55Z",
           "url": "https://www.youtube.com/watch?v=_jAN_eShRoo"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "جمعت 1,000,000 عملة عشان ألاقي المفتاح الهروب! 🔑😱",
-          "channel": "Mkamel GG",
+          "title": "خرطوم ينتقل لي عالم اخر | اليوم (33) من السباثون",
+          "channel": "خرطوم و دوشا",
           "category_id": "20",
-          "views": "27709",
-          "likes": "1139",
-          "comments": "39",
-          "published_at": "2026-11-15T16:00:17Z",
-          "url": "https://www.youtube.com/watch?v=diye5lMJODc"
+          "views": "8366",
+          "likes": "431",
+          "comments": "18",
+          "published_at": "2026-11-16T02:51:51Z",
+          "url": "https://www.youtube.com/watch?v=Rt5yY5Wu1S4"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "قلبي شايل ( اللي باعو وقعو مني خلاص وضاعو ) عصام صاصا و كيمو الديب - توزيع كيمو الديب Official Video",
+          "channel": "كيمو الديب - kimo ElDeeb",
+          "category_id": "10",
+          "views": "271221",
+          "likes": "5502",
+          "comments": "249",
+          "published_at": "2026-11-12T16:00:08Z",
+          "url": "https://www.youtube.com/watch?v=mW9mtt09JzQ"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اصلانو يلعب مع الديناصورات في لعبة GTA 5!",
+          "channel": "Ahmed Aslan",
+          "category_id": "20",
+          "views": "26165",
+          "likes": "341",
+          "comments": "6",
+          "published_at": "2026-11-15T16:07:50Z",
+          "url": "https://www.youtube.com/watch?v=bFxrQQ5XM9E"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Odai Zagha ft. Mohammad Sultan - El Tayba Rahet Fein | الطيبة راحت فين (Official Lyric Video)",
           "channel": "Odai Zagha عدي زاغة",
           "category_id": "10",
-          "views": "138024",
-          "likes": "5340",
-          "comments": "409",
+          "views": "149634",
+          "likes": "5571",
+          "comments": "420",
           "published_at": "2026-11-13T16:00:24Z",
           "url": "https://www.youtube.com/watch?v=zwZCLaHqUHk"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "بقيت المدرب الشخصي لمبابي لمدة ٣٦٥ يوم، و ده اللي حصل …",
-          "channel": "B3shr - بشر",
-          "category_id": "20",
-          "views": "130587",
-          "likes": "4370",
-          "comments": "99",
-          "published_at": "2026-11-14T14:00:09Z",
-          "url": "https://www.youtube.com/watch?v=QSzfhELrw0M"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Wael Jassar🤍Ghariba El Nas🎧 وائل جسار❣غريبـــ💔ـــة النــــاس",
-          "channel": "Wael Jassar Fans l وائل جسار",
-          "category_id": "22",
-          "views": "50120",
-          "likes": "169",
-          "comments": "2",
-          "published_at": "2026-11-08T14:30:10Z",
-          "url": "https://www.youtube.com/watch?v=o4STqTpP8K8"
         },
         {
           "source": "youtube_trending_eg",
           "title": "اتحاصرت من 1000 لاعب في ماين كرافت !",
           "channel": "Algazal",
           "category_id": "20",
-          "views": "105559",
-          "likes": "7737",
-          "comments": "1030",
+          "views": "183110",
+          "likes": "10433",
+          "comments": "1154",
           "published_at": "2026-11-15T17:23:31Z",
           "url": "https://www.youtube.com/watch?v=VYlcrh_zS0E"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كليب كداب ( احنا اللي لينا اسمنا ) ريشا كوستا - سماره ناو - احمد موزه - توزيع شيندي وخليل - 2026",
-          "channel": "ريشا كوستا و سماره - Resha wi SamaRa",
+          "title": "TXT (투모로우바이투게더) 'Angel Bite' Official MV",
+          "channel": "HYBE LABELS",
           "category_id": "10",
-          "views": "80056",
-          "likes": "1676",
-          "comments": "62",
-          "published_at": "2026-11-13T16:00:09Z",
-          "url": "https://www.youtube.com/watch?v=cp23aLrslh8"
+          "views": "890716",
+          "likes": "141555",
+          "comments": "12681",
+          "published_at": "2026-11-16T08:58:08Z",
+          "url": "https://www.youtube.com/watch?v=M9G4guYg-i8"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اللعب بجميع الديناصورات في لعبة GTA 5!",
-          "channel": "Ahmed Aslan",
+          "title": "اصلانو فتح فندق تحت البحر !!",
+          "channel": "Aslano",
           "category_id": "20",
-          "views": "15500",
-          "likes": "214",
+          "views": "30021",
+          "likes": "853",
           "comments": "5",
-          "published_at": "2026-11-15T16:07:50Z",
-          "url": "https://www.youtube.com/watch?v=bFxrQQ5XM9E"
+          "published_at": "2026-11-15T14:44:36Z",
+          "url": "https://www.youtube.com/watch?v=VehLlDs1mJA"
         }
       ]
     },
     {
-      "collected_at": "2026-11-16T05:44:39.557153+00:00",
+      "collected_at": "2026-11-16T15:19:38.519942+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-11-16T05:44:40.038512+00:00",
+      "collected_at": "2026-11-16T15:19:38.889348+00:00",
       "platform": "tiktok",
       "items": []
     }
