@@ -1,73 +1,106 @@
 {
-  "generated_at": "2026-11-18T15:25:19.362953+00:00",
+  "generated_at": "2026-11-19T00:05:01.325647+00:00",
   "platforms": [
     {
-      "collected_at": "2026-11-18T15:25:19.651249+00:00",
+      "collected_at": "2026-11-19T00:05:01.511013+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "الجونة ضد الاتحاد السكندري",
+          "term": "الرئيسية",
           "traffic": "2000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مجلس الوزراء",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "سعر الذهب الان في مصر",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "carlos alcaraz",
-          "traffic": "100+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "أحمد عز",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "محمد إمام",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "شيرين عبدالوهاب",
-          "traffic": "1000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "رئيس وزراء التشيك",
+          "term": "عايدة غنيم",
           "traffic": "500+"
         },
         {
           "source": "google_trends_rss",
-          "term": "جنسن هوانغ انفيديا",
-          "traffic": "200+"
+          "term": "حسن يوسف",
+          "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "anne hathaway",
+          "term": "الفنانة شيرين عبد الوهاب",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "atp finals",
           "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الخميس اجازة رسمية",
+          "traffic": "2000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "أحمد مظهر",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "جواو كانسيلو",
+          "traffic": "1000+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "playstation",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "real madrid vs inter",
+          "traffic": "500+"
         }
       ]
     },
     {
-      "collected_at": "2026-11-18T15:25:19.768132+00:00",
+      "collected_at": "2026-11-19T00:05:01.645123+00:00",
       "platform": "youtube",
       "items": [
         {
           "source": "youtube_trending_eg",
-          "title": "بتشبه عليا",
-          "channel": "Versus Music - Topic",
+          "title": "Houda - Awadny (Official Video 2026) | حوده - عوضني",
+          "channel": "Houda",
           "category_id": "10",
-          "views": "9201",
-          "likes": "108",
+          "views": "63819",
+          "likes": "2883",
+          "comments": "179",
+          "published_at": "2026-11-18T15:10:08Z",
+          "url": "https://www.youtube.com/watch?v=wlohZ7APgBM"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Avengers: Doomsday | The Return | In Theaters December 18",
+          "channel": "Marvel Entertainment",
+          "category_id": "24",
+          "views": "3874439",
+          "likes": "97549",
+          "comments": "5548",
+          "published_at": "2026-11-18T17:00:01Z",
+          "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اخيرا قراند 6 | GTA 6 !! 😭",
+          "channel": "EstubeGaming",
+          "category_id": "20",
+          "views": "113058",
+          "likes": "4772",
+          "comments": "282",
+          "published_at": "2026-11-18T15:56:50Z",
+          "url": "https://www.youtube.com/watch?v=F0BFM9Wzyfo"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "بتشبه عليا",
+          "channel": "Release - Topic",
+          "category_id": "10",
+          "views": "34372",
+          "likes": "254",
           "comments": "2",
           "published_at": "2026-11-18T10:17:56Z",
           "url": "https://www.youtube.com/watch?v=0cH4sLKYdEM"
@@ -77,274 +110,241 @@
           "title": "Avengers: Doomsday | TV SPOT “DARKNESS” CONCEPT | Marvel Studios",
           "channel": "MovieTrailers Entertainment",
           "category_id": "24",
-          "views": "1806990",
-          "likes": "14012",
-          "comments": "248",
+          "views": "2138608",
+          "likes": "15792",
+          "comments": "267",
           "published_at": "2026-11-17T14:30:15Z",
           "url": "https://www.youtube.com/watch?v=z59xy3GvSrk"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "بعد 13 سنة من الانتظار... أخيراً راح نلعب GTA 6🔥!",
-          "channel": "4by4gaming",
+          "title": "Grand Theft Auto VI (4K) 🤩 أول تجربة للعبة و مترجم بالعربي",
+          "channel": "GAMER SNACK | جيمر سناك",
           "category_id": "20",
-          "views": "713650",
-          "likes": "15852",
-          "comments": "217",
-          "published_at": "2026-11-18T13:49:28Z",
-          "url": "https://www.youtube.com/watch?v=8hxifztKRtE"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Fadel Chaker - Omrya El Bagi | فضل شاكر - عمري الباقي (حصريا من ألبوم حلم جديد) | 2026",
-          "channel": "Fadel Chaker",
-          "category_id": "10",
-          "views": "1456329",
-          "likes": "22980",
-          "comments": "3212",
-          "published_at": "2026-11-17T15:00:11Z",
-          "url": "https://www.youtube.com/watch?v=mI6Ovgi9IGg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "iSHOWSPEED x GTA 6 | OFFICIAL TRAILER",
-          "channel": "IShowSpeed",
-          "category_id": "20",
-          "views": "2950008",
-          "likes": "81327",
-          "comments": "3283",
-          "published_at": "2026-11-16T22:44:43Z",
-          "url": "https://www.youtube.com/watch?v=2BRL4ALMCyA"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "من الصفر #11 صرفت التحويشة عشان اطور الفريق !! 🤯🔥 هل يبتسم الحظ اخيراً ؟ 🤔☠️ || eFootball 27",
-          "channel": "OKATO GO",
-          "category_id": "20",
-          "views": "162389",
-          "likes": "11782",
-          "comments": "257",
-          "published_at": "2026-11-17T16:02:05Z",
-          "url": "https://www.youtube.com/watch?v=owAQcpdYxEc"
+          "views": "1411858",
+          "likes": "22704",
+          "comments": "479",
+          "published_at": "2026-11-18T14:51:04Z",
+          "url": "https://www.youtube.com/watch?v=J_GK53E9gZo"
         },
         {
           "source": "youtube_trending_eg",
           "title": "شوفت يا قلبي اختياراتنا؟ شوفت انا وانت اتمرمطنا | السلطان وياسين محسن | Official Video Clip 2026",
           "channel": "السلطان",
           "category_id": "10",
-          "views": "12857",
-          "likes": "178",
-          "comments": "3",
+          "views": "40987",
+          "likes": "428",
+          "comments": "8",
           "published_at": "2026-11-18T06:35:49Z",
           "url": "https://www.youtube.com/watch?v=EXs6ekpYqBU"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "iSHOWSPEED x GTA 6 | OFFICIAL TRAILER",
+          "channel": "IShowSpeed",
+          "category_id": "20",
+          "views": "3334570",
+          "likes": "83618",
+          "comments": "3347",
+          "published_at": "2026-11-16T22:44:43Z",
+          "url": "https://www.youtube.com/watch?v=2BRL4ALMCyA"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "وأخيراً أول تجربة ل GTA VI || ايه الجنان دا !!",
+          "channel": "Omardizer | عمرديزر",
+          "category_id": "28",
+          "views": "141235",
+          "likes": "3925",
+          "comments": "227",
+          "published_at": "2026-11-18T15:12:24Z",
+          "url": "https://www.youtube.com/watch?v=0xElG_FNgnc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "العيون العسليه - el3ion el3slya - حمو المرشدي - توزيع : احمد النص - حصرياً 2027",
+          "channel": "Hamo ELMorshdy - حمو المرشدي",
+          "category_id": "10",
+          "views": "79014",
+          "likes": "2564",
+          "comments": "335",
+          "published_at": "2026-11-18T11:30:10Z",
+          "url": "https://www.youtube.com/watch?v=nfVNo_LfYYA"
         },
         {
           "source": "youtube_trending_eg",
           "title": "الإعلان التشويقي لفيلم #فرقة_الموت .. صيف ٢٠٢٧ في جميع السينمات",
           "channel": "UVFGroup",
           "category_id": "1",
-          "views": "104311",
-          "likes": "1038",
-          "comments": "102",
+          "views": "108588",
+          "likes": "1054",
+          "comments": "103",
           "published_at": "2026-11-14T12:20:03Z",
           "url": "https://www.youtube.com/watch?v=SxfBrGMOwhU"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "الفيديو دة هيتمسح بعد ما تشوفة😱⚠️",
-          "channel": "HikaSIU",
+          "title": "الإطلاق الرسمي للعبة جي تي أي 6 (بث مباشر)",
+          "channel": "YassPlays",
           "category_id": "20",
-          "views": "42412",
-          "likes": "4775",
-          "comments": "219",
-          "published_at": "2026-11-18T11:04:33Z",
-          "url": "https://www.youtube.com/watch?v=7jL6IBz0Vaw"
+          "views": "1610113",
+          "likes": "56326",
+          "comments": "1071",
+          "published_at": "2026-11-18T16:07:15Z",
+          "url": "https://www.youtube.com/watch?v=UK_2X-lc6uw"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "تملي وان - always one - بعيد عنك راجل من صغري - حمو المرشدي -  توزيع : حمو التيفا - حصرياً 2027",
-          "channel": "Hamo ELMorshdy - حمو المرشدي",
+          "title": "Fadel Chaker - Omrya El Bagi | فضل شاكر - عمري الباقي (حصريا من ألبوم حلم جديد) | 2026",
+          "channel": "Fadel Chaker",
           "category_id": "10",
-          "views": "70286",
-          "likes": "1697",
-          "comments": "217",
-          "published_at": "2026-11-17T15:00:08Z",
-          "url": "https://www.youtube.com/watch?v=hJDp-PAi3Jw"
+          "views": "2308380",
+          "likes": "25876",
+          "comments": "3512",
+          "published_at": "2026-11-17T15:00:11Z",
+          "url": "https://www.youtube.com/watch?v=mI6Ovgi9IGg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "GTA 6 MARATHON | Official Trailer",
-          "channel": "Kai Cenat Live",
-          "category_id": "22",
-          "views": "2423198",
-          "likes": "73980",
-          "comments": "3849",
-          "published_at": "2026-11-16T20:33:01Z",
-          "url": "https://www.youtube.com/watch?v=_AY5krZErfg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "حظ أسطوري في بكدج الأسلحة القديمة  بالإسبوع الإلكتروني 127,150 ألف شدة 😱🔥 | PUBG MOBILE",
-          "channel": "LiveSa3dola ",
+          "title": "السفر الطويل مع اتوبيس السجن !!",
+          "channel": "Aslano",
           "category_id": "20",
-          "views": "67409",
-          "likes": "2113",
-          "comments": "32",
-          "published_at": "2026-11-17T14:00:33Z",
-          "url": "https://www.youtube.com/watch?v=WDx9oZ7FOgQ"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "لسه في جمدان ( لا مفيش موضوع ده كان جربوع ) حسن شاكوش و عمر كمال - توزيع يوسف اوشا Official Video",
-          "channel": "حسن شاكوش - Hassan Shakosh",
-          "category_id": "10",
-          "views": "34234",
-          "likes": "1218",
-          "comments": "98",
-          "published_at": "2026-11-17T17:00:10Z",
-          "url": "https://www.youtube.com/watch?v=SKBVGZ3cFNk"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "بكل وقاحة : تاريخ Rockstar حتى GTA VI",
-          "channel": "The Kareka",
-          "category_id": "20",
-          "views": "89600",
-          "likes": "4937",
-          "comments": "367",
-          "published_at": "2026-11-17T17:00:04Z",
-          "url": "https://www.youtube.com/watch?v=D5yFq69xWsI"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اسد هيموتو علي وقعتي ( كارف مانا واجهة وانت بعينك شايف ) مصطفي الجن و هادي الصغير - توزيع دولسي",
-          "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
-          "category_id": "10",
-          "views": "19329",
-          "likes": "509",
-          "comments": "17",
-          "published_at": "2026-11-17T16:00:07Z",
-          "url": "https://www.youtube.com/watch?v=2SYUVaG4dnc"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "من الصفر #14 جربت حظي علي بكج الغزال هنري🤯الحظ كان مررعب🔥|efootball 2027",
-          "channel": "كابتن ماجد Gaming",
-          "category_id": "20",
-          "views": "98389",
-          "likes": "11225",
-          "comments": "501",
-          "published_at": "2026-11-17T14:15:38Z",
-          "url": "https://www.youtube.com/watch?v=32xKfl61AFw"
+          "views": "30508",
+          "likes": "587",
+          "comments": "2",
+          "published_at": "2026-11-18T13:16:03Z",
+          "url": "https://www.youtube.com/watch?v=CuUDaAOOv9w"
         },
         {
           "source": "youtube_trending_eg",
           "title": "يا حبيبنا | ريدبُل مزيكا صالونات",
           "channel": "Red Bull Sika - Topic",
           "category_id": "10",
-          "views": "4976",
-          "likes": "34",
+          "views": "20692",
+          "likes": "115",
           "comments": "0",
           "published_at": "2026-11-17T15:50:54Z",
           "url": "https://www.youtube.com/watch?v=PuHdEG02NSY"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "وداعًا GTA 5! آخر مغامرة مع مايكل وتريفور قبل بداية GTA 6 😢🔥",
-          "channel": "Ahmed Aslan",
+          "title": "كونامي هتوزع مكافأت غدا بمناسبة فوزها🔥🤯 اضافات وهدايا وبكجات يوم الخميس !!😱|efootball 2027",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "125225",
+          "likes": "8625",
+          "comments": "281",
+          "published_at": "2026-11-18T13:13:15Z",
+          "url": "https://www.youtube.com/watch?v=ATLTlhcHyEY"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اسد هيموتو علي وقعتي ( كارف مانا واجهة وانت بعينك شايف ) مصطفي الجن و هادي الصغير - توزيع دولسي",
+          "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
+          "category_id": "10",
+          "views": "28761",
+          "likes": "604",
+          "comments": "18",
+          "published_at": "2026-11-17T16:00:07Z",
+          "url": "https://www.youtube.com/watch?v=2SYUVaG4dnc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "عبده ماندو بيختم لعبه GTA 6 تعالو بسرعه نكتشف اللعبه مع بعض  - GTA 6",
+          "channel": "Abdo Mando - عبده ماندو",
           "category_id": "20",
-          "views": "71984",
-          "likes": "2893",
-          "comments": "29",
-          "published_at": "2026-11-17T13:47:29Z",
-          "url": "https://www.youtube.com/watch?v=b928urKeWUM"
+          "views": "76689",
+          "likes": "5239",
+          "comments": "407",
+          "published_at": "2026-11-18T14:03:05Z",
+          "url": "https://www.youtube.com/watch?v=95WUIV1c4tA"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "لسه في جمدان ( لا مفيش موضوع ده كان جربوع ) حسن شاكوش و عمر كمال - توزيع يوسف اوشا Official Video",
+          "channel": "حسن شاكوش - Hassan Shakosh",
+          "category_id": "10",
+          "views": "47014",
+          "likes": "1457",
+          "comments": "109",
+          "published_at": "2026-11-17T17:00:10Z",
+          "url": "https://www.youtube.com/watch?v=SKBVGZ3cFNk"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "جربت GTA 6 لأول مرة... وانصدمت!",
+          "channel": "Abdullah Reviews",
+          "category_id": "20",
+          "views": "394206",
+          "likes": "15035",
+          "comments": "731",
+          "published_at": "2026-11-18T17:00:07Z",
+          "url": "https://www.youtube.com/watch?v=lKBg5_Fkefc"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Mohamed Adaweya - Fe Qesto | محمد عدوية - في قصته",
+          "channel": "Mohamed Adaweya - محمد عدوية",
+          "category_id": "22",
+          "views": "14091",
+          "likes": "639",
+          "comments": "76",
+          "published_at": "2026-11-18T16:00:08Z",
+          "url": "https://www.youtube.com/watch?v=XsxUvqM38kA"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "🔴 LIVE! - GTA 6 EARLY ACCESS! FREE ROAM GAMEPLAY LIVE! (PS5 PRO)",
+          "channel": "Typical Gamer",
+          "category_id": "20",
+          "views": "6833933",
+          "likes": "62231",
+          "comments": "342",
+          "published_at": "2026-11-18T19:56:16Z",
+          "url": "https://www.youtube.com/watch?v=3QjXNSf6keg"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Ahmed Saad - Tayreen | Official Music Video - 2026 | احمد سعد - طايرين",
+          "channel": "Ahmed Saad",
+          "category_id": "10",
+          "views": "32650",
+          "likes": "871",
+          "comments": "67",
+          "published_at": "2026-11-18T15:00:09Z",
+          "url": "https://www.youtube.com/watch?v=Ne2wVdmsvCA"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "وداعية جراند مع الدووووو 😂 | GTA V",
+          "channel": "A L 3 G O Z",
+          "category_id": "20",
+          "views": "42063",
+          "likes": "3150",
+          "comments": "225",
+          "published_at": "2026-11-18T17:42:06Z",
+          "url": "https://www.youtube.com/watch?v=Cb7kk-W6JVA"
         },
         {
           "source": "youtube_trending_eg",
           "title": "بخ انا جيتلك فينك بقا",
           "channel": "Eslam Kabonga - Topic",
           "category_id": "10",
-          "views": "27087",
-          "likes": "642",
-          "comments": "15",
+          "views": "38752",
+          "likes": "836",
+          "comments": "18",
           "published_at": "2026-11-16T16:21:08Z",
           "url": "https://www.youtube.com/watch?v=Wh5J1BMZE40"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "ختمت جميع الاجهزه والروبوتات في لعبه محاكي القمر يارجاله علشان خاطركو 😱 | Moon Sweepers",
-          "channel": "Abdo Mando - عبده ماندو",
-          "category_id": "20",
-          "views": "30969",
-          "likes": "1807",
-          "comments": "105",
-          "published_at": "2026-11-17T19:00:22Z",
-          "url": "https://www.youtube.com/watch?v=89-PJueb1Do"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Assala - Ana Bahbak | Official Music Video 2026 | أصالة - أنا بحبك",
-          "channel": "Assala Nasri",
-          "category_id": "10",
-          "views": "297535",
-          "likes": "4679",
-          "comments": "436",
-          "published_at": "2026-11-16T13:33:24Z",
-          "url": "https://www.youtube.com/watch?v=6zwBnzstdJg"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Suzy Says | ✨سوزي بتقول: يلا نلعب✨",
-          "channel": "MeowlyVA",
-          "category_id": "24",
-          "views": "100621",
-          "likes": "3226",
-          "comments": "430",
-          "published_at": "2026-11-17T11:45:07Z",
-          "url": "https://www.youtube.com/watch?v=EeiANjbjnXQ"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اسلام كابونجا - اشاور تجيلي - جامد واد مودي ( مشاغب وراعب ) [ 2026 ] Eslam Kabonga - Official Audio",
-          "channel": "اسلام كابونجا - الدبابه",
-          "category_id": "10",
-          "views": "152439",
-          "likes": "2624",
-          "comments": "192",
-          "published_at": "2026-11-15T14:58:53Z",
-          "url": "https://www.youtube.com/watch?v=DqiVHrmJODM"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "تسلقت أخطر برج وسرقت أقوى الحيوانات في روبلوكس!! 🤣🥚 - Roblox",
-          "channel": "Mkamel GG",
-          "category_id": "20",
-          "views": "44054",
-          "likes": "1483",
-          "comments": "47",
-          "published_at": "2026-11-17T15:00:26Z",
-          "url": "https://www.youtube.com/watch?v=cUjlRgoOPN4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Samira Said - Kebert w Khebt | Official Music Video | 2026 | سميرة سعيد - كبرت وخبت",
-          "channel": "Samira Said",
-          "category_id": "10",
-          "views": "325441",
-          "likes": "8318",
-          "comments": "1284",
-          "published_at": "2026-11-15T15:25:51Z",
-          "url": "https://www.youtube.com/watch?v=7I0wy60bf4w"
         }
       ]
     },
     {
-      "collected_at": "2026-11-18T15:25:19.769021+00:00",
+      "collected_at": "2026-11-19T00:05:01.645939+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-11-18T15:25:20.074991+00:00",
+      "collected_at": "2026-11-19T00:05:02.075818+00:00",
       "platform": "tiktok",
       "items": []
     }
