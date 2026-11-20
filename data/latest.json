@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-11-20T00:27:48.677113+00:00",
+  "generated_at": "2026-11-20T15:09:02.000615+00:00",
   "platforms": [
     {
-      "collected_at": "2026-11-20T00:27:49.043756+00:00",
+      "collected_at": "2026-11-20T15:09:02.386101+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "المجلس القومي للأجور",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "microsoft",
+          "term": "تامر هجرس",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "twitch",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "pif tower riyadh",
+          "term": "دوري الأمم الأوروبية",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "riot",
-          "traffic": "2000+"
+          "term": "كهرباء الإسماعيلية ضد سيراميكا كليوباترا",
+          "traffic": "1000+"
         },
         {
           "source": "google_trends_rss",
-          "term": "الجوهري",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "netflix",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "tradingview",
+          "term": "carlos alcaraz",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "google",
-          "traffic": "2000+"
+          "term": "مرتضى منصور",
+          "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "epic games",
+          "term": "السد ضد لوسيل",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "the hunger games",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "موعد مباراه الاهلي و بيراميدز",
+          "traffic": "100+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "سوق مالية",
+          "traffic": "500+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "تهريب",
           "traffic": "200+"
         }
       ]
     },
     {
-      "collected_at": "2026-11-20T00:27:49.163857+00:00",
+      "collected_at": "2026-11-20T15:09:02.483130+00:00",
       "platform": "youtube",
       "items": [
         {
           "source": "youtube_trending_eg",
-          "title": "Sebeeny",
-          "channel": "TUL8TE - Topic",
+          "title": "TUL8TE - Sebeeny I تووليت - سيبيني (Official Music Video)",
+          "channel": "TUL8TE",
           "category_id": "10",
-          "views": "196018",
-          "likes": "8713",
-          "comments": "800",
-          "published_at": "2026-11-18T10:00:27Z",
-          "url": "https://www.youtube.com/watch?v=lf2ZJOmc_Gg"
+          "views": "144553",
+          "likes": "8048",
+          "comments": "1121",
+          "published_at": "2026-11-19T23:44:02Z",
+          "url": "https://www.youtube.com/watch?v=BFCwE6lahNk"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Avengers: Doomsday | The Return | In Theaters December 18",
           "channel": "Marvel Entertainment",
           "category_id": "24",
-          "views": "6936833",
-          "likes": "134373",
-          "comments": "6373",
+          "views": "7447042",
+          "likes": "138414",
+          "comments": "6487",
           "published_at": "2026-11-18T17:00:01Z",
           "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU"
         },
@@ -88,9 +88,9 @@
           "title": "وصلت 133 في بداية مجنونة لحدث رايفلز",
           "channel": "Abdo 2xd",
           "category_id": "20",
-          "views": "543597",
-          "likes": "35585",
-          "comments": "820",
+          "views": "739034",
+          "likes": "43415",
+          "comments": "951",
           "published_at": "2026-11-19T11:50:45Z",
           "url": "https://www.youtube.com/watch?v=QkT86iYJyJQ"
         },
@@ -99,252 +99,241 @@
           "title": "Houda - Bate2y Sharak (Official Video 2026) | حوده - بتقي شرك",
           "channel": "Houda",
           "category_id": "10",
-          "views": "188010",
-          "likes": "5672",
-          "comments": "245",
+          "views": "218507",
+          "likes": "6228",
+          "comments": "259",
           "published_at": "2026-11-18T15:15:06Z",
           "url": "https://www.youtube.com/watch?v=mzxmGFQ1tFA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Avengers: Doomsday | TV SPOT “DARKNESS” CONCEPT | Marvel Studios",
-          "channel": "MovieTrailers Entertainment",
-          "category_id": "24",
-          "views": "2330556",
-          "likes": "16894",
-          "comments": "282",
-          "published_at": "2026-11-17T14:30:15Z",
-          "url": "https://www.youtube.com/watch?v=z59xy3GvSrk"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "🔴PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE!",
+          "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
           "channel": "IShowSpeed",
           "category_id": "20",
-          "views": "64245321",
-          "likes": "812587",
-          "comments": "3754",
-          "published_at": "2026-11-19T17:07:45Z",
-          "url": "https://www.youtube.com/watch?v=qSyo5d-dVzA"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "‎⁨هيفرد جناحه هقصقصه",
-          "channel": "Hamo El Morshedy - Topic",
-          "category_id": "10",
-          "views": "62148",
-          "likes": "1676",
-          "comments": "145",
-          "published_at": "2026-11-18T19:08:14Z",
-          "url": "https://www.youtube.com/watch?v=3AslHJy7TqE"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "بث مباشر 🔴 وصلنا للمدينة والاجرام وسرقة البنوك في GTA 6🔥(الجزء الثاني)",
-          "channel": "LeOniDeS - مروان ريحان",
-          "category_id": "20",
-          "views": "316350",
-          "likes": "4651",
-          "comments": "21",
-          "published_at": "2026-11-19T20:50:05Z",
-          "url": "https://www.youtube.com/watch?v=ih59-eNjVA0"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "بتشبه عليا",
-          "channel": "Release - Topic",
-          "category_id": "10",
-          "views": "74280",
-          "likes": "501",
-          "comments": "2",
-          "published_at": "2026-11-18T10:17:56Z",
-          "url": "https://www.youtube.com/watch?v=0cH4sLKYdEM"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "صار عندنا بيبي جديد - عائلة عمر - جنه ورؤي - عائلة فله - العاب بنات",
-          "channel": "العاب فله - Fulla Games",
-          "category_id": "20",
-          "views": "29079",
-          "likes": "199",
-          "comments": "3",
-          "published_at": "2026-11-19T17:05:03Z",
-          "url": "https://www.youtube.com/watch?v=0mBsvjyVNWU"
+          "views": "35075492",
+          "likes": "385374",
+          "comments": "1011",
+          "published_at": "2026-11-20T13:49:37Z",
+          "url": "https://www.youtube.com/watch?v=hwSg39yIBGU"
         },
         {
           "source": "youtube_trending_eg",
           "title": "يعيش قلبي يموت غيره ( ساكت علي الحق تبقي شطان  _ عيون خضرا دا واد عسول ) حمو المرشدي",
           "channel": "Karizma Production",
           "category_id": "22",
-          "views": "42573",
-          "likes": "1294",
-          "comments": "134",
+          "views": "87021",
+          "likes": "1979",
+          "comments": "165",
           "published_at": "2026-11-19T16:50:33Z",
           "url": "https://www.youtube.com/watch?v=ixVqzVY5gHU"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "بداية جاتا ستة  | Grand Theft Auto VI",
-          "channel": "Karim Yl3b",
+          "title": "صار عندنا بيبي جديد - عائلة عمر - جنه ورؤي - عائلة فله - العاب بنات",
+          "channel": "العاب فله - Fulla Games",
           "category_id": "20",
-          "views": "322623",
-          "likes": "8625",
-          "comments": "79",
-          "published_at": "2026-11-19T00:04:37Z",
-          "url": "https://www.youtube.com/watch?v=dTo2cUsFIsA"
+          "views": "63485",
+          "likes": "399",
+          "comments": "6",
+          "published_at": "2026-11-19T17:05:03Z",
+          "url": "https://www.youtube.com/watch?v=0mBsvjyVNWU"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "Hamza Namira - Khaf [Official Lyrics Video] | حمزة نمرة - خاف",
-          "channel": "Hamza Namira",
+          "title": "‎⁨هيفرد جناحه هقصقصه",
+          "channel": "Hamo El Morshedy - Topic",
           "category_id": "10",
-          "views": "57771",
-          "likes": "2314",
-          "comments": "315",
-          "published_at": "2026-11-19T17:00:06Z",
-          "url": "https://www.youtube.com/watch?v=UKUJHjIFdtM"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اخيرا سيد فينيسيوس🤯عودة افضل ظهير ايسر في العالم🔥 |efootbal 2027",
-          "channel": "TONY GAMING",
-          "category_id": "20",
-          "views": "118642",
-          "likes": "12082",
-          "comments": "328",
-          "published_at": "2026-11-19T17:12:00Z",
-          "url": "https://www.youtube.com/watch?v=HtWifrW-eQ4"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "يا حبيبنا | ريدبُل مزيكا صالونات",
-          "channel": "Red Bull Sika - Topic",
-          "category_id": "10",
-          "views": "75329",
-          "likes": "348",
-          "comments": "0",
-          "published_at": "2026-11-17T15:50:54Z",
-          "url": "https://www.youtube.com/watch?v=PuHdEG02NSY"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "اخيرا قراند 6 | GTA 6 !! 😭",
-          "channel": "EstubeGaming",
-          "category_id": "20",
-          "views": "275035",
-          "likes": "7715",
-          "comments": "346",
-          "published_at": "2026-11-18T15:56:50Z",
-          "url": "https://www.youtube.com/watch?v=F0BFM9Wzyfo"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "شوفت يا قلبي اختياراتنا؟ شوفت انا وانت اتمرمطنا | السلطان وياسين محسن | Official Video Clip 2026",
-          "channel": "السلطان",
-          "category_id": "10",
-          "views": "92979",
-          "likes": "874",
-          "comments": "18",
-          "published_at": "2026-11-18T06:35:49Z",
-          "url": "https://www.youtube.com/watch?v=EXs6ekpYqBU"
+          "views": "82256",
+          "likes": "2116",
+          "comments": "148",
+          "published_at": "2026-11-18T19:08:14Z",
+          "url": "https://www.youtube.com/watch?v=3AslHJy7TqE"
         },
         {
           "source": "youtube_trending_eg",
           "title": "I Survived 100 Hours In GTA 6",
           "channel": "MrBeast Gaming",
           "category_id": "20",
-          "views": "7708559",
-          "likes": "177863",
-          "comments": "6575",
+          "views": "23879028",
+          "likes": "396932",
+          "comments": "11258",
           "published_at": "2026-11-19T18:00:01Z",
           "url": "https://www.youtube.com/watch?v=ymCHX_Dcc-U"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "كليب أغنية أيام مؤذية - محمد الريفي |   Clip Ayam Mo2zeya - Mohamed Rifi",
-          "channel": "سلطان الشن - Sultan Elshan",
+          "title": "بتشبه عليا",
+          "channel": "Release - Topic",
           "category_id": "10",
-          "views": "85186",
-          "likes": "1469",
-          "comments": "433",
-          "published_at": "2026-11-19T16:00:06Z",
-          "url": "https://www.youtube.com/watch?v=4PyGeuy7lC4"
+          "views": "92813",
+          "likes": "656",
+          "comments": "2",
+          "published_at": "2026-11-18T10:17:56Z",
+          "url": "https://www.youtube.com/watch?v=0cH4sLKYdEM"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "البحث عن اسرع مهاجم في اللعبة 🤯👑 تفجير بكج فينيسيوس جونيور و نونو ميندش 🔥 eFootball 27",
-          "channel": "HERO GAMING",
+          "title": "اخيرا سيد فينيسيوس🤯عودة افضل ظهير ايسر في العالم🔥 |efootbal 2027",
+          "channel": "TONY GAMING",
           "category_id": "20",
-          "views": "69384",
-          "likes": "7590",
-          "comments": "293",
-          "published_at": "2026-11-19T16:15:35Z",
-          "url": "https://www.youtube.com/watch?v=IYcGD8SdpYk"
+          "views": "195951",
+          "likes": "15618",
+          "comments": "376",
+          "published_at": "2026-11-19T17:12:00Z",
+          "url": "https://www.youtube.com/watch?v=HtWifrW-eQ4"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "الاميرة فيروز | دي حبيبتي | \"Habibti\" (My Beloved) 2026 Music Video",
-          "channel": "احمد الجمل",
+          "title": "Hamza Namira - Khaf [Official Lyrics Video] | حمزة نمرة - خاف",
+          "channel": "Hamza Namira",
           "category_id": "10",
-          "views": "15574",
-          "likes": "695",
-          "comments": "148",
-          "published_at": "2026-11-19T12:00:31Z",
-          "url": "https://www.youtube.com/watch?v=QTQVZiqrexQ"
+          "views": "81358",
+          "likes": "2811",
+          "comments": "358",
+          "published_at": "2026-11-19T17:00:06Z",
+          "url": "https://www.youtube.com/watch?v=UKUJHjIFdtM"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "بداية جاتا ستة  | Grand Theft Auto VI",
+          "channel": "Karim Yl3b",
+          "category_id": "20",
+          "views": "366150",
+          "likes": "9498",
+          "comments": "93",
+          "published_at": "2026-11-19T00:04:37Z",
+          "url": "https://www.youtube.com/watch?v=dTo2cUsFIsA"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "يا حبيبنا | ريدبُل مزيكا صالونات",
+          "channel": "Red Bull Sika - Topic",
+          "category_id": "10",
+          "views": "94109",
+          "likes": "456",
+          "comments": "0",
+          "published_at": "2026-11-17T15:50:54Z",
+          "url": "https://www.youtube.com/watch?v=PuHdEG02NSY"
         },
         {
           "source": "youtube_trending_eg",
           "title": "تختيم قراند 6 و بداية اسطورية | GTA 6",
           "channel": "شبكة العاب العرب | Arab Games Network",
           "category_id": "20",
-          "views": "1246080",
-          "likes": "43918",
-          "comments": "1971",
+          "views": "1669443",
+          "likes": "54310",
+          "comments": "2343",
           "published_at": "2026-11-19T09:59:39Z",
           "url": "https://www.youtube.com/watch?v=VUNnI_3B7no"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "شوفت يا قلبي اختياراتنا؟ شوفت انا وانت اتمرمطنا | السلطان وياسين محسن | Official Video Clip 2026",
+          "channel": "السلطان",
+          "category_id": "10",
+          "views": "110112",
+          "likes": "1034",
+          "comments": "21",
+          "published_at": "2026-11-18T06:35:49Z",
+          "url": "https://www.youtube.com/watch?v=EXs6ekpYqBU"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "البحث عن اسرع مهاجم في اللعبة 🤯👑 تفجير بكج فينيسيوس جونيور و نونو ميندش 🔥 eFootball 27",
+          "channel": "HERO GAMING",
+          "category_id": "20",
+          "views": "109636",
+          "likes": "9872",
+          "comments": "334",
+          "published_at": "2026-11-19T16:15:35Z",
+          "url": "https://www.youtube.com/watch?v=IYcGD8SdpYk"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "كليب أغنية أيام مؤذية - محمد الريفي |   Clip Ayam Mo2zeya - Mohamed Rifi",
+          "channel": "سلطان الشن - Sultan Elshan",
+          "category_id": "10",
+          "views": "151258",
+          "likes": "1940",
+          "comments": "463",
+          "published_at": "2026-11-19T16:00:06Z",
+          "url": "https://www.youtube.com/watch?v=4PyGeuy7lC4"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "اخيرا قراند 6 | GTA 6 !! 😭",
+          "channel": "EstubeGaming",
+          "category_id": "20",
+          "views": "327111",
+          "likes": "8530",
+          "comments": "365",
+          "published_at": "2026-11-18T15:56:50Z",
+          "url": "https://www.youtube.com/watch?v=F0BFM9Wzyfo"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "الاميرة فيروز | دي حبيبتي | \"Habibti\" (My Beloved) 2026 Music Video",
+          "channel": "احمد الجمل",
+          "category_id": "10",
+          "views": "24724",
+          "likes": "832",
+          "comments": "163",
+          "published_at": "2026-11-19T12:00:31Z",
+          "url": "https://www.youtube.com/watch?v=QTQVZiqrexQ"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "كونامي نزلت لاعب هكر في الديلي جيم !! 🤯🔥 وصلاح الهداف التاريخي في نجوم الأسبوع 😍☠️ || eFootball 27",
+          "channel": "OKATO GO",
+          "category_id": "20",
+          "views": "142809",
+          "likes": "7783",
+          "comments": "170",
+          "published_at": "2026-11-19T18:29:25Z",
+          "url": "https://www.youtube.com/watch?v=-ncpYNGafzs"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Mohamed Adaweya - Fe Qesto | محمد عدوية - في قصته",
           "channel": "Mohamed Adaweya - محمد عدوية",
           "category_id": "22",
-          "views": "57952",
-          "likes": "1458",
-          "comments": "123",
+          "views": "70609",
+          "likes": "1617",
+          "comments": "131",
           "published_at": "2026-11-18T16:00:08Z",
           "url": "https://www.youtube.com/watch?v=XsxUvqM38kA"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "GTA 6 Gameplay Walkthrough Part 1 FULL GAME [4K PS5 PRO] - No Commentary",
-          "channel": "MKIceAndFire",
-          "category_id": "20",
-          "views": "7340918",
-          "likes": "80545",
-          "comments": "9308",
-          "published_at": "2026-11-18T18:23:40Z",
-          "url": "https://www.youtube.com/watch?v=YDNs_sPEcJc"
+          "title": "Moscow X Yovel - Lessa (Official Audio) | موسكو ويوڤل - لسه",
+          "channel": "Moscow - موسكو",
+          "category_id": "10",
+          "views": "13076",
+          "likes": "909",
+          "comments": "94",
+          "published_at": "2026-11-19T19:10:43Z",
+          "url": "https://www.youtube.com/watch?v=5JU6PjSkmsw"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "عمر كمال - أنا فوق (من ألبوم سبنا بعض ليه) 2027",
-          "channel": "Omar Kamal",
-          "category_id": "10",
-          "views": "11651",
-          "likes": "387",
-          "comments": "98",
-          "published_at": "2026-11-19T16:06:05Z",
-          "url": "https://www.youtube.com/watch?v=VaGhjQnYksA"
+          "title": "Brawl Stars Championship 2026 | WORLD FINALS | DAY 1",
+          "channel": "Brawl Stars Esports",
+          "category_id": "20",
+          "views": "1236368",
+          "likes": "9466",
+          "comments": "99",
+          "published_at": "2026-11-20T12:26:18Z",
+          "url": "https://www.youtube.com/watch?v=XRAXvl3SH8I"
         }
       ]
     },
     {
-      "collected_at": "2026-11-20T00:27:49.164487+00:00",
+      "collected_at": "2026-11-20T15:09:02.484016+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-11-20T00:27:49.601447+00:00",
+      "collected_at": "2026-11-20T15:09:02.785781+00:00",
       "platform": "tiktok",
       "items": []
     }
