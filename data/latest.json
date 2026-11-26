@@ -1,249 +1,249 @@
 {
-  "generated_at": "2026-11-25T21:26:07.602292+00:00",
+  "generated_at": "2026-11-26T07:41:36.223640+00:00",
   "platforms": [
     {
-      "collected_at": "2026-11-25T21:26:08.121333+00:00",
+      "collected_at": "2026-11-26T07:41:36.804757+00:00",
       "platform": "google_trends",
       "items": [
         {
           "source": "google_trends_rss",
-          "term": "بي بي سي",
+          "term": "الولايات المتحدة",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "مسلسل عنبر الموت",
+          "term": "سرقة",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "بايرن ميونخ",
+          "term": "wetter",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "شاختار ضد فنربخشة",
+          "term": "погода",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "الفنانة سوسن بدر",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "avengers doomsday",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "cairo",
+          "term": "atlético madrid vs viking fk standings",
+          "traffic": "200+"
+        },
+        {
+          "source": "google_trends_rss",
+          "term": "luis suárez",
           "traffic": "100+"
         },
         {
           "source": "google_trends_rss",
-          "term": "losc – bayern",
+          "term": "بورجو أوزبيرك",
           "traffic": "200+"
         },
         {
           "source": "google_trends_rss",
-          "term": "inter vs vfb stuttgart",
-          "traffic": "200+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "sabah fk vs fc barcelona standings",
-          "traffic": "5000+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "psg",
-          "traffic": "500+"
-        },
-        {
-          "source": "google_trends_rss",
-          "term": "دواء",
-          "traffic": "200+"
+          "term": "انتر ميلان",
+          "traffic": "100+"
         }
       ]
     },
     {
-      "collected_at": "2026-11-25T21:26:08.257550+00:00",
+      "collected_at": "2026-11-26T07:41:36.952662+00:00",
       "platform": "youtube",
       "items": [
         {
           "source": "youtube_trending_eg",
-          "title": "Wegz - Diaa Diaa (Leila Bazet Khales Soundtrack) | ويجز - ضياء ضياء",
-          "channel": "Wegz - ويجز",
+          "title": "افتحولو اسوبتيفاي ( توب علي الليستات اجن - لفي بينا ) حمو المرشدي 2027 - توزيع اشرف مزيكا",
+          "channel": "Hamo ELMorshdy - حمو المرشدي",
           "category_id": "10",
-          "views": "381213",
-          "likes": "14342",
-          "comments": "1072",
-          "published_at": "2026-11-23T17:00:03Z",
-          "url": "https://www.youtube.com/watch?v=bVFPcwWwTcI"
+          "views": "113392",
+          "likes": "2383",
+          "comments": "336",
+          "published_at": "2026-11-24T15:35:10Z",
+          "url": "https://www.youtube.com/watch?v=8xCH3-kmZRM"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Avengers: Doomsday | Final Trailer | In Theaters December 18",
           "channel": "Marvel Entertainment",
           "category_id": "24",
-          "views": "52744754",
-          "likes": "1613887",
-          "comments": "93388",
+          "views": "55615723",
+          "likes": "1632686",
+          "comments": "94327",
           "published_at": "2026-11-23T14:00:01Z",
           "url": "https://www.youtube.com/watch?v=Wb8Tq_HD4E8"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "هدايا احتفالية برشلونة غدا للذكري السنوية 🔥🤯 احداث يوم الخميس !!😱|efootball 2026",
-          "channel": "من بره التمنتاشر",
-          "category_id": "26",
-          "views": "91901",
-          "likes": "7666",
-          "comments": "168",
-          "published_at": "2026-11-25T13:02:37Z",
-          "url": "https://www.youtube.com/watch?v=G_TLWIOq9D8"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "افتحولو اسوبتيفاي ( توب علي الليستات اجن - لفي بينا ) حمو المرشدي 2027 - توزيع اشرف مزيكا",
-          "channel": "Hamo ELMorshdy - حمو المرشدي",
-          "category_id": "10",
-          "views": "97630",
-          "likes": "2224",
-          "comments": "330",
-          "published_at": "2026-11-24T15:35:10Z",
-          "url": "https://www.youtube.com/watch?v=8xCH3-kmZRM"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "Avengers: Doomsday | New International Teaser Trailer | Get Your Tickets at TGV Now",
-          "channel": "TGV Cinemas",
-          "category_id": "22",
-          "views": "1438672",
-          "likes": "19826",
-          "comments": "689",
-          "published_at": "2026-11-25T00:19:00Z",
-          "url": "https://www.youtube.com/watch?v=g_5cTwVFU4k"
         },
         {
           "source": "youtube_trending_eg",
           "title": "عيشنا يوم كامل علي شط البحر- عائلة عمر - جنه ورؤي - عائلة فله - العاب بنات",
           "channel": "العاب فله - Fulla Games",
           "category_id": "20",
-          "views": "12083",
-          "likes": "85",
-          "comments": "1",
+          "views": "22980",
+          "likes": "108",
+          "comments": "2",
           "published_at": "2026-11-25T16:40:41Z",
           "url": "https://www.youtube.com/watch?v=k_OsQH-hXdQ"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Wegz - Diaa Diaa (Leila Bazet Khales Soundtrack) | ويجز - ضياء ضياء",
+          "channel": "Wegz - ويجز",
+          "category_id": "10",
+          "views": "403778",
+          "likes": "14583",
+          "comments": "1076",
+          "published_at": "2026-11-23T17:00:03Z",
+          "url": "https://www.youtube.com/watch?v=bVFPcwWwTcI"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "Avengers: Doomsday | New International Teaser Trailer | Get Your Tickets at TGV Now",
+          "channel": "TGV Cinemas",
+          "category_id": "22",
+          "views": "1683652",
+          "likes": "22097",
+          "comments": "737",
+          "published_at": "2026-11-25T00:19:00Z",
+          "url": "https://www.youtube.com/watch?v=g_5cTwVFU4k"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "GTA6 رجعت في كلامي وعملت مراجعة",
+          "channel": "1st Step Gaming",
+          "category_id": "20",
+          "views": "107895",
+          "likes": "4264",
+          "comments": "565",
+          "published_at": "2026-11-25T17:53:24Z",
+          "url": "https://www.youtube.com/watch?v=dmYbQXKLFtQ"
         },
         {
           "source": "youtube_trending_eg",
           "title": "محمد رمضان - أسمر وحلاوته سماره / Mohamed Ramadan - Asmr w 7lawto Samaro",
           "channel": "Mohamed Ramadan I محمد رمضان",
           "category_id": "10",
-          "views": "541539",
-          "likes": "9088",
-          "comments": "1024",
+          "views": "564291",
+          "likes": "9313",
+          "comments": "1054",
           "published_at": "2026-11-24T15:59:44Z",
           "url": "https://www.youtube.com/watch?v=_Q11b7oiPZs"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "DLS27 | OFFICIAL TEASER TRAILER",
-          "channel": "firsttouchgames",
-          "category_id": "20",
-          "views": "295586",
-          "likes": "12315",
-          "comments": "1375",
-          "published_at": "2026-11-24T17:00:08Z",
-          "url": "https://www.youtube.com/watch?v=IBpHNWBSJXU"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "جربت كل مابات السيارات فى روبلوكس 😱 Roblox",
-          "channel": "Ahmed Aslan",
-          "category_id": "20",
-          "views": "27034",
-          "likes": "497",
-          "comments": "13",
-          "published_at": "2026-11-25T10:45:08Z",
-          "url": "https://www.youtube.com/watch?v=XSWggzTDK8Q"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "انا ربيت جروايا ( العباية علي البطل حكاية  ) مصطفي الجن و هادي الصغير - توزيع امجد الجوكر",
-          "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
-          "category_id": "10",
-          "views": "29414",
-          "likes": "599",
-          "comments": "27",
-          "published_at": "2026-11-24T16:00:08Z",
-          "url": "https://www.youtube.com/watch?v=mQ8cAFBf11A"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Avengers: Doomsday | “DESTINY” TRAILER CONCEPT | Marvel Studios",
           "channel": "MovieTrailers Entertainment",
           "category_id": "24",
-          "views": "1101764",
-          "likes": "9942",
-          "comments": "374",
+          "views": "1598471",
+          "likes": "14453",
+          "comments": "454",
           "published_at": "2026-11-25T14:30:01Z",
           "url": "https://www.youtube.com/watch?v=-htnBIywgfM"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اللي عنده اللبسه دي يحافظ عليها ببجي هتسحبها !؟ 😮 منشنات التيك توك #100 | ببجي موبايل",
-          "channel": "3lilio",
-          "category_id": "20",
-          "views": "76118",
-          "likes": "6310",
-          "comments": "232",
-          "published_at": "2026-11-24T19:30:10Z",
-          "url": "https://www.youtube.com/watch?v=C4aNHS2gjK0"
+          "title": "هدايا احتفالية برشلونة غدا للذكري السنوية 🔥🤯 احداث يوم الخميس !!😱|efootball 2026",
+          "channel": "من بره التمنتاشر",
+          "category_id": "26",
+          "views": "125296",
+          "likes": "8793",
+          "comments": "191",
+          "published_at": "2026-11-25T13:02:37Z",
+          "url": "https://www.youtube.com/watch?v=G_TLWIOq9D8"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Nabil - Ensani | نبيل - إنساني",
           "channel": "Free Music \"Nasr Mahrous\"",
           "category_id": "10",
-          "views": "71927",
-          "likes": "1418",
-          "comments": "323",
+          "views": "219339",
+          "likes": "2064",
+          "comments": "355",
           "published_at": "2026-11-25T14:00:08Z",
           "url": "https://www.youtube.com/watch?v=YTc_aEff5WE"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "DLS27 | OFFICIAL TEASER TRAILER",
+          "channel": "firsttouchgames",
+          "category_id": "20",
+          "views": "369137",
+          "likes": "13622",
+          "comments": "1475",
+          "published_at": "2026-11-24T17:00:08Z",
+          "url": "https://www.youtube.com/watch?v=IBpHNWBSJXU"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "قررت اقتل اقوي شخصيات مانجا جوجيتسو كايزن😈| Itadori Modulo In JJK Minecraft | part 2 |100 DAY",
+          "channel": "Joe Fadl | چوو فضل",
+          "category_id": "22",
+          "views": "68155",
+          "likes": "7929",
+          "comments": "715",
+          "published_at": "2026-11-25T16:05:32Z",
+          "url": "https://www.youtube.com/watch?v=5_I2G00PGmI"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "انا ربيت جروايا ( العباية علي البطل حكاية  ) مصطفي الجن و هادي الصغير - توزيع امجد الجوكر",
+          "channel": "مصطفي الجن و هادي الصغير - تيم الابداع",
+          "category_id": "10",
+          "views": "34001",
+          "likes": "638",
+          "comments": "28",
+          "published_at": "2026-11-24T16:00:08Z",
+          "url": "https://www.youtube.com/watch?v=mQ8cAFBf11A"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Dune: Part Three - Exclusive Teaser Trailer (2026) Timothée Chalamet, Zendaya, Robert Pattinson",
           "channel": "IGN",
           "category_id": "24",
-          "views": "1671916",
-          "likes": "12998",
-          "comments": "778",
+          "views": "1855637",
+          "likes": "13786",
+          "comments": "813",
           "published_at": "2026-11-24T17:00:37Z",
           "url": "https://www.youtube.com/watch?v=ErhPysTk6Jc"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "اشتغلت عامل كاشير فى سوبر ماركت ولكن الظابط قبض عليا 😱 scan or scam VR",
-          "channel": "Aslano",
+          "title": "اللي عنده اللبسه دي يحافظ عليها ببجي هتسحبها !؟ 😮 منشنات التيك توك #100 | ببجي موبايل",
+          "channel": "3lilio",
           "category_id": "20",
-          "views": "16791",
-          "likes": "212",
-          "comments": "12",
-          "published_at": "2026-11-25T10:30:10Z",
-          "url": "https://www.youtube.com/watch?v=z9ha18rcICA"
+          "views": "97022",
+          "likes": "7019",
+          "comments": "252",
+          "published_at": "2026-11-24T19:30:10Z",
+          "url": "https://www.youtube.com/watch?v=C4aNHS2gjK0"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "بخ انا جيتلك فينك بقا -إسلام كابونجا -Ana Gitlk Fenk BaA -Eslam Kabonga-Official Music 2026",
-          "channel": "جندوفلي البابا - ElGndofly",
+          "title": "انا علي ورقتي - اسلام كابونجا - كريم كريستيانو Eslam Kabonga-Karim Cristiano Official Music 2026",
+          "channel": "اسلام كابونجا - Eslam Kabonga ",
           "category_id": "10",
-          "views": "84514",
-          "likes": "1044",
-          "comments": "98",
-          "published_at": "2026-11-23T14:00:07Z",
-          "url": "https://www.youtube.com/watch?v=4flq92eiKL0"
+          "views": "21077",
+          "likes": "429",
+          "comments": "22",
+          "published_at": "2026-11-25T16:00:08Z",
+          "url": "https://www.youtube.com/watch?v=7fakONcOTi4"
         },
         {
           "source": "youtube_trending_eg",
           "title": "تريلر ريأكشن و تحليل لإعلان Avengers: Doomsday الأخير",
           "channel": "Amr Youssef",
           "category_id": "24",
-          "views": "9368",
-          "likes": "272",
+          "views": "9542",
+          "likes": "276",
           "comments": "28",
           "published_at": "2026-11-23T18:00:09Z",
           "url": "https://www.youtube.com/watch?v=im34PZubIco"
@@ -253,53 +253,75 @@
           "title": "نظرة اولية عن الشابتر السادس من بوبي بلاي تايم 🔥",
           "channel": "BLACK BON BON",
           "category_id": "20",
-          "views": "77300",
-          "likes": "5382",
-          "comments": "303",
+          "views": "111748",
+          "likes": "6441",
+          "comments": "333",
           "published_at": "2026-11-25T13:00:07Z",
           "url": "https://www.youtube.com/watch?v=8hi7wxapkeg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "شوفت الخيانة – مهرة | Shoft El Khiyana – Mahra Official Music Video 2026",
-          "channel": "المايسترو احمد شيكو",
+          "title": "بخ انا جيتلك فينك بقا -إسلام كابونجا -Ana Gitlk Fenk BaA -Eslam Kabonga-Official Music 2026",
+          "channel": "جندوفلي البابا - ElGndofly",
           "category_id": "10",
-          "views": "46489",
-          "likes": "5372",
-          "comments": "1704",
-          "published_at": "2026-11-23T16:30:08Z",
-          "url": "https://www.youtube.com/watch?v=wk3d_m-vPqE"
+          "views": "93250",
+          "likes": "1116",
+          "comments": "100",
+          "published_at": "2026-11-23T14:00:07Z",
+          "url": "https://www.youtube.com/watch?v=4flq92eiKL0"
         },
         {
           "source": "youtube_trending_eg",
           "title": "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
           "channel": "The Media Knights",
           "category_id": "24",
-          "views": "813209",
-          "likes": "19745",
-          "comments": "1777",
+          "views": "831894",
+          "likes": "20027",
+          "comments": "1788",
           "published_at": "2026-11-23T15:15:34Z",
           "url": "https://www.youtube.com/watch?v=LfIXOqxQCsg"
         },
         {
           "source": "youtube_trending_eg",
-          "title": "قررت اقتل اقوي شخصيات مانجا جوجيتسو كايزن😈| Itadori Modulo In JJK Minecraft | part 2 |100 DAY",
-          "channel": "Joe Fadl | چوو فضل",
-          "category_id": "22",
-          "views": "35021",
-          "likes": "5848",
-          "comments": "591",
-          "published_at": "2026-11-25T16:05:32Z",
-          "url": "https://www.youtube.com/watch?v=5_I2G00PGmI"
+          "title": "فتحنا الباكدج الجديد وجبنا حاجة من النوادر! 🔥😱 | PUBG Mobile",
+          "channel": "GhNewa",
+          "category_id": "20",
+          "views": "32924",
+          "likes": "1286",
+          "comments": "30",
+          "published_at": "2026-11-25T13:00:13Z",
+          "url": "https://www.youtube.com/watch?v=9mRJLI8KcnA"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "شوفت الخيانة – مهرة | Shoft El Khiyana – Mahra Official Music Video 2026",
+          "channel": "المايسترو احمد شيكو",
+          "category_id": "10",
+          "views": "50421",
+          "likes": "5448",
+          "comments": "1712",
+          "published_at": "2026-11-23T16:30:08Z",
+          "url": "https://www.youtube.com/watch?v=wk3d_m-vPqE"
+        },
+        {
+          "source": "youtube_trending_eg",
+          "title": "جربت كل مابات السيارات فى روبلوكس 😱 Roblox",
+          "channel": "Ahmed Aslan",
+          "category_id": "20",
+          "views": "32430",
+          "likes": "567",
+          "comments": "13",
+          "published_at": "2026-11-25T10:45:08Z",
+          "url": "https://www.youtube.com/watch?v=XSWggzTDK8Q"
         },
         {
           "source": "youtube_trending_eg",
           "title": "Maha Ftouni - A7lam Ma Tha2a2etsh (Official Lyric Video) | مهى فتوني - أحلام ما تحققتش",
           "channel": "Maha Ftouni",
           "category_id": "10",
-          "views": "381779",
-          "likes": "9443",
-          "comments": "773",
+          "views": "415889",
+          "likes": "9905",
+          "comments": "784",
           "published_at": "2026-11-23T16:00:07Z",
           "url": "https://www.youtube.com/watch?v=P75M-E7KhGs"
         },
@@ -308,43 +330,21 @@
           "title": "وأخيراا وصلت اعلي ريت في اللعبه .. كل اللاعبين 110 🔥!",
           "channel": "MessiGaming10",
           "category_id": "20",
-          "views": "179806",
-          "likes": "10733",
-          "comments": "300",
+          "views": "243074",
+          "likes": "12331",
+          "comments": "321",
           "published_at": "2026-11-25T12:18:10Z",
           "url": "https://www.youtube.com/watch?v=maaLdSN3194"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "يعني نسيب دايرتنا ( شوفتها في الصوره مع شبشبها ) كريم كرستيانو - توزيع دولسي برودكشن Official Video",
-          "channel": "كريم كرستيانو - karim Cristiano",
-          "category_id": "10",
-          "views": "85708",
-          "likes": "1939",
-          "comments": "85",
-          "published_at": "2026-11-23T16:00:11Z",
-          "url": "https://www.youtube.com/watch?v=qm1DvhugX2Y"
-        },
-        {
-          "source": "youtube_trending_eg",
-          "title": "فتحنا الباكدج الجديد وجبنا حاجة من النوادر! 🔥😱 | PUBG Mobile",
-          "channel": "GhNewa",
-          "category_id": "20",
-          "views": "19096",
-          "likes": "1009",
-          "comments": "17",
-          "published_at": "2026-11-25T13:00:13Z",
-          "url": "https://www.youtube.com/watch?v=9mRJLI8KcnA"
         }
       ]
     },
     {
-      "collected_at": "2026-11-25T21:26:08.258416+00:00",
+      "collected_at": "2026-11-26T07:41:36.953422+00:00",
       "platform": "reddit",
       "items": []
     },
     {
-      "collected_at": "2026-11-25T21:26:08.505382+00:00",
+      "collected_at": "2026-11-26T07:41:37.291394+00:00",
       "platform": "tiktok",
       "items": []
     }
